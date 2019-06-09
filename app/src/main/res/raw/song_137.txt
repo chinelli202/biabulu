@@ -1,0 +1,22 @@
+<h>137. ZAMB' A NE NYE'AN</h>
+<t>Basa 43 - Mb 56</t>
+<v>1</v>
+		Zamb'a ne nye'an
+		Nnye a nga nyii ma
+		Zamb'a ne nye'an
+		A nye'e ma
+<cl1>M'abeta jô wo na</cl1>
+<c>Zamb'a ne nye'an</c>
+<c>Zamb'a ne nye'an</c>
+<c>A nye'e ma</c>
+<v>2</v>
+		Yésus Nyii wongan
+		A nga zu si nyô
+		Yésus Nyii wongan
+		A zu nyii ma
+<v>3</v>
+		M'akañe Zambe
+		Amu a nye'e ma
+		M'akañe Zambe
+		Melu mese
+<a>A.N.K</a>

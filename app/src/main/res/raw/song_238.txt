@@ -1,0 +1,29 @@
+<h>238. A BOT, MI KAÑANE YESUS</h>
+<t></t>
+<v>1</v>
+		A bôt mi kañane Yésus
+		Nnye a ne ngul ése (ése)
+		Zakan mi ve Nye biôm bise
+		A telé Nye Njô bôt
+<cl1>Telé'é fo'o Nye</cl1>
+<c>(Telé'é fo'o Nye Njô wongan)</c>
+<c>Telé'é fo'o Nye</c>
+<c>(Telé'é fo'o Nye Njô wongan)</c>
+<c>Telé'é fo'o Yésus a bo Njô Bôte wongan</c>
+<c>Telé'é fo'o Nye</c>
+<c>(Telé'é fo'o Nye Njô wongan)</c>
+<c>Telé'é fo'o Nye</c>
+<c>(Telé'é fo'o Nye Njô wongan)</c>
+<c>Telé'é fo'o Nye beta Njô</c>
+<c>(Nya Njôô wongan)</c>
+<v>2</v>
+		Tela'ane Yésus Beta Njôô
+		Ya jôô si nyô ése (ése)
+		Zakan mi ve Nye duma dé
+		A telé Nye Njô Bôt
+<v>3</v>
+		Yésus a jô meyoñ mese
+		Ejôé ya nnôm éto (éto)
+		Metyiñ mese me wumu'u nye
+		A telé Nye Njô Bôt
+<a>Ava Ava</a>

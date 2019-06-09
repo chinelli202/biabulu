@@ -1,0 +1,38 @@
+<h>233. M'ADANE SEME MVAME KRIST</h>
+<t>Basa 303</t>
+<v>1</v>
+		M'adañe semé mvame Krist
+		Môs a nga wu élé
+		A beta kôm ényiñe jam
+		Vôm me nga yiane wu
+		Etom y'abé ma me nga bo
+		Krist a nga ya'ane je
+		M'asemé beta mvame wé
+		Melu mese me too
+<cl1>M'asemé fo'o (M'asemé fo'o )</cl1>
+<c>M'asemé fo'o (M'asemé fo'o )</c>
+<c>M'asemé Tate Krist</c>
+<c>(M'asemé Tate Krist)</c>
+<c>M'asemé fo'o (M'asemé fo'o )</c>
+<c>M'asemé fo'o (M'asemé fo'o )</c>
+<c>Melu mese me to</c>
+<c>(Melu mese me to)</c>
+<v>2</v>
+		M'adañe semé mvame Krist
+		Afup Gethsemane
+		Vôm a nga dañe wô'ôlun
+		Mintaé amu awu
+		Emien ve jibi mam mete
+		Amu me yen ényiñ
+		M'asemé beta mvame wé
+		Melu mese me too
+<v>3</v>
+		M'adane semé mvame Krist
+		Vôm bi nga li'i étam
+		Ve lôm Nsisim vôm bi to
+		Nya Mvolô bôte bé
+		Vôm bi awulu si' se nyô
+		A tebe bia ôsu
+		M'asemé beta mvame wé
+		Melu mese me too
+<a>Ava Ava</a>

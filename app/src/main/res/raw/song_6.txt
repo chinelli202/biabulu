@@ -1,0 +1,23 @@
+<h>6. YESUS A TANEYA ME ETOM</h>
+<t>Tune : What a Wonderful Sdviour. Basa 10 - Baña 47</t>
+<v>1</v>
+		Yésus a tañeya ma étom
+		A nga nyii ma nya nyian
+		A nji ke kam ényiñejé
+		A nga nyii ma nya nyian
+<cl1>A nga nyii ma nya nyian</cl1>
+<c>Yésus, mone Zambe</c>
+<c>A nga nyii ma nya nyian</c>
+<c>Akéva, Zambe</c>
+<v>2</v>
+		A veya fo'o ma mfefénlem
+		A nga nyii ma nya nyian
+		A dipe ferma mbiamezem
+		A nga nyii ma nya nyian
+<v>3</v>
+		M' asemé fo'o jam a nga bo
+		A nga nyii ma nya nyian
+		id
+		M' akômbô na; a nyii fe wo
+		A nga nyii ma nya nyian
+<a>S.F.F</a>

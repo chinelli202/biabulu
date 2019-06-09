@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bia Bulu</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_song_category">SongCategoryActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="app_label">Bia Bulu</string>
+    <string name="search_hint">Numéro ou Titre du cantique</string>
+    <string name="category_more_delete">Supprimer</string>
+    <string name="add_to_playlist">Ajouter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_song_collection">SongCollectionActivity</string>
+    <string name="title_activity_playlist_collection">PlaylistCollection</string>
+    <string name="add_category">Ajouter</string>
+    <string name="cancel">Annuler</string>
+    <string name="new_category">Nouvelle Liste</string>
+    <string name="add_to">Ajouter à </string>
+    <string name="category_more_rename">Renomer</string>
+    <string name="cancel_category_crud_button">Annuler</string>
+</resources>

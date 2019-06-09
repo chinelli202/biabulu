@@ -1,0 +1,39 @@
+<h>252. ALLELUIA AMU KRÔA</h>
+<t>Tune : Halletujah for the cross</t>
+<v>1</v>
+		Krôa Krist é yeme fo'o!
+		Alleluia! Alleluia!
+		J'ajibi fo'o ôkôs!
+		Alleluia! Alleluia
+		Satan a jimbi je
+		Si nyô j'avini fe
+		Ve krôa te fô'ôsan
+		Alleluia amu krôa!
+<cl1>Alleluia!Alleluia!Alleluia amu krôa</cl1>
+<c>(Alleluia! Alleluia)</c>
+<c>Alleluia amu krôa! Alleluia amu krôa!</c>
+<c>Alleluia! Alleluia krôa éte é vo'o ku!</c>
+<c>(Alleluia ! Alleluia)</c>
+<c>(Alleluia! Alleluia é vo'o ku)</c>
+<c>Alleluia! Alleluia!</c>
+<c>Alleluia amu krôa</c>
+<c>Alleluia! Alleluia Krôa éte é vo'o ku</c>
+<v>2</v>
+		E tele fo'o a ngu
+		Alleluia! Alleluia
+		Bi akañete foé nyô
+		Alleluia! Alleluia
+		Zambe a liti mvam
+		A ve bia mone wé
+		A tune bia abé
+		Alleluia amu krôa
+<v>3</v>
+		Yésus a kôté bia
+		Alleluia! Alleluia
+		A be'e abé se
+		Alleluia! Alleluia
+		Bi tame yia mbamba jia
+		Yésus a nye'e bia
+		Njôô wongan Krist a vee
+		Alleluia amu krôa
+<a>M.E.H</a>

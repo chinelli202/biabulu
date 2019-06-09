@@ -1,0 +1,30 @@
+<h>258. BI ALOO WO A TAT</h>
+<t>Tune : Brahms' Lullaby</t>
+<v>1</v>
+		Bi aloo wo A Tat
+		Ba'ale bia môse wu
+		Nge meve'ele m'azu
+		Te me'ete na bi ku
+		Bi aloo wo A Tat
+		Ba'ale bia môse wu
+		Bi aloo wo A Tat
+		Ba'ale fo'o môse wu
+<v>2</v>
+		Bi aloo wo A Tat
+		Ba'ale bia ngum alu
+		Ja'ane dibi ne Viu
+		Nya Mba'ale a ne ngu
+		Bi aloo Wo A Tat
+		Ba'ale bia ngum alu
+		Bi aloo wo A Tat
+		Ba'ale fo'o ngum alu
+<v>3</v>
+		Bi aloo wo A Tat
+		Ba'ale bia bone bôé
+		Mame tyé a mame ngô'é
+		Wulu bia ve zen jôé
+		Bi aloo wo A Tat
+		Ba'ale bia bone bôé
+		Bi aloo wo A Tat
+		Ba'ale fo'o bone bôé
+<a>L.J.M</a>
