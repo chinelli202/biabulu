@@ -1,38 +1,40 @@
-<h>175. YE W' AKAÎ, Y' ATE'E D' ABI WO</h>
-<t>Tune : Art thou weary, art thou languid? Bfia 167 - Saf 536</t>
+<h>175. YE W'AKAT, Y'ATE'E D'ABI WO</h>
+<br> </br>
+<t>Tune : Art thou weary, art thou languid? Bafia 167 - SAF 536</t>
 <v>1</v>
-		Ye w'akat, y ate'e d'abi wo
-		Ye w'ayen abé
-		"Za!a be ma, a yen awo'an
-		Te fe njuk"
+		Ye w'akat, y'ate'e d'abi wo,
+		Ye w'ayen abé ?
+		"Za'a be Ma, a yen awo'an,
+		Te fe njuk."
 <v>2</v>
-		Za mendem a ye me liti
-		Nge a loene ma
-		"Mo mé a mebo ve ntuban
-		A mvaé jé"
+		Za mendem a ye me liti,
+		Nge A loene ma ?
+		"Mo mé a mebo ve ntuban,
+		A mvaé jé."
 <v>3</v>
-		Ye Kuron é bete nlô wé
-		Ane njôô a be'e
-		"Ya Kuron besiñ be nga ve nye
-		Nyô biyo"
+		Ye Kuron é bete nlô wé,
+		Ane njôô a be'e ?
+		"Ya Kuron besiñ be nga ve nye,
+		Nyô biyo."
 <v>4</v>
-		Nge m'atôñe fo'o nye si nyô
-		Za mam m'aye yen
-		"Nju' abui, bisaé, ékpwe'ele
-		Ja'an awu"
+		Nge m'atôñe fo'o Nye si nyô,
+		Za mam m'aye yen?
+		"Nju' abui, bisaé, ékpwe'ele,
+		Ja'an awu."
 <v>5</v>
-		Nge m'atabe fo'o nye bebé
-		A ye ve me jé
-		"Nju'u ve man, bisaé ve wotan
+		Nge m'atabe fo'o Nye bebé,
+		A ye ve me jé?
+		"Nju'u ve man, bisaé ve wotan,
 		te f' awu"
 <v>6</v>
-		Nge m'aja'é nnye vôm ya tabe
-		Y' a ye bene ma
+		Nge m'aja'é Nye vôm ya tabe
+		Y' A ye bene ma ?
 		"A nga ke a kôm éto jam
-		Yôp ete"
+		Yôp eté"
 <v>7</v>
-		Nge mt atoñ, a bo, a jibi
-		Ye me yene mvaé
-		"Bôte bé bese be kuiya
-		Be na, ya"
-<a>A.I.G</a>
+		Nge m'atoñ, a bo, a jibi,
+		Ye me yene mvaé ?
+		"Bôte bé bese be kuiya,
+		Be na, Ya."
+<br> </br>
+<a>Rev. Albert Irwin Good</a>

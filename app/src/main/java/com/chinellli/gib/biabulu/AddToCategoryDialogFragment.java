@@ -2,24 +2,24 @@ package com.chinellli.gib.biabulu;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
-import android.arch.lifecycle.Observer;
 import android.arch.lifecycle.ViewModelProviders;
-import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
 import android.support.v4.app.DialogFragment;
 import android.view.LayoutInflater;
-import android.widget.Toast;
+import android.view.View;
+import android.widget.AdapterView;
+import android.widget.Button;
+import android.widget.ListView;
 
 import com.chinellli.gib.biabulu.entities.Category;
-import com.chinellli.gib.biabulu.entities.ListedSong;
 
 import java.util.ArrayList;
 import java.util.List;
 
+import static android.app.Activity.RESULT_CANCELED;
 import static android.app.Activity.RESULT_OK;
 
 public class AddToCategoryDialogFragment extends DialogFragment {
@@ -39,9 +39,18 @@ CategoryLoadAdapter loadAdapter;
         AlertDialog.Builder builder =  new AlertDialog.Builder(getActivity());
         //content here
         LayoutInflater layoutInflater = getActivity().getLayoutInflater();
+        View view = (View)layoutInflater.inflate(R.layout.available_group_selection_layout,null);
+        builder.setView(view);
+
+        //Adding ListView and Button behavior
+        ListView listView = view.findViewById(R.id.available_groups_list);
+        Button button = (Button)view.findViewById(R.id.add_new_group_button);
+        button.setOnClickListener(view1 -> {
+            saveOnNewGroup();
+        });
         int songNum = (int)getArguments().get(SONG_NUMBER_KEY);
         categoryViewModel = ViewModelProviders.of(this).get(CategoryViewModel.class);
-        loadAdapter = new CategoryLoadAdapter(this.getContext(),new ArrayList<>());
+        loadAdapter = new CategoryLoadAdapter(this.getActivity(),new ArrayList<>());
         new AsyncTask<Integer,Void,Void>(){
 
             @Override
@@ -51,11 +60,34 @@ CategoryLoadAdapter loadAdapter;
                 for(int i = 0; i < listCat.size(); i++)
                     System.out.println("matching Category to add to : "+listCat.get(i).getName());
                 //loadAdapter.doSetup(listCat);
-                loadAdapter.addAll(listCat);
-                loadAdapter.notifyDataSetChanged();
+                getActivity().runOnUiThread(new Runnable() {
+
+                    @Override
+                    public void run() {
+                        // Stuff that updates the UI
+                        loadAdapter.addAll(listCat);
+                        loadAdapter.notifyDataSetChanged();
+
+                    }
+                });
+
                 return null;
             }
         }.execute(songNum);
+        listView.setAdapter(loadAdapter);
+
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                Category category = loadAdapter.getItem(i);
+                Intent intent = new Intent();
+                int songNumber = getArguments().getInt(SONG_NUMBER_KEY);
+                intent.putExtra(AddToCategoryDialogFragment.SELECTED_CATEGORY_ID,category.getId());
+                intent.putExtra(AddToCategoryDialogFragment.SONG_NUMBER_KEY,songNumber);
+                getTargetFragment().onActivityResult(GroupFragment.AVAILABLE_CATEGORIES_REQUEST, RESULT_OK, intent);
+                dismiss();
+            }
+        });
         /*categoryViewModel.findAllCategories().observe(this, new Observer<List<Category>>() {
             @Override
             public void onChanged(@Nullable List<Category> categories) {
@@ -63,22 +95,20 @@ CategoryLoadAdapter loadAdapter;
             }
         });*/
 
-        builder.setTitle(R.string.add_to)
-                .setView(layoutInflater.inflate(R.layout.new_category_fragment_dialog,null))
-                .setAdapter(loadAdapter, new DialogInterface.OnClickListener() {
-                    @Override
-                    public void onClick(DialogInterface dialogInterface, int i) {
-                        Category category = loadAdapter.getItem(i);
-                        //pass them results
-                        Intent intent = new Intent();
-                        int songNumber = getArguments().getInt(SONG_NUMBER_KEY);
-                        intent.putExtra(AddToCategoryDialogFragment.SELECTED_CATEGORY_ID,category.getId());
-                        intent.putExtra(AddToCategoryDialogFragment.SONG_NUMBER_KEY,songNumber);
-                        getTargetFragment().onActivityResult(SingleCategoryFragment.AVAILABLE_CATEGORIES_REQUEST, RESULT_OK, intent);
-                        //listener.OnCategorySelected(AddToCategoryDialogFragment.this,category);
-                    }
-                });
+         builder.setTitle(R.string.add_to);
+
         return builder.create();
+    }
+
+    private void saveOnNewGroup() {
+        //start addToGroupActivity -> onPositiveReturnResult, send intent with new category name
+        //new category creation + addition of song to that category.
+        int songNumber = getArguments().getInt(SONG_NUMBER_KEY);
+        Intent intent = new Intent();
+        intent.putExtra(AddToCategoryDialogFragment.SONG_NUMBER_KEY,songNumber);
+        //getTargetFragment().onActivityResult(GroupFragment.AVAILABLE_CATEGORIES_REQUEST, RESULT_CANCELED, intent);
+        getTargetFragment().onActivityResult(GroupFragment.AVAILABLE_CATEGORIES_REQUEST, RESULT_CANCELED, intent);
+        this.dismiss();
     }
 
     /*@Override

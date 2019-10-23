@@ -1,27 +1,30 @@
-<h>131. MOSE MBUNAN Ô N'ATEK</h>
+<h>131. MÔSE MBUNAN Ô N'ATEK</h>
+<br> </br>
 <t>Tune : He will hold me fast. Basa 06</t>
 <v>1</v>
-		Môse mbunan, ô n'atek
-		A Tat, bii' me wo
-		Môse Satan a bo fek
-		Tame bi me wo
-<cl1>Tame bi ma wo</cl1>
-<c>Tame bi me wo</c>
-<c>Yésus, w'aye ba'ale ma</c>
-<c>Tame bi ma wo</c>
+		Môse mbunan, ô n'atek,
+		A Tat, bii' me wo;
+		Môse Satan a bo fek,
+		Tame bi me wo.
+<br> </br>
+<c>Tame bi ma wo,</c>
+<c>Tame bi me wo,</c>
+<c>Yésus, W'aye ba'ale ma,</c>
+<c>Tame bi ma wo,</c>
 <v>2</v>
-		Mam m'abo me vo'o bo mvo'é
-		A Tat, bii' ma wo
-		Nye'an ô za bo avoé
-		Tame bi ma wo
+		Mam m'abo me vo'o bo mvo'é,
+		A Tat, bii' ma wo;
+		Nye'an ô za bo avoé,
+		Tame bi ma wo.
 <v>3</v>
-		Ô vo'o yebe na me jañ
-		A Tat, bii' ma wo
-		Ô nga kuse ma a tañ
-		Tame bi ma wo
+		Ô vo'o yebe na me jañ,
+		A Tat, bii' ma wo;
+		Ô nga kuse ma a tañ,
+		Tame bi ma wo.
 <v>4</v>
-		Me n'édima mise môé
-		A Tat, bii' ma wo
-		Ba w'anyii be ne émbôé
-		Tame bi ma wo
-<a>Rev. Jos. McNeill</a>
+		Me n'édima mise môé,
+		A Tat, bii' ma wo;
+		Ba W'anyii be ne émbôé,
+		Tame bi ma wo.
+<br> </br>
+<a>Rev. Joseph Mac Neill</a>

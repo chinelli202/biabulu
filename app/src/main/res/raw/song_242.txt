@@ -1,32 +1,35 @@
 <h>242. MÔSE WU Ô MBEME MAN</h>
+<br> </br>
 <t>Tune : Day is dying in the West. Basa 116</t>
 <v>1</v>
-		Môse wu ô mbeme man
-		Zamb' émien a ve awo'an
-		Za'a mi kañ te yen alu
-		E za bo'é belampe bé
-		Mfa'a ya yôp
-<cl1>Za'a mi kañe Zambe</cl1>
-<c>Nnye a ne yôp</c>
-<c>Yôp a si bi akañe wo</c>
-<c>Yôp a si bi akañe wo</c>
-<c>Nya Zambe fo'o</c>
+		Môse wu ô mbeme man.
+		Zamb' émien A ve awo'an
+		Za'a mi kañ te yen alu,
+		E za bo'é belampe bé,
+		Mfa'a ya yôp.
+<br> </br>
+<c>Za'a mi kañe Zambe,</c>
+<c>Nnye A ne yôp,</c>
+<c>Yôp a si bi akañe Wo,</c>
+<c>Yôp a si bi akañe Wo;</c>
+<c>Nya Zambe fo'o,</c>
 <v>2</v>
-		Zambe ya ényiñ ése
-		Zambe ya si nyô ése
-		Nyoñe' bia, bi ajeñe wo
-		Bi zu tabe vôm ô né
-		Wo ô ne va
+		Zambe ya ényiñ ése,
+		Zambe ya si nyô ése;
+		Nyoñe' bia, bi ajeñe Wo,
+		Bi zu tabe vôm Ô né;
+		Wo Ô ne va.
 <v>3</v>
 		An' alu d'ataté vin
-		Nye'ane wôé w'adutu bia
+		Nye'ane Wôé w'adutu bia
 		Liti'i bia étôto'o jôé
 		A n'ateté e ne yôp
-		Za'a kui minlem
+		Za'a kui minlem.
 <v>4</v>
 		Môs awu d'adipe mis
 		Bi te yen ateté yôp
 		Tate Zambe, yebe' na
-		Mis me yene wo asu
-		Melu mese
+		Mis me yene Wo asu
+		Melu mese.
+<br> </br>
 <a>Mrs F. N. White</a>

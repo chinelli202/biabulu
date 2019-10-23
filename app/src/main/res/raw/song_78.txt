@@ -1,35 +1,37 @@
-<h>78. YESUS, M' ANYE'E JOE DôE</h>
+<h>78. YÉSUS, M'ANYE'E JÔÉ DÔÉ</h>
+<br> </br>
 <t>Tune : Jesus, Thy Name I love. Basa 249</t>
 <v>1</v>
-		Yésus, m'anye'e jôé dôé
-		D'adañe môé mese
-		Yésus Nyii wom
-		O ne ma mam mese
-		Me te bi jam afe
-		Me bili wo étam
-		Yésus Nyii wom
+		Yésus, m'anye'e jôé dôé,
+		D'adañe môé mese,
+		Yésus Nyii wom;
+		Ô ne ma mam mese,
+		Me te bi jam afe,
+		Me bili Wo étam,
+		Yésus Nyii wom.
 <v>2</v>
-		Wo, Mona Zambe fo'o
-		Wo, ô nga kuse ma
-		Yésus Nyii wom
-		Ngo'o beta nye'ane wôé
-		M'asemé fo'o ve Wo
+		Wo, Mona Zambe fo'o,
+		Wo, Ô nga kuse ma,
+		Yésus Nyii wom;
+		Ngo'o beta nye'ane wôé!
+		M'asemé fo'o ve Wo,
 		W'anye'e ma nnôm éto
-		Yésus Nyii wom
+		Yésus Nyii wom.
 <v>3</v>
-		Nge m'aye mate;njuk
-		Wo W'aye Volô ma
-		Yésus Nyii wom
-		A tabe nlame wôé
+		Nge m'aye mate njuk,
+		Wo W'aye volô ma,
+		Yésus Nyii wom;
+		A tabe nlame wôé.
 		Jé m'aye wô' abé ?
-		Wo, ô ne fo'o be ma
-		Yésus Nyii wom
+		Wo, Ô ne fo'o be ma,
+		Yésus Nyii wom.
 <v>4</v>
-		Môs w'aye beta so
-		Me m'aye yene mvaé
-		Yésus Nyii wom
-		Ve yene wo asu
-		A bo fe ane wo
-		A tabe nlame wôé
-		Yésus Nyii wom
-<a>Mrs A.I.G.</a>
+		Môs w'aye beta so,
+		Me m'aye yene mvaé,
+		Yésus Nyii wom;
+		Ve yene Wo asu,
+		A bo fe ane Wo,
+		A tabe nlame wôé,
+		Yésus Nyii wom.
+<br> </br>
+<a>Madame Albert Irwin Good</a>

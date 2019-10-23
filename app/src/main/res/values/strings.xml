@@ -5,6 +5,7 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="title_categories">Listes</string>
     <string name="app_label">Bia Bulu</string>
     <string name="search_hint">Numéro ou Titre du cantique</string>
     <string name="category_more_delete">Supprimer</string>
@@ -19,4 +20,6 @@
     <string name="add_to">Ajouter à </string>
     <string name="category_more_rename">Renomer</string>
     <string name="cancel_category_crud_button">Annuler</string>
+    <string name="add_new_category_button_text">Nouvelle Playlist</string>
+    <string name="no_category_text">Aucune categorie</string>
 </resources>

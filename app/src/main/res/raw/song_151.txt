@@ -1,22 +1,25 @@
-<h>151. ENYIÑE JAM, A NLEME WOM</h>
-<t>Tune : I'll live for Him. Basa 22 - Bfia 46</t>
+<h>151. ÉNYIÑE JAM, A NLEME WOM</h>
+<br> </br>
+<t>Tune : I'll live for Him. Basa 22 - Bafia 46</t>
 <v>1</v>
-		Enyiñe jam a nleme wom
-		M'akee wo bie, a Yésus wom
-		M'akômbô bo zôsô, a mvo'é
-		Nyii wom a Zambe wom
-<cl1>Amu Yésus nnye a nga wu</cl1>
-<c>M'ayene mvaé melu mese</c>
-<c>Amu Yésus nnye a nga wu</c>
-<c>Nyii wom a Zambe wom</c>
+		Enyiñe jam a nleme wom,
+		M'akee wo bie, a Yésus wom,
+		M'akômbô bo zôsô, a mvo'é,
+		Nyii wom a Zambe wom.
+<br> </br>
+<c>Amu Yésus Nnye A nga wu,</c>
+<c>M'ayene mvaé melu mese,</c>
+<c>Amu Yésus Nnye A nga wu,</c>
+<c>Nyii wom a Zambe wom.</c>
 <v>2</v>
-		Eyoñe ji m'abuni na
-		Ô veya fo'o me mba ényiñ
-		Nde volô'ô ma me tabe ntye
-		Nyii wom a Zambe wom
+		Eyoñe ji m'abuni na,
+		Ô veya fo'o me mba ényiñ;
+		Nde volô'ô ma me tabe ntye,
+		Nyii wom a Zambe wom.
 <v>3</v>
-		A Yésus wom m'ayi ve Wo
-		Tabe'e be ma melu mese
-		M'akômbô na, me bo mfuban
-		Nyii wom a Zambe wom
-<a>Mrs A.N.K</a>
+		A Yésus wom m'ayi ve Wo,
+		Tabe'e be ma melu mese.
+		M'akômbô na, me bo mfuban,
+		Nyii wom a Zambe wom.
+<br> </br>
+<a>Mrs A.N. Krug</a>

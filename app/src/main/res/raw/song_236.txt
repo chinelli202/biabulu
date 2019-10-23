@@ -1,20 +1,23 @@
-<h>236. NLOEN W' AZU</h>
+<h>236. NLOEN W'AZU BE BÔT</h>
+<br> </br>
 <t>Tune : Send the ligth. Basa 302 - Mb 306</t>
 <v>1</v>
 		Nloen w'azu be bôt be to si nyô ése
-		Volô'ô bia, volô'ô bia
-		Vôm ate minsisim mi ayene mvaé
-		Volô'ô bia, volô'ô bia
-<cl1>Lôm' éfufup, lôme' je é faé</cl1>
-<c>Lôme je, é faé be bia</c>
+		Volô'ô bia, volô'ô bia.
+		Vôm ate minsisim mi ayene mvaé.
+		Volô'ô bia, volô'ô bia.
+<br> </br>
+<c>Lôm' éfufup, lôme' je é faé (bis)</c>
+<c>Lôme je, é faé be bia 		(bis)</c>
 <v>2</v>
 		Nloen w'aso be bôt be to mesi mefe
-		Volô'ô bia, volô'ô bia
-		Mba ésaé a yañge bia mfa'a ya wôé
-		Volô'ô bia, volô'ô bia
+		Volô'ô bia, volô'ô bia.
+		Mba ésaé a yañge bia mfa'a ya wôé,
+		Volô'ô bia, volô'ô bia.
 <v>3</v>
 		Nde bi bo te wo'an ve bo ésaé ya nye'an
-		Volô'ô bia, volô'ô bia
+		Volô'ô bia, volô'ô bia.
 		Bi ve dutu bôt be yene zen y'ényiñ
-		Volô'ô bia, volô'ô bia
-<a>Mrs A. N. K</a>
+		Volô'ô bia, volô'ô bia.
+<br> </br>
+<a>Mrs Adolf N. Krug</a>

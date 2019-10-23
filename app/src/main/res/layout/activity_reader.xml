@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.chinellli.gib.biabulu.SongCollectionActivity">
-    <include layout="@layout/content_song_collection" />
+    tools:context="com.chinellli.gib.biabulu.ReaderActivity">
+    <include layout="@layout/content_reader" />
 
 </android.support.design.widget.CoordinatorLayout>

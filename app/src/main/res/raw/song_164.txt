@@ -1,33 +1,35 @@
-<h>164. A BOTE BE ZAMBE, Ml BUNI'IVE</h>
-<t>Tune : How fihm a foundation. Basa 72 - Mb 32 - Bfia 180</t>
+<h>164. A BOTE BE ZAMBE, MI BUNI'I VE NYE</h>
+<br> </br>
+<t>Tune : How firm a foundation. Basa 72 - Mb 32 - Bafia 180</t>
 <v>1</v>
-		A bôte be Zambe, mi buni'i ve nye
-		Mi bili nya mbunan, ô ne fo'o été
-		Za jam a ye beta fe jô bôte bé
-		Mia bôt mi nga buni a tabe be nye (bis)
+		A bôte be Zambe, mi buni'i ve nye,
+		Mi bili nya mbunan, ô ne fo'o été;
+		Za jam a ye beta fe jô bôte bé,
+		Mia bôt mi nga buni a tabe be nye ? (bis)
 <v>2</v>
-		O bo'o te fe mate, te bo fe atek
-		Amu me ne Zambe, me ngenan be wo
-		Mamien m' aye volô, a bi fo'o wo ngu
-		Wo wom w' aye bete wo vôm w' aye ku (bis)
+		Ô bo'o te fe mate, te bo fe atek,
+		Amu Me ne Zambe, Me ngenan be wo;
+		Mamien M'aye volô, a bi fo'o wo ngu,
+		Wo Wom w'aye bete wo vôm w'aye ku (bis)
 <v>3</v>
-		Nge ma m' aye lo wo, ô tôbane njuk
-		Asôé ya ôlun te fe yandane wo
-		Amu m'aye botane nju'u wôé ôse
-		Ô yene ve mvae amu me ne be wo (bis)
+		Nge Ma M'aye lo wo, ô tôbane njuk,
+		Asôé ya ôlun te fe yandane wo;
+		Amu M'aye botane nju'u wôé ôse,
+		Ô yene ve mvae amu Me ne be wo. (bis)
 <v>4</v>
-		Meve'ele ya si nyô me nto fo'o abui
-		Ve ma m' aye ve ngul ya jibi mese
-		Te beta ko wôn, m'aye kôme wo nlem
-		A vaa wo ésôm, ali'i ve nya étyé (bis)
+		Meve'ele ya si nyô me nto fo'o abui,
+		Ve Ma m'aye ve ngul ya jibi mese;
+		Te beta ko wôn, M'aye kôme wo nlem,
+		A vaa wo ésôm, a li'i ve nya étyé. (bis)
 <v>5</v>
-		Eyoñ w'aye yômbô, a bo nnôme môt
-		Ô buni'i ve nye'an me nga taté nye'e wo
-		To nyup, to asuk, to atek, te k' ajô
-		Me m'aye wo be'e ane ntômba m'anye'e (bis)
+		Eyoñ w'aye yômbô, a bo nnôme môt,
+		Ô buni'i ve nye'an Me nga taté nye'e wo;
+		To nyup, to asuk, to atek, te k'ajô,
+		Me M'aye wo be'e ane ntômba M'anye'e. (bis)
 <v>6</v>
-		Nge môt a nga buni, abo môte wom
-		Ye ma me ne li'i nye minziziñ été
-		Akôsa bo Satan émien ve ngu
-		Ma m'aye ke jô'é nye, ve bi nnôm éto (bis)
-<a>A.I.G</a>
+		Nge môt a nga buni, a bo môte wom,
+		Ye Ma Me ne li'i nye minziziñ été ?
+		Akôsa bo Satan émien a ve ngu
+		Ma M'aye ke jô'é nye, ve bi nnôm éto. (bis)
+<br> </br>
+<a>Rev. Albert Irwin Good</a>

@@ -1,4 +1,5 @@
 <h>21. NGE MOT A WULU ZÔSÔ</h>
+<br> </br>
 <t>Tune : Harfenklange. Basa 278</t>
 <v>1</v>
 		Nge môt a wulu zôsô
@@ -27,4 +28,5 @@
 		Nlame Zambe yôp
 		A kañe Tate Yésus
 		Melu mese y'ôsu
-<a>A.N. Klug</a>
+<br> </br>
+<a>Adolph N. Krug</a>

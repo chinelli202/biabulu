@@ -1,30 +1,32 @@
 <h>109. MBAMBA NLAM FO'O LE</h>
+<br> </br>
 <t>Tune : There is a happy land. Basa 259</t>
 <v>1</v>
-		Mbamba nlam fo'o le
-		Zamb'a n'été
+		Mbamba nlam fo'o le.
+		Zamb'A n'été:
 		Mbamba be bôte bé
-		Be to fe wôé
-		Yésus a nga k'ôsu
-		A kôm bôte bé bito
+		Be to fe wôé:
+		Yésus A nga k'ôsu,
+		A kôm bôte bé bito:
 		B'aye fo'o yene mvaé
-		Melu mese
+		Melu mese.
 <v>2</v>
-		Bôt be nji kone wôé
-		Te fe yi du
-		Be njj ko woñe wêé
-		Zac te fe kui
-		Zamb'émien a ye kôm
-		Mam mese ya nlapl ôte
+		Bôt be nji kone wôé,
+		Te fe yi du:
+		Be nji ko woñe wôé,
+		Zaé te fe kui;
+		Zamb'émien A ye kôm
+		Mam mese ya nlam ôte:
 		B'aye fo'o yene mvaé
-		Melu mese
+		Melu mese.
 <v>3</v>
-		Ziñ é ne momo wôé
-		Te fe abé
-		Minal, ayok ese
-		Te fe bo wôé
-		Bôt b'ake nlam ôte
-		B'aye bo mimfefé wôé
+		Ziñ é ne momo wôé,
+		Te fe abé.
+		Minal, ayok ése,
+		Te fe bo wôé:
+		Bôt b'ake nlam ôte,
+		B'aye bo mimfefé wôé;
 		B'aye fo'o yene mvaé
-		Melu mese
-<a>A.C.G</a>
+		Melu mese.
+<br> </br>
+<a>Rev. Adolphe Clément Good</a>

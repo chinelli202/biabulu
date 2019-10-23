@@ -1,24 +1,26 @@
-<h>188. BEBE YA BUNI</h>
-<t>Tune : Almost persuaded. Basa 30 - Saf 209</t>
+<h>188. BEBÉ YA BUNI</h>
+<br> </br>
+<t>Tune : Almost persuaded. Basa 30 - SAF 209</t>
 <v>1</v>
-		Bebé ya buni, bebé ya mem
-		Bebé ya nyoñe Yésus e nlem
-		Te beta kôlô va
-		Te beta jô nnye na
+		Bebé ya buni, bebé ya mem,
+		Bebé ya nyoñe Yésus e nlem;
+		Te beta kôlô va,
+		Te beta jô Nye na,
 		"A Yésus, môse mfe
-		M' azu, te bem"
+		M'azu, te bem".
 <v>2</v>
 		Bebé ya buni, za'a fo'o ve den
-		Bebé ya buni, te yale zen
-		Yésus a jô wo na
-		"A mon, ô za'a be ma
+		Bebé ya buni, te yale zen;
+		Yésus A jô wo na.
+		"A mon, Ô za'a be ma.
 		Satan te volô wo
-		Za'ak, te fe ben"
+		Za'ak, te fe ben."
 <v>3</v>
-		Bebé ya buni, jika'a zu dañ
-		Bebé ya buni, dulu ébañ
-		Mbaa Nsisim a za ke
-		Nloen te fe so be nye
-		Ngo'o môt a ne ve na
-		Bebé - ve jan
-<a>Mrs A.I.G</a>
+		Bebé ya buni, jika'a zu dañ,
+		Bebé ya buni, dulu ébañ ?
+		Mbaa Nsisim a za ke,
+		Nloen te fe so be Nye,
+		Ngo'o môt a ne ve na,
+		Bebé - ve jan !
+<br> </br>
+<a>Mrs Albert Irwin Good</a>

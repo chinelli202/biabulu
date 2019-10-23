@@ -1,4 +1,5 @@
 <h>157. A MONE NLAM YA BETHLEHEM</h>
+<br> </br>
 <t>Tune : O little town of Bethlehem. Basa 65</t>
 <v>1</v>
 		A mone nlam ya Bethléhem
@@ -27,4 +28,5 @@
 		Bi maneya buni fe
 		Za'a vômbi too, te kôlô va
 		A Tate Yésus Krist.
+<br> </br>
 <a>Mrs A.I.G.</a>

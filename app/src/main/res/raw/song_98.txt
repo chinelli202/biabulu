@@ -1,22 +1,25 @@
 <h>98. TE ME'ETE SATAN</h>
-<t>Tune : Yield not to temptation. Basa 255 - Bfia 10</t>
+<br> </br>
+<t>Tune : Yield not to temptation. Basa 255 - Bafia 10</t>
 <v>1</v>
-		Te me'ete Satan, ô za yen abé
-		Ô jika'a nye titan, a bo te fe zu
-		Bo'o mbane ya simesan ve  mame ya yôp
-		O lôbô' ve Yésus, a ye wulu wo mvo'é
-<cl1>Bo'o ve mbane ya ye'elan</cl1>
-<c>Mvolô nlem ô za wu ntuk</c>
-<c>A ye ve mam m'ayian</c>
-<c>A ye wulu wo mvo'é</c>
+		Te me'ete Satan, ô za yen abé,
+		Ô jika'a nye titan, a bo te fe zu;
+		Bo'o mbane ya simesan ve mame ya yôp,
+		Ô lôbô' ve Yésus, A ye wulu wo mvo'é.
+<br> </br>
+<c>Bo'o ve mbane ya ye'elan.</c>
+<c>Mvolô nlem ô za wu ntuk,</c>
+<c>A ye ve mam m'ayian,</c>
+<c>A ye wulu wo mvo'é.</c>
 <v>2</v>
 		Te fulane bôt b'abo mam me n'abé
-		Mbia nkobô te jibi te bo ézezam
-		Te vuane Zambe, bo'o bô bese mvam
-		O lôbô' ve Yésus, a ye wulu wo mvo'é
+		Mbia nkobô te jibi, te bo ézezam;
+		Te vuane Zambe, bo'o bô bese mvam,
+		Ô lôbô' ve Yésus, A ye wulu wo mvo'é.
 <v>3</v>
-		Môt a bo ve zôsô, Zambe a ne nye
-		Nge môt a ye buni, a ye fo'o kui yôp
-		Zambe a nga tiñeti mam an'a ye bo
-		O lôbô' ve Yésus, a ye wulu wo mvo'é
+		Môt a bo ve zôsô, Zambe A ne nye,
+		Nge môt a ye buni, a ye fo'o kui yôp;
+		Zambe A nga tiñeti mam an'a ye bo,
+		O lôbô' ve Yésus, A ye wulu wo mvo'é.
+<br> </br>
 <a>Rev. Melvin Frazer</a>

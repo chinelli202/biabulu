@@ -1,18 +1,21 @@
 <h>16. TATE WOME ZAMBE ANE AWU YAT</h>
+<br> </br>
 <t>Tune : I have a father in the Promised Land. Basa 277 & 289</t>
 <v>1</v>
 		Tate wome Zambe a ne awu yat (bis)
 		Emien a lo ma m'aye ke;
-		ve yene mvaé melu mese.
-<cl1>M'aye kôlô a koé nye awu yat (bis)</cl1>
+		ve yene mvaÃ© melu mese.
+<br> </br>
+<c>M'aye kÃ´lÃ´ a koÃ© nye awu yat (bis)</c>
 <c>Emien a lo ma m'aye ke;</c>
-<c>Ve yene mvaé melu mese.</c>
+<c>Ve yene mvaÃ© melu mese.</c>
 <v>2</v>
-		Nyii wom Yésus a ne awu yat (bis)
+		Nyii wom YÃ©sus a ne awu yat (bis)
 		Emien a lo ma m'aye ke;
-		Ve yene mvaé melu mese
+		Ve yene mvaÃ© melu mese.
 <v>3</v>
-		Mbamba éto a ne me nlam ya yôp (bis)
-		Yésus a lo ma m'aye ke;
-		Ve yene mvaé melu mese.
-<a>A.C.G.</a>
+		Mbamba Ã©to a ne me nlam ya yÃ´p (bis)
+		YÃ©sus a lo ma m'aye ke;
+		Ve yene mvaÃ© melu mese.
+<br> </br>
+<a>Rev. Adolph ClÃ©ment Good - Phd</a>

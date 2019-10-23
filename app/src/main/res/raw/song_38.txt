@@ -1,10 +1,11 @@
-<h>38. EYONE M'ASIMESAN ELE</h>
-<t>Tune : When I survey the Wondrous Cross. Basa 76 - Mb 36 - Bfia 31 - Saf 17</t>
+<h>38. ÉYONE M'ASIMESAN ÉLÉ</h>
+<br> </br>
+<t>Tune : When I survey the wondrous Cross. Basa 76 - Mb 36 - Bafia 31 - SAF 17</t>
 <v>1</v>
 		Eyoñe m'asimesan élé
 		Vôm be nga tyelé Yésus Krist
 		Mam ya si nyô me lô'tyôtyoé
-		Mam me nga bo m'awô'ôson
+		Mam me nga bo m'awô' ôson
 <v>2</v>
 		A Zambe, me'ete'e na me bo
 		Ve dañe kañ awu Yésus
@@ -20,4 +21,5 @@
 		Bi ne tyôtyoé ya ke ve nye
 		Vôm a nga liti nye'an a mvam
 		Me nto ve kee nye nleme wom.
-<a>W.S.L</a>
+<br> </br>
+<a>Dr. Wilmer Sanford Lehman</a>

@@ -1,18 +1,20 @@
-<h>30. A TAT, M' AYE'ELANE WO</h>
-<t>Tune : Take my life and Let It Be. Basa 189 -Mb 167- Bfia 162,- Saf2</t>
+<h>30. A TAT, M'AYE'ELANE WO</h>
+<br> </br>
+<t>Tune : Take my life and Let It Be. Basa 189 - Mb 167 - Bafia 162 - SAF 286</t>
 <v>1</v>
-		A Tat, m' aye'elang wo
-		Nyoñ' ényñe jam ése
+		A Tat, m' aye'elane wo
+		Nyoñ' ényiñe jam ése
 		Nyoñe' je melu mese
-		M'aye kan ve wo étam (bis)
+		M'aye kañ ve wo étam (bis)
 <v>2</v>
 		Nyoñe' fo'o mo mam, A Tat
 		Me bo mban ya bo ésaé
-		Tame nyoñe fe, mebo
+		Tame nyoñe fe mebo
 		Telé'é me ve zen ya yôp (bis)
 <v>3</v>
 		Nyoñe' tyiñ j'ayia bia
 		Ajô mvame mba'ale wom
 		Mam mese m'aso m'anyu
 		M'aye volô bôt minlem (bis)
+<br> </br>
 <a>Nlem ôse w'anye'e fo'o wo</a>

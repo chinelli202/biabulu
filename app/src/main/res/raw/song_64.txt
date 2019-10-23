@@ -1,13 +1,16 @@
-<h>64. BO' ESAE, BO' ESAE</h>
+<h>64. BO' ÉSAÉ, BO' ÉSAÉ</h>
+<br> </br>
 <t>Tune : To the work. Basa 17</t>
 <v>1</v>
 		Bo'ésaé bo'ésaé Zamb'a lo môt ase
 		Kele' bo ane Yésus émien a nga bo
-		Buni'i fo'o na émlen a ye ve ngule jé
+		Buni'i fo'o na émien a ye ve ngule jé
 		A ke bo ésaé jé, te fe kate njuk
-<cl1>Bo'ésaé, bo'ésaé, bo'ésaé, bo'ésaé</cl1>
-<c>Buni'i nye, mombô'ô fe</c>
-<c>A jibi akekui awu</c>
+<br> </br>
+<c>Bo'ésaé, bo'ésaé,</c>
+<c>bo'ésaé, bo'ésaé,</c>
+<c>Buni'i nye, mombô'ô fe,</c>
+<c>A jibi akekui awu.</c>
 <v>2</v>
 		Bo'ésaé, bo'ésaé, kele' kate mba foé
 		Bôt abui be za jañ te ke yem Esa wop
@@ -17,10 +20,11 @@
 		Bo'ésaé, bo'ésaé nya ésaé a n'abui
 		A ye ve bô bese vôm ya bo nye ésaé
 		Ba b'akate mbaa foé b'aye kui vôm ase
-		Teke môt a ye jô na, me ngenan te wôk
+		Teke môt a ye jô na : "me ngenan te wôk"
 <v>4</v>
 		Bo'ésaé bo'ésaé, amu môs w'aye so
 		A ye lo bôte bé be ke tabe be nye
 		A ye ve be mengômesan m'adañe mfuban
 		Amu mbunan a mbamba ésaé be nga bo
-<a>C. W. McC</a>
+<br> </br>
+<a>Rev. Charles Warner Mac Cleary</a>

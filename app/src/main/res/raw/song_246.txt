@@ -1,32 +1,35 @@
-<h>246. EYON MAM ABE M' AZU NYIIN MA NLEM</h>
+<h>246. ÉYON MAM ABÉ M'AZU NYIIN MA NLEM</h>
+<br> </br>
 <t>Tune : Nobody like Jesus</t>
 <v>1</v>
 		Eyoñ mam abé mi azu nyiin ma nlem
-		Nnyô a ne yeme me Yésus
-		A vaa abé' se éyoñ m'azu mem
-		Nnyô a ne tune ma Yésus
-<cl1>Nnyô a ne tune ma Yésus</cl1>
-<c>Nnyô a ne tune ma Yésus</c>
+		Nnyô A ne yeme me Yésus.
+		A vaa abé' se éyoñ m'azu mem;
+		Nnyô A ne tune ma Yésus.
+<br> </br>
+<c>Nnyô A ne tune ma Yésus</c>
+<c>Nnyô A ne tune ma Yésus.</c>
 <c>A vaa abé se éyoñ m'azu mem</c>
-<c>Nnyô a ne tune ma Yésus</c>
+<c>Nnyô A ne tune ma Yésus.</c>
 <v>2</v>
 		Nge mbia ôlun a zuya ma bi
-		Nnyô a ne yem a ne Yésus
-		To njuk to ôkon a volô abui
-		Nnyô a ne volô ve Yésus
+		Nnyô A ne yem a ne Yésus.
+		To njuk to ôkon a volô abui;
+		Nnyô A ne volô ve Yésus.
 <v>3</v>
-		Eyoñ nleme wom w'akobô abé
-		Nnyô a ne wôk a ne Yésus
-		A vaa mbia fek a ve ma énjé
-		Nnyô a ne kame ma, Yésus
+		Eyoñ nleme wom w'akobô abé,
+		Nnyô A ne wôk a ne Yésus.
+		A vaa mbia fek a ve ma énjé;
+		Nnyô A ne kame ma, Yésus.
 <v>4</v>
 		Eyoñ me n'atek a yale fe feñ
-		Nnyô a ve ngul a ne Yésus
-		A loene ma jôé, a zu fe ma jeñ
-		Nnyô a ne jamé, ve Yésus
+		Nnyô A ve ngul a ne Yésus.
+		A loene ma jôé, a zu fe ma jeñ;
+		Nnyô A ne jamé, ve Yésus.
 <v>5</v>
 		To zen é n'ayaé a nju' fe abui
-		Nnyô a ne wulu ma Yésus
-		Ja dé e n'ôsu, a m'aye fe kui
-		Nnyô a ne nyi ma ve Yésus.
+		Nnyô A ne wulu ma Yésus.
+		Ja dé e n'ôsu, a m'aye fe kui;
+		Nnyô A ne nyi ma ve Yésus.
+<br> </br>
 <a></a>

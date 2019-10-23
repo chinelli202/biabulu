@@ -1,17 +1,20 @@
 <h>120. ME NGA wÔ'Ô NYII WOM A LO MA</h>
-<t>Tune : Where He leads me. Basa 219 - Bña 127 - Saf 598</t>
+<br> </br>
+<t>Tune : Where He leads me. Basa 219 - Bafia 127 - SAF 598</t>
 <v>1</v>
-		Me nga wôô Nyii wom a loo ma (ter)
-		Za'a buni, buni, buni ma
-<cl1>Vôm ase émien a wulu (ter)</cl1>
-<c>M'aye tôñe, tôñe , tôñe nnye</c>
+		Me nga wôô Nyii wom A loo ma, (ter)
+		Za'a buni, buni, buni ma.
+<br> </br>
+<c>Vôm ase émien A wulu, (ter)</c>
+<c>M'aye tôñe, tôñe , tôñe Nnye.</c>
 <v>2</v>
-		M'aye bo ésaé a jô ma (ter)
-		M'aye bo je, bo je, vôm ase
+		M'aye bo ésaé A jô ma, (ter)
+		M'aye bo je, bo je, vôm ase.
 <v>3</v>
-		M'aye kate foé Yésus Krist (ter)
-		M'aye kate, kate, bô bese
+		M'aye kate foé Yésus Krist, (ter)
+		M'aye kate, kate, bô bese.
 <v>4</v>
-		A ye ve me mvam a duma (ter)
-		A ye liti, liti, mbamba zen
-<a>C.W. McC</a>
+		A ye ve me mvam a duma, (ter)
+		A ye liti, liti, mbamba zen.
+<br> </br>
+<a>Rev. Charles Warner Mac Cleary</a>

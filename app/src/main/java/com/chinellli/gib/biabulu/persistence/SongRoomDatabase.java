@@ -10,7 +10,7 @@ import com.chinellli.gib.biabulu.dao.ListedSongDao;
 import com.chinellli.gib.biabulu.entities.Category;
 import com.chinellli.gib.biabulu.entities.ListedSong;
 
-@Database(entities={Category.class,ListedSong.class}, version=1)
+@Database(entities={Category.class,ListedSong.class}, version=2)
 public abstract class SongRoomDatabase extends RoomDatabase {
 
     public abstract CategoryDao categoryDao();

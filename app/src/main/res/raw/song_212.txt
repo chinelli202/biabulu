@@ -1,29 +1,32 @@
 <h>212. ME KUIYA Sl YA MBA BIDI</h>
-<t>Tune : Beulah Land. Basa 268 - Mb 293 - Bfia 74</t>
+<br> </br>
+<t>Tune : Beulah Land. Basa 268 - Mb 293 - Bafia 74</t>
 <v>1</v>
-		Me kuiya si ya mba bidi
-		Afo'o y'été m'ataté bi
-		A vian w'afaé alu ba mos
-		M'a vak amu me nto mba si
-<cl1>A Paradis, mba Paradis</cl1>
-<c>Me kuiya nsa' ôsôé y'awu</c>
-<c>Me jaéya fombô kindi'i yat</c>
-<c>Vôm Yésus a nga kôme nda</c>
-<c>A yen étôto'o nsa' ôsôé</c>
-<c>Me ô fo'o mvô'ô ya nnôm éto</c>
+		Me kuiya si ya mba bidi,
+		Afo'o y'été m'ataté bi,
+		A vian w'afaé alu ba môs,
+		M'avak amu me nto mba si.
+<br> </br>
+<c>A Paradis, mba Paradis,</c>
+<c>Me kuiya nsa' ôsôé y'awu,</c>
+<c>Me jaéya fombô kindi'i yat,</c>
+<c>Vôm Yésus A nga kôme nda,</c>
+<c>A yen étôto'o nsa' ôsôé,</c>
+<c>Me lô fo'o mvô'ô ya nnôm éto.</c>
 <v>2</v>
-		Nyii wom azu a wulu ma
-		Bi alaane mba minlañe va
+		Nyii wom azu A wulu ma,
+		Bi alaane mba minlañe va;
 		A bi ma wo a dutu ma
-		Amu bi nto éwome ja
+		Amu bi nto éwome ja.
 <v>3</v>
-		M' awô'ô menyum ya mba bilé
-		Bi tele zañ y'afupe dé
+		M'awô'ô menyum ya mba bilé
+		Bi tele zañ y'afupe dé;
 		Bi awomelô ôsôé y'ényiñ
-		Mendim y'été m'ava'a m' évé
+		Mendim y'été m'ava'a m'évé.
 <v>4</v>
-		M'awô'ô metyiñ me so'o fo'o yap
-		Beange be kañe' Zambe wop
-		Be wumu'u Yésus Mone wé
-		Nnyô a nga ve ényiñe jé
+		M'awô'ô metyiñ me so'o fo'o yap.
+		Beange be kañe' Zambe wop,
+		Be wumu'u Yésus Mone wé,
+		Nnyô A nga ve ényiñe jé.
+<br> </br>
 <a>E.M.R</a>

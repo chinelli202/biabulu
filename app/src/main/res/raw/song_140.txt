@@ -1,22 +1,25 @@
 <h>140. A YE SO YÔP</h>
-<t>Tune : Jewels. Basa 83 - Mb 80 - Bfia 56 - Saf</t>
+<br> </br>
+<t>Tune : Jewels. Basa 83 - Mb 80 - Bafia 56 - SAF 135</t>
 <v>1</v>
 		A ye so yôp , a ye so yôp
 		Krist Yésus Nyii wongan
-		A ye jeñ bia, a ye nyii bia
-		Amu bi n'émbé
-<cl1>Bone bé b'aye tabe</cl1>
-<c>Aval ane ateté</c>
+		A ye jeñ bia, a ye nyii bia;
+		Amu bi n'émbé.
+<br> </br>
+<c>Bone bé b'aye tabe</c>
+<c>Aval ane ateté;</c>
 <c>B'aye faé nlame Zambe</c>
-<c>Amu be n'émbé</c>
+<c>Amu be n'émbé.</c>
 <v>2</v>
-		A ye kôan, a ye kôan
-		Bese nlame Zambe
-		A ye saé be, a ye nyii be
-		Amu be n'émbé
+		A ye kôan, a ye kôan,
+		Bese nlame Zambe,
+		A ye saé be, a ye nyii be,
+		Amu be n'émbé.
 <v>3</v>
-		Ba b'abuni, ba b'abuni
-		B'anye'e Tate Yésus
-		A ye nye'e be, a ye nyii be
-		Amu be n'émbé
-<a>M.H.K</a>
+		Ba b'abuni, ba b'abuni,
+		B'anye'e Tate Yésus,
+		A ye nye'e be, a ye nyii be,
+		Amu be n'émbé.
+<br> </br>
+<a>Matthew Henry Kerr</a>

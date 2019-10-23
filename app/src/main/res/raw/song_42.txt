@@ -1,23 +1,26 @@
-<h>42. MBAMBA TAT YESUS</h>
-<t>Tune : Fairest Lord Yesus. Basa 15</t>
+<h>42. MBAMBA TAT YÉSUS</h>
+<br> </br>
+<t>Tune : Fairest Lord Yesus. Basa 15 - SAF 52</t>
 <v>1</v>
-		Mbamba Tat Yésus
-		Njôô bôt ya si nyô ése
+		Mbamba Tat Yésus,
+		Njôô bôt ya si nyô ése,
 		Mone Zambe a Mone môt
-		wo, m'aye fo'o kañ
-		Wo ô ne mvaé ya nleme wom
+		Wo, m'aye buni.
+		Wo, m'aye fo'o kañ,
+		Wo Ô ne mvaé ya nleme wom.
 <v>2</v>
-		Mefup me ne abeñ
-		A mefan m' adañe mvaé
+		Mefup me ne abeñ,
+		A mefan m'adañe mvaé
 		Eyoñe su'u a noo bie mveñ
 		Yésus a dañ abeñ
 		Yésus a dañe mvaé
-		Amu a vaa ôlun ya nlem
+		Amu a vaa ôlun ya nlem.
 <v>3</v>
-		Vian ô ne mbamba jôm
-		Miel ô ne fe abeñ
-		A ateté e ne yôp été
-		Yésus a dañe faé
-		Yésus a n'étôtok
+		Vian ô ne mbamba jôm,
+		Miel ô ne fe abeñ,
+		A ateté e ne yôp été;
+		Yésus A dañe faé.
+		Yésus A n'étôtok
 		J'adañe biôm ya yôp bise.
-<a>A.I.G.</a>
+<br> </br>
+<a>Rev. Albert Irwin Good</a>

@@ -1,27 +1,30 @@
 <h>207. YE Ô JU'UYA, YE W'AWÔ'Ô MINTAE NLEM?</h>
+<br> </br>
 <t>Tune : Tell it to Jesus. Basa 267 - Bfia 165</t>
 <v>1</v>
-		Ye ô jutuya, ye w'awô'ô mintaé nlem
-		Kate'e de Yésus, kate'e de Yésus
-		Ye ôlun vi adañedañe bi wo
-		Kate'e de Yésus étam
-<cl1>Kate'e de Yésus, kate'e de Yésus</cl1>
-<c>Nnye a ye volô wo nlem</c>
-<c>Te ke môt mfe a yeme volô</c>
-<c>Kate'e de Yésus étam</c>
+		Ye ô ju'uya, ye w'awô'ô mintaé nlem ?
+		Kate'e de Yésus, kate'e de Yésus;
+		Ye ôlun vi adañedañe bi wo?
+		Kate'e de Yésus étam.
+<br> </br>
+<c>Kate'e de Yésus, kate'e de Yésus,</c>
+<c>Nnye A ye volô wo nlem</c>
+<c>Te ke môt mfe a yeme volô,</c>
+<c>Kate'e de Yésus étam.</c>
 <v>2</v>
-		Ye abé d'adañe zu wo bebé
-		Kate'e de Yésus, kate'e de Yésus
-		Ye w'asolé mam abé ô boya
-		Kate'e de Yésus étam
+		Ye abé d'adañe zu wo bebé ?
+		Kate'e de Yésus, kate'e de Yésus;
+		Ye w'asolé mam abé ô boya ?
+		Kate'e de Yésus étam.
 <v>3</v>
-		Ye w'amate beta nju'u ya si nyô
-		Kate'e de Yésus, kate'e de Yésus
+		Ye w'amate beta nju'u ya si nyô?
+		Kate'e de Yésus, kate'e de Yésus;
 		Ye w'atyelé nlem e yôp a sôan
-		Kate'e de Yésus étam
+		Kate'e de Yésus étam.
 <v>4</v>
 		Ye w'ajeñe nnyô a kômbô nyii wo
-		Kate'e de Yésus, kate'e de Yésus
-		Ye w'akômbô kui ayoñe Zambe
-		Kate'e de Yésus étam
-<a>F.O.E</a>
+		Kate'e de Yésus, kate'e de Yésus;
+		Ye w'akômbô kui ayoñe Zambe ?
+		Kate'e de Yésus étam.
+<br> </br>
+<a>Rev. F.O. Emerson</a>

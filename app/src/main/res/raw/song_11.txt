@@ -1,5 +1,6 @@
-<h>11. TAT, M'ANE'E FO'O WO</h>
-<t>Tune I Love Thy Kingdom, Lord. Basa 222 Bfia 6 - Ch</t>
+<h>11. A TAT, M'ANYE'E FO'O WO</h>
+<br> </br>
+<t>Tune : I Love Thy Kingdom, Lord. Basa 222 - Bfia 6</t>
 <v>1</v>
 		A Tat, m'anye'e fo'o wo
 		A Yésus Mone wôé
@@ -17,12 +18,13 @@
 		A buti fe be mo
 <v>4</v>
 		M'anye'e, fe ésaé jôé
-		O nga jô me na, Bô'ôk
+		Ô nga jô me na, Bô'ôk
 		M'aye bo mban ya bo ésaé
-		Akekui m' aye wu
+		Akekui m'aye wu
 <v>5</v>
 		Mam ya si nyô m'alôt
 		Ve mam ya yôp te lôt
 		Me lô mam ya yôp tañ anen
 		Amu Zamb'a n'été.
-<a>M.E</a>
+<br> </br>
+<a>Rev. Melvin Frazer</a>

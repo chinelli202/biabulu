@@ -1,23 +1,25 @@
-<h>216. YE YESUS A NGA VE METYI?</h>
-<t>Tune : Alas, and did my Saviour bleed. Basa 217- Bfia 51</t>
+<h>216. YE YÉSUS A NGA VE METYI?</h>
+<br> </br>
+<t>Tune : Alas, and did my Saviour bleed? Basa 217 - Bafia 51</t>
 <v>1</v>
-		Ye Yésus a nga ve metyi
-		Ye Tate a nga wu
-		Ye a nga telé ma étyi
-		M'avak, me nyiñeya fo'o (bis)
+		Ye Yésus A nga ve metyi?
+		Ye Tate A nga wu?
+		Ye A nga telé ma étyi?
+		M'avak, me nyiñeya fo'o. (bis)
 <v>2</v>
-		Y'amu abé ma me nga bo
-		Nde a nga tyel' élé
-		Etua mvam a nga zu bo
-		A ve ényiñe jé (bis)
+		Y'amu abé ma me nga bo,
+		Nde A nga tyel' élé?
+		Etua mvam A nga zu bo,
+		A ve ényiñe jé. (bis)
 <v>3</v>
-		Jôp e nga dim te beta faé
+		Jôp e nga dim te beta faé,
 		Alu ve vin ne viuu
-		An' a nga jibi mbia mintaé
-		Vôm a nga yôn a wu (bis)
+		An' A nga jibi mbia mintaé
+		Vôm A nga yôn a wu. (bis)
 <v>4</v>
-		Angônda jam, me wôéya mot
-		Me bili fo'o étom
-		Me se ke jom ya kôm étom
-		Ve buni Krist Nyii bôt (bis)
-<a>Rev. Meye me Nkpwele</a>
+		Angônda jam, me wôéya mot,
+		Me bili fo'o étom;
+		Me se ke jom ya kôm étom.
+		Ve buni Krist Nyii bôt. (bis)
+<br> </br>
+<a>Rev. Meye me Nkpwele Matthias</a>

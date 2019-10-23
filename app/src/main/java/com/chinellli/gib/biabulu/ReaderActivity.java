@@ -1,7 +1,6 @@
 package com.chinellli.gib.biabulu;
 
 import android.arch.lifecycle.ViewModelProviders;
-import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.DialogFragment;
@@ -11,7 +10,6 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
-import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -24,45 +22,51 @@ import com.chinellli.gib.biabulu.entities.ListedSong;
 
 import java.util.List;
 
-public class SongCollectionActivity extends FragmentActivity implements AddToCategoryDialogFragment.NoticeDialogListener{
+public class ReaderActivity extends FragmentActivity implements AddToCategoryDialogFragment.NoticeDialogListener{
 
     private static final int numSongs = 300;
+    public static final String GROUP_NAME = "GROUP_NAME";
     private ViewPager pager;
     private Toolbar toolbar;
     private CategoryViewModel categoryViewModel;
-    private SingleCategoryViewModel singleCategoryViewModel;
+    private GroupViewModel groupViewModel;
     private List<String> songList;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_song_collection);
+        setContentView(R.layout.activity_reader);
         toolbar = findViewById(R.id.toolbar);
         toolbar.inflateMenu(R.menu.song_menu);
-        singleCategoryViewModel = ViewModelProviders.of(this).get(SingleCategoryViewModel.class);
-        int position = getIntent().getIntExtra(SingleSongFragment.POSITION_CANTIQUE,0);
+        groupViewModel = ViewModelProviders.of(this).get(GroupViewModel.class);
+        categoryViewModel = ViewModelProviders.of(this).get(CategoryViewModel.class);
+        int position = getIntent().getIntExtra(SongReaderFragment.POSITION_CANTIQUE,0);
 
-        int groupCategory = getIntent().getIntExtra(SingleSongFragment.TARGETED_GROUP,-1);
+        int groupCategory = getIntent().getIntExtra(SongReaderFragment.TARGETED_GROUP,-1);
+        //toolbar.setTitle(R.string.title_home);
+
         pager = findViewById(R.id.activity_song_collection_viewpager);
         pager.setAdapter(new SongsPagerAdapter(getSupportFragmentManager()));
+
 
         new AsyncTask<Integer,Void,Void>(){
 
             @Override
             protected Void doInBackground(final Integer ...params){
+                customizeTitle(groupCategory);
                 if(params[0] < 0){
-                    songList = singleCategoryViewModel.getListSource();
+                    songList = groupViewModel.getListSource();
                 }
                 else{
 
-                    songList = singleCategoryViewModel.getSongs(params[0]);
+                    songList = groupViewModel.getSongs(params[0]);
                 }
+                //songList = groupViewModel.getSongs(params[0]);
                 pager.getAdapter().notifyDataSetChanged();
                 pager.setCurrentItem(position);
                 return null;
             }
         }.execute(groupCategory);
 
-        categoryViewModel = ViewModelProviders.of(this).get(CategoryViewModel.class);
 
 
         Menu menu = toolbar.getMenu();
@@ -87,8 +91,8 @@ public class SongCollectionActivity extends FragmentActivity implements AddToCat
     @Override
     public void OnCategorySelected(DialogFragment fragment, Category category) {
         ListedSong song = new ListedSong(pager.getCurrentItem(),category);
-        categoryViewModel.insertListedSong(song);
-        Toast.makeText(this.getApplicationContext(),"Ajouté à "+category.getName(),2000);
+        categoryViewModel.insertListedSong(song, this.getApplicationContext());
+        Toast.makeText(this.getApplicationContext(),"Ajouté à "+category.getName(),Toast.LENGTH_SHORT);
     }
 
     @Override
@@ -103,7 +107,7 @@ public class SongCollectionActivity extends FragmentActivity implements AddToCat
             super(fm);
         }
         //load datasource list : all songs or catetorized songs
-        //for each position for the pager, pass the song number at that index in the arraylist as an argument to SingleSongFragment.newInstance(int)
+        //for each position for the pager, pass the song number at that index in the arraylist as an argument to SongReaderFragment.newInstance(int)
 
 
         @Override
@@ -112,9 +116,9 @@ public class SongCollectionActivity extends FragmentActivity implements AddToCat
                 String songTitle = songList.get(position);
                 String tokens[] = songTitle.split("[.]");
                 position = Integer.valueOf(tokens[0])-1;
-                Fragment fragment = SingleSongFragment.newInstance(position);
+                Fragment fragment = SongReaderFragment.newInstance(position);
                 //Bundle args = new Bundle();
-                //args.putInt(SingleSongFragment.POSITION_CANTIQUE, position);
+                //args.putInt(SongReaderFragment.POSITION_CANTIQUE, position);
                 //fragment.setArguments(args);
                 return fragment;
         }
@@ -135,7 +139,22 @@ public class SongCollectionActivity extends FragmentActivity implements AddToCat
             position = Integer.valueOf(tokens[0])-1;
 
             return "Cantique " + (position + 1);
+            //return songTitle;
+            //return "merchand";
         }
+    }
+
+    private void customizeTitle(int index){
+        //String titleName;
+        if(index > 0){
+            //toolbar.setTitle(getIntent().getStringExtra(ReaderActivity.GROUP_NAME));
+            Category cat = categoryViewModel.findCategory(index);
+            if(cat!=null){
+                toolbar.setTitle(cat.getName());
+            }
+        }
+        else
+            toolbar.setTitle(R.string.app_label);
     }
 
     private class CustomPagerAdapter extends PagerAdapter{

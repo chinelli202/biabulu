@@ -1,23 +1,25 @@
 <h>82. AMU YESUS NNYE A NGA WU</h>
-<t>Tune : There is a fountain. Basa 247 - Mb - 131 - Bfia 53</t>
+<br> </br>
+<t>Tune : There is a fountain. Basa 247 - Mb 131 - Bafia 53</t>
 <v>1</v>
-		Amu Yésus nnye a nga wu
-		A tañe bô' bese
-		Ajô te, bôt be ne abé    }(bis)
-		B'ayiane ve jamban (ter) }
+		Amu Yésus Nnye a nga wu,
+		A tañe bô' bese,
+		Ajô te, bôt be ne abé,     }(bis)
+		B'ayiane ve jamban.  (ter) }
 <v>2</v>
-		Akôsabo me ne ñwuwup
-		A mvôl a ñwôane bôt
-		A ma mese mevo'abé    } (bis)
-		Yésus a tune ma (ter) }
+		Akôsabo me ne ñwuwup,
+		A mvôl a ñwôane bôt,
+		A ma mese mevo'abé,    } (bis)
+		Yésus a tune ma. (ter) }
 <v>3</v>
-		M'abuni Yésus, a nyii ma
-		A ve ma Mvolô nlem
-		M' anye'e nye melu mese } (bis)
-		Amu mvame jé (ter)		}
+		M'abuni Yésus, a nyii ma,
+		A ve ma Mvolô nlem,
+		M'anye'e Nye melu mese,  } (bis)
+		Amu mvame jé. (ter)	     }
 <v>4</v>
-		Akôsabo m'akôlô va
-		A bômbô soñe si
-		Nsisime wom w'aye fo'o nyiñ }(bis)
-		Nge me ne môte wé (ter) 	}
+		Akôsabo m'akôlô va,
+		A bômbô soñe si,
+		Nsisime wom w'aye fo'o nyiñ, }(bis)
+		Nge me ne môte wé. (ter)     }
+<br> </br>
 <a>Rev. Melvin Frazer</a>

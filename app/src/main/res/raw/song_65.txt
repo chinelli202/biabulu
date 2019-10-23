@@ -1,5 +1,6 @@
-<h>65. YESUS M' ABUNI WO</h>
-<t>Tune : My faith looks up to Thee. Basa 88 - Mb 223 - Bfia 33</t>
+<h>65. YÉSUS M'ABUNI WO</h>
+<br> </br>
+<t>Tune : My faith looks up to Thee. Basa 88 - Mb 223 - Bafia 33</t>
 <v>1</v>
 		Yésus m'abuni wo
 		Ô nga wu Kalvaire
@@ -24,4 +25,5 @@
 		Me za ko woñe wôé
 		Ba'ale ma nlam ya yôp
 		Melu mese
-<a>A.C.G</a>
+<br> </br>
+<a>Rev. Adolph Clement Good</a>

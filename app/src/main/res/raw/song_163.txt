@@ -1,22 +1,25 @@
-<h>163. M'AKAÑETE FOE YA NYII WONGAN</h>
+<h>163. M'AKAÑETE FOÉ YA NYII WONGAN</h>
+<br> </br>
 <t>Tune : The wonderful story</t>
 <v>1</v>
-		M' akañete foé ya Nyii wongan
-		Nnye a nga zu nyii bô bese
-		Nnye a nga zu wu ajô dangan
-		Nde m'aye fo'o kañete je
-<cl1>M' akañete foé ya Nyii wongan</cl1>
-<c>Foé' te teke fe jaye dañ</c>
-<c>M' aye kañete foé' te vôm bôt baye tabe</c>
-<c>Nde m'aye fo'o yene mvaé jé</c>
+		M'akañete foé ya Nyii wongan,
+		Nnye A nga zu nyii bô bese;
+		Nnye A nga zu wu ajô dangan
+		Nde m'aye fo'o kañete je.
+<br> </br>
+<c>M'akañete foé ya Nyii wongan,</c>
+<c>Foé' te teke fe jaye dañ;</c>
+<c>M'aye kañete foé' te vôm bôt baye tabe,</c>
+<c>Nde m'aye fo'o yene mvaé jé.</c>
 <v>2</v>
-		Yésus a nga so étôto'o jé
-		A n'a nga zu kuli metyi
-		Bi bili fo'o nkôtane wongan
-		Nyii wongan a nyiiya fo'o bia
+		Yésus A nga so étôto'o jé,
+		A n'a nga zu kuli metyi;
+		Bi bili fo'o nkôtane wongan,
+		Nyii wongan A nyiiya fo'o bia.
 <v>3</v>
-		A ngenan a wô'ô bôt éngôngo
-		A nye'ane wé é ne te man
-		A mvame jé j'aye fo'o yian
-		J'atune ma me bo mfumban
-<a>Mrs A.N.K</a>
+		A ngenan A wô'ô bôt éngôngo,
+		A nye'ane Wé é ne te man;
+		A mvame jé j'aye fo'o yian,
+		J'atune ma me bo mfumban.
+<br> </br>
+<a>Mrs Adolph N. Krug</a>

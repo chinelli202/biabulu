@@ -1,11 +1,13 @@
 <h>3. ZAMBA'A NGA BO MA MVAM</h>
+<br> </br>
 <t>Tune : I know Whom I have believed. Bassa 225 - Saf 270 - Bafia 68</t>
 <v>1</v>
 		Zamb'a nga bo ma mvam anen
 		Amu jé? me nji yem
 		An'a nga ve fe Mone wé
 		A dañe nye'e ma a jé?
-<cl1>Ve m'ayeme na m'abuni ve nye</cl1>
+<br> </br>
+<c>Ve m'ayeme na m'abuni ve nye</c>
 <c>M'abuni fo'o na, émien a ne ngu</c>
 <c>A ye tu'a ba'ale mam m'ave nye</c>
 <c>Akekui asu'ulan</c>
@@ -24,4 +26,5 @@
 		Môse mbé? me nji ke yem
 		Te yeme fe nge m'aye wu
 		Emien te tame so
-<a></a>
+<br> </br>
+<a>Rev. Melvin Frazer</a>

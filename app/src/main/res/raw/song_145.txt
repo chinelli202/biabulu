@@ -1,22 +1,25 @@
-<h>145. MAM MESE M'AVE FO'O YESUS</h>
-<t>Tune : I surrender. Basa 595 - Saf 292</t>
+<h>145. MAM MESE M'AVE FO'O YÉSUS</h>
+<br> </br>
+<t>Tune : I surrender. Basa 595 - SAF 292</t>
 <v>1</v>
-		Mam mese m'ave fo'o Yésus
-		Mam mese m'ave fo'o nnye
-		Te ke jam m'abo ve buni
-		Ma m'anye'e ve jésus wom
-<cl1>M'ave mam mese</cl1>
-<c>M'ave mam mese</c>
-<c>Mam mese m'ave fo'o Yésus</c>
-<c>M'ave mam mese</c>
+		Mam mese m'ave fo'o Yésus,
+		Mam mese m'ave fo'o Nye,
+		Te ke jam m'abo ve buni,
+		Ma m'anye'e ve Yésus wom.
+<br> </br>
+<c>M'ave mam mese,</c>
+<c>M'ave mam mese,</c>
+<c>Mam mese m'ave fo'o Yésus,</c>
+<c>M'ave mam mese.</c>
 <v>2</v>
-		Mam mese m'ave fo'o Yésus
-		Ma m'akañ ve nnye étam
-		M'aye sa'ale mam me satan
-		M'aye toñ ye Yésus wom
+		Mam mese m'ave fo'o Yésus,
+		Ma m'akañ ve Nye étam;
+		M'aye sa'ale mam me satan,
+		M'aye toñ ve Yésus wom.
 <v>3</v>
-		Mam mese m'aye fo'o yésus
-		A Tat m'ave wo mamien
-		Nyoñe'ma a ve m'ébotan
-		Mbaa Nsisim a jaé manlem
-<a>F.B Guthri</a>
+		Mam mese m'aye fo'o Yésus,
+		A Tat m'ave Wo mamien,
+		Nyoñe'ma a ve m'ébotan,
+		Mbaa Nsisim A jaé manlem.
+<br> </br>
+<a>Dr. F.B Guthrie</a>

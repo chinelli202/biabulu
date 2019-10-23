@@ -1,27 +1,30 @@
-<h>144. MÉJÔ ME ZAMBE, MME IW ALEP</h>
-<t>Tune : Move forward. Bfia 83</t>
+<h>144. MEJÔ ME ZAMBE, MME M'ALEP</h>
+<br> </br>
+<t>Tune : Move forward. Bafia 83</t>
 <v>1</v>
-		Mejô me Zambe, mme m'alep
-		Mezen w'ayiane ke mese
-		Mejô mese w'ayiane yem
-		A mam mese w'ayiane bo
-<cl1>Ô tindi'i, ô buni'i</cl1>
-<c>A ngul ése ya nlem</c>
-<c>Ô tindi'i, ô buni'i</c>
-<c>Môs ô za ji'a man</c>
+		Mejô me Zambe, mme m'alep,
+		Mezen w'ayiane ke mese;
+		Mejô mese w'ayiane yem,
+		A mam mese w'ayiane bo.
+<br> </br>
+<c>Ô tindi'i, ô buni'i,</c>
+<c>A ngul ése ya nlem;</c>
+<c>Ô tindi'i, ô buni'i,</c>
+<c>Môs ô za ji'a man .</c>
 <v>2</v>
-		Bôt be nji tu'a wô'ô mejô
-		Akôsa bô na, me ne mvaé
-		A bôt abui b'abo melo
-		B'adimi fe benya mejô'ô
+		Bôt be nji tu'a wô'ô mejô,
+		Akôsa bô na, me ne mvaé;
+		A bôt abui b'abo melo,
+		B'adimi fe benya mejô'ô.
 <v>3</v>
-		W'atabe tabe si a jé
-		Nge ô ne fo'o nya ñye'é wé
-		W'ayiane yaé a bo fe ngu
-		Nde buni'i fo'o a nlem ôse
+		W'atabe tabe si a jé,
+		Nge ô ne fo'o nya ñye'é wé ?
+		W'ayiane yaé a bo fe ngu,
+		Nde buni'i fo'o a nlem ôse.
 <v>4</v>
-		Awu d'azu, te bo éles
-		Ô bo'avôl ya kôme mam
-		Ô bo'o fe mban ya ke ôsu
-		Te beta 'lôbô mfa'a ya mvus
+		Awu d'azu, te bo éles,
+		Ô bo'avôl ya kôme mam.
+		Ô bo'o fe mban ya ke ôsu,
+		Te beta lôbô mfa'a ya mvus.
+<br> </br>
 <a>Rev. Melvin Frazer</a>

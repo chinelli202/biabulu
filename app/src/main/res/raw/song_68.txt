@@ -1,27 +1,30 @@
-<h>68. ME N' EÑWÔE, A TAT</h>
-<t>Tune : I am Thine, O Lord. Basa 304 - Bfia 125</t>
+<h>68. ME N'EÑWÔÉ, A TAT</h>
+<br> </br>
+<t>Tune : I am Thine, O Lord. Basa 304 - Bafia 125</t>
 <v>1</v>
 		Me n'éñwôé, A Tat, me nga wô' mba foé
-		A nga liti ma mvame jôé
-		Ve m'akômbô na, w'aye dutu ma
-		Me zu tabe wo bebé
-<cl1>Tame dutu, dutu ma A Tat</cl1>
-<c>Me ke Krôa vôm ô nga wu</c>
-<c>Tame dutu dutu, dutu ma A Tat</c>
-<c>Me zu tabe wo bebé</c>
+		A nga liti ma mvame jôé:
+		Ve m'akômbô na, W'aye dutu ma
+		Me zu tabe Wo bebé
+<br> </br>
+<c>Tame dutu, dutu ma A Tat,</c>
+<c>Me ke Krôa vôm ô nga wu;</c>
+<c>Tame dutu dutu, dutu ma A Tat,</c>
+<c>Me zu tabe wo bebé.</c>
 <v>2</v>
-		Tope ma A Tat, me bo wo esaé
-		Volô'ô ma, me za bo atek
+		Tope ma A Tat, me bo Wo esaé,
+		Volô'ô ma, me za bo atek;
 		Wulu'u ma ve mvo'é, va'a ma ngule jôé
-		Kame' ma melu mese
+		Kame'e ma melu mese.
 <v>3</v>
-		Me m'awô'avak, nlem w' ayene mvaé
-		A ne bia Yésus bi ne ñgbwa
-		A ne fo'o mvôé jam, a ne ma Mojañ
-		M'aye fo'o bo môte wé
+		Me m'awô'avak, nlem w'ayene mvaé
+		A ne bia Yésus bi ne ñgbwa;
+		A ne fo'o mvôé jam, a ne ma Mojañ,
+		M'aye fo'o bo môte wé.
 <v>4</v>
-		Me se ngule ya yem, nye'an a nye'e ma
-		Ve éyoñ m'akui nlame wé
+		Me se ngule ya yem, nye'an a nye'e ma,
+		Ve éyoñ m'akui nlame wé:
 		Vôm me too si nyô, me vo'o wô'avak
-		D'aye funan di ya yôp
-<a>A.I.G.</a>
+		D'aye funan di ya yôp.
+<br> </br>
+<a>Rev. Albert Irwin Good</a>

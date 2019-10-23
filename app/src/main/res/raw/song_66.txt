@@ -1,27 +1,30 @@
 <h>66. A YESUS WOM, M'ALOENE WO</h>
+<br> </br>
 <t>Tune : Take me as I am. Basa 242 -Mb 161 - Bfia 129 - Saf 262</t>
 <v>1</v>
-		A Yésus wom m'aloene wo
-		Nge w'aye bo te volô ma
-		Me nto ve wu a mam abé
-		A Tat, ô nyoñe' ma
-<cl1>A Tat, ô nyoñe' ma</cl1>
-<c>Ô bo'o ma mone wôé</c>
-<c>M' akômbô na ô nyii ma nlem</c>
-<c>A Tat, ô nyôñe ma</c>
+		A Yésus wom m'aloene wo.
+		Nge w'aye bo te volô ma.
+		Me nto ve wu a mam abé;
+		A Tat, ô nyoñe' ma.
+<br> </br>
+<c>A Tat, Ô nyoñe' ma,</c>
+<c>Ô bo'o ma mone Wôé;</c>
+<c>M'akômbô na Ô nyii ma nlem</c>
+<c>A Tat, Ô nyoñe ma</c>
 <v>2</v>
-		Ma me n'abé, me se fe ngu
-		Ve ô nga ve ényiñe jôé
-		A w'aye fubu nleme wom
-		A Tat, ô nyoñe ma
+		Ma me n'abé, me se fe ngu.
+		Ve Ô nga ve ényiñe jôé,
+		A w'aye fubu nleme wom;
+		A Tat, Ô nyoñe ma.
 <v>3</v>
-		Me se fe ngul ya bo mba jam
-		Ve tyame mam m'akômbô bo
-		Ve ô ne ngul ya nyii fo'o ma
-		O tame nyoñe ma
+		Me se fe ngul ya bo mba jam,
+		Ve tyame mam m'akômbô bo,
+		Ve Ô ne ngul ya nyii fo'o ma;
+		Ô tame nyoñe ma.
 <v>4</v>
-		M' akômbô yene wo asu
-		M'akômbô subu vôm ô né
-		Ve me n'atek amu abé
-		Ajô te nyoñe' ma
-<a>Mrs A. I. G</a>
+		M'akômbô yene Wo asu,
+		M'akômbô subu vôm Ô né,
+		Ve me n'atek amu abé;
+		Ajô te nyoñe' ma.
+<br> </br>
+<a>Madame Albert Irwin Good</a>

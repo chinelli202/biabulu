@@ -1,29 +1,32 @@
-<h>193. NYII WONGAN YESUS A NGA WU</h>
+<h>193. NYII WONGAN YÉSUS A NGA WU</h>
+<br> </br>
 <t>Tune : He lives</t>
 <v>1</v>
-		Nyii wongan Yésus a nga wu
-		A ve ényiñe jé
-		A vee, ajô te me ne mvo'é
-		A vee! nyô a nga wu
-<cl1>A wômôya fo'o a kôlô soñ</cl1>
-<c>A vee, a nyii m'éyoñe ji</c>
-<c>A vee, a to fe Zamb' a né</c>
-<c>A wulu ma a dise dé</c>
-<c>A vee, nde a ye nyoñe ma</c>
-<c>A m'aye yen émien asu</c>
+		Nyii wongan Yésus A nga wu,
+		A ve ényiñe jé;
+		A vee, ajô te me ne mvo'é,
+		A vee! Nyô A nga wu.
+<br> </br>
+<c>A wômôya fo'o a kôlô soñ</c>
+<c>A vee, A nyii m'éyoñe ji,</c>
+<c>A vee, A to fe Zamb'A né,</c>
+<c>A wulu ma a dise dé;</c>
+<c>A vee, nde A ye nyoñe ma,</c>
+<c>A m'aye yen émien asu.</c>
 <v>2</v>
-		Awu e nji ke dañe nye
-		Te ngul ya bi Nyii wom
-		A wômôya soñ a ngul ése
-		A vee! nyô a nga wu
+		Awu e nji ke dañe Nye,
+		Te ngul ya bi Nyii wom;
+		A wômôya soñ a ngul ése,
+		A vee! Nyô A nga wu.
 <v>3</v>
-		A to fe yôp éyoñe ji
-		A nyoñeya fe éto jé
-		A jalé ma a mvame jé
-		A vee! nyô a nga wu
+		A to fe yôp éyoñe ji,
+		A nyoñeya fe éto jé;
+		A jalé ma a mvame jé,
+		A vee! Nyô A nga wu.
 <v>4</v>
-		Nde môs éziñ a ye fe so
-		An' émien a nga jô
-		A nyoñe bôte bé bese
-		A vee! nyô a nga wu
-<a>G.A.S</a>
+		Nde môs éziñ A ye fe so,
+		An' émien A nga jô;
+		A nyoñe bôte bé bese,
+		A vee! Nyô A nga wu.
+<br> </br>
+<a>G. Arista Staley</a>

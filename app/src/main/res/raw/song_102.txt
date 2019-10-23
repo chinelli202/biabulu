@@ -1,17 +1,20 @@
 <h>102. KÔLÔ'Ô SI, A TU'A FOMBÔ</h>
-<t>Tune : Hold the fort. Basa 84 - Mb 155 - Saf 365</t>
+<br> </br>
+<t>Tune : Hold the fort. Basa 84 - Mb 155 - SAF 365</t>
 <v>1</v>
-		Kôlô'ô si, ô tu'a fpmbô, mvolan y'aye so
-		Yésus émien a ne bebé, nnye a kômbô wo
-<cl1>Bo'o mban ô tu'a jibi, Yésus nnye a zu</cl1>
-<c>A ye kame bon b'abuni, a ye bi ngu</c>
+		Kôlô'ô si, ô tu'a fombô, mvolan w'aye so
+		Yésus émien a ne bebé, Nnye A kômbô wo.
+<br> </br>
+<c>Bo'o mban ô tu'a jibi, Yésus Nnye A zu.</c>
+<c>A ye kame bon b'abuni, A ye bi ngu.</c>
 <v>2</v>
-		Satan émien a ye zu fe, ane mbia môt
-		A ne nkukum y'étôtôlan, nnye a du'u bôt
+		Satan émien a ye zu fe, ane mbia môt,
+		A ne nkukum y'étôtôlan, nnye a du'u bôt.
 <v>3</v>
-		Satan a ye fo'o bi wo, mate' nloene wé
-		Yésus a ye fo'o nyii wo kañe' jôé dé
+		Satan a ye fo'o bi wo, mate' nloene wé;
+		Yésus a ye fo'o nyii wo kañe' jôé dé.
 <v>4</v>
-		Tuka'a mombô, tuka jibi, tuka' bo fe mban
-		Zambe a ye ve awo'an, nju' ôse ve man
-<a>C.W. McC</a>
+		Tuka'a mombô, tuka jibi, tuka' bo fe mban,
+		Zambe A ye ve awo'an, nju' ôse ve man.
+<br> </br>
+<a>Rev. Charles Warner Mac Cleary</a>

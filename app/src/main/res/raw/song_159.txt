@@ -1,28 +1,30 @@
-<h>159. ME M'AKAÑ VE KRÔA NTI YESUS</h>
-<t>Tune : In the cross of Christ glory Rathbun</t>
+<h>159. ME M'AKAÑ VE KRÔA NTI YÉSUS</h>
+<br> </br>
+<t>Tune : In the cross of Christ glory Rathbun. Bafia 88</t>
 <v>1</v>
-		Me m' akañ ve Krôa Nti Yésus
-		Nje j'adañe biôm bise
-		E ne tin ya mam ya mbunan
-		Zen y'enyiñ j'aso été
+		Me m'akañ ve Krôa Nti Yésus,
+		Nje j'adañe biôm bise;
+		E ne tin ya mam ya mbunan,
+		Zen y'ényiñ j'aso été.
 <v>2</v>
-		Nju'u ya si nyô w'aye bi ma
-		Mam y'abé woñ ve kui
-		To bi aso, m'ayene mvolan
-		Mfa'a ya Krôa Nti Yésus wom
+		Nju'u ya si nyô w'aye bi ma,
+		Mam y'abé woñ ve kui;
+		To bi aso, m'ayene mvolan,
+		Mfa'a ya Krôa Nti Yésus wom.
 <v>3</v>
-		Zamb'a faé me mbaa éfufup
-		Nye'ane wé w'ajaé ma nlem
-		Krôa Nti Yésus nje j'ave ma
-		Mvaé ése j'azu be ma
+		Zamb'a faé me mbaa éfufup,
+		Nye'ane wé w'ajaé ma nlem;
+		Krôa Nti Yésus nje j'ave ma,
+		Mvaé ése j'azu be ma.
 <v>4</v>
-		Mam ya njuk a mam y'ébotan
-		Krôa j'alate mam mese
-		Mvo'é ya nlem é ne te ndaman
-		A meva'a ya nnôm éto
+		Mam ya njuk a mam y'ébotan,
+		Krôa j'alate mam mese;
+		Mvo'é ya nlem é ne te ndaman,
+		A meva'a ya nnôm éto.
 <v>5</v>
-		Me m'akañ Ve Krôa Nti Yésus
-		Nje j' adañe biôm bise
-		M' aye yen ényiñ be Zambe
+		Me m'akañ Ve Krôa Nti Yésus.
+		Nje j'adañe biôm bise;
+		M'aye yen ényiñ be Zambe,
 		Krôa Nti Yésus wom été.
-<a>A.I.G</a>
+<br> </br>
+<a>Rev. Albert Irwin Good</a>

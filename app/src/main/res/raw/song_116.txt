@@ -1,18 +1,20 @@
-<h>116. VA'A MA BIDI Y'iENY1ñ</h>
-<t>Tune : Break Thou the bread of life. Basa 90 - Bfia 161 - Saf 148</t>
+<h>116. VA'A MA BIDI Y'ÉNYIÑ</h>
+<br> </br>
+<t>Tune : Break Thou the bread of life. Basa 90 - Bafia 161 - SAF 148</t>
 <v>1</v>
-		Va'a ma bidi y'ényiñ, A Tat va'a ma
-		An' ô nga bo ô bo'o melu mvus
-		M'ayi bidi y' ényiñ, me lô ve wo
-		A Yésus, nleme wom w'akômbô wo
+		Va'a ma bidi y'ényiñ, A Tat va'a ma,
+		An' Ô nga bo Ô bo'o melu mvus,
+		M'ayi bidi y'ényiñ, me lô ve Wo,
+		A Yésus, nleme wom w'akômbô Wo.
 <v>2</v>
-		Bota'ane ma, A Tat, bota'ane ma
-		An'ô nga bo fe bôt melu mvus
-		M' akômbô bo nti, ngata'a momo
-		wôna m'aye fo'o tôñ ve Yésus wom
+		Bota'ane ma, A Tat, bota'ane ma,
+		An'Ô nga bo fe bôt melu mvus,
+		M'akômbô bo nti, ngata'a momo,
+		Wôna m'aye fo'o tôñ ve Yésus wom.
 <v>3</v>
-		Vôlô'ô me bo ésaé, te vuane wo
-		Ane beye'é bôé melu mvus
-		Môs ésaé j'aye man, me m'aye dañ
-		M'aye fo'o yene wo, a Yésus wom
-<a>W.S.L</a>
+		Vôlô'ô me bo ésaé, te vuane Wo,
+		Ane beye'é bôé melu mvus,
+		Môs ésaé j'aye man, me m'aye dañ,
+		M'aye fo'o yene Wo, a Yésus wom.
+<br> </br>
+<a>Dr. Wilmer Sanford Lehman</a>

@@ -1,22 +1,25 @@
 <h>265. KUTANE MEBENGE</h>
-<t>Tune : Ring the bells ofHeaven. Basa 183 - Mb 126 - saf 245</t>
+<br> </br>
+<t>Tune : Ring the bells ofHeaven. Basa 183 - Mb 126 - SAF 245</t>
 <v>1</v>
 		Kutane mebenge! den bi tame vak
-		Mfa'a ya nnyô a zuya bialé môt
-		Yésus a nga Zu a wu ajô ya bôt
-		Tame yen a mbô soñ été
-<cl1>Duma Duma bia beange b'ayia</cl1>
+		Mfa'a ya Nnyô a zuya bialé môt.
+		Yésus A nga Zu a wu ajô ya bôt
+		Tame yen A mbôô soñ été.
+<br> </br>
+<c>Duma Duma bia beange b'ayia</c>
 <c>Duma Duma mba memvete map</c>
-<c>Yésus a ne ngul a dañe yôp a si</c>
-<c>Bôt b'abuni nye be nto beti</c>
+<c>Yésus A ne ngul a dañe yôp a si</c>
+<c>Bôt b'abuni Nye be nto beti.</c>
 <v>2</v>
 		Kutane mebenge! den bi tame bo
-		Mba bivôé bise a mba mefôn
+		Mba bivôé bise a mba mefôn.
 		Bitétéa ya yôp ve bo aka'a mevak
-		Yésus Krist a vam e soñ été
+		Yésus Krist A vam' e soñ été.
 <v>3</v>
 		Kutane mebenge! Den bi tame vak
-		Mone Zamb'a betebane yôp
+		Mone Zamb'a betebane yôp,
 		Bôt ya si mi tame bo abui mebôk
-		Yésus Krist a keya kôm bito
-<a>Ondoh O</a>
+		Yésus Krist A keya kôm bito.
+<br> </br>
+<a>Rev. Samuel Ondoh Ondoh</a>

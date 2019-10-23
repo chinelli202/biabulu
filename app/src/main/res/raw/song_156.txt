@@ -1,24 +1,27 @@
-<h>156. TATE YESUS A NE NTÔMBA</h>
-<t>Tune : Dwelling in Beulah land</t>
+<h>156. TATE YÉSUS A NE NTÔMBA</h>
+<br> </br>
+<t>Tune : Dwelling in Beulah land.</t>
 <v>1</v>
-		Tate Yésus a ne Ntômba, Mone Ntômba Zambe
-		Nalé bôt b'abo abé be nto ve buni nye
-		A ye jamé mam abé ya nlem ôse w'abuni
-		Tate Yésus wongan a nyii fo'o bôt
-<cl1>M'akañe Tate Zambe, a ne Njôô ya</cl1>
+		Tate Yésus A ne Ntômba, Mone Ntômba Zambe
+		Nalé bôt b'abo abé be nto ve buni Nye;
+		A ye jamé mam abé ya nlem ôse w'abuni,
+		Tate Yésus wongan A nyii fo'o bôt.
+<br> </br>
+<c>M'akañe Tate Zambe, A ne Njôô ya</c>
 <c>yôp a si (nya Njôô)</c>
-<c>M'akañe tate Zambe, jôé dé é ne étyi</c>
-<c>M'ave nye duma, beta duma</c>
-<c>Ndem m'ave fe Mone wé</c>
-<c>Nnye a nga nyii bôt a mvame jé</c>
+<c>M'akañe tate Zambe, jôé dé é ne étyi,</c>
+<c>M'ave Nye duma, beta duma,</c>
+<c>Ndem m'ave fe Mone wé,</c>
+<c>Nnye A nga nyii bôt a mvame jé.</c>
 <v>2</v>
-		Tate Zambe a ne nye'an, a ne nko éngôngo
-		Teke môt a kômbô zu a yiane ko nye woñ
-		Tate Zambe a ye jamé môt ase a buni
-		Tame buni Yésus ô nyoñ ényiñ
+		Tate Zambe A ne nye'an, A ne nko éngôngo,
+		Teke môt a kômbô zu a yiane ko nye woñ;
+		Tate Zambe A ye jamé môt ase a buni,
+		Tame buni Yésus ô nyoñ ényiñ.
 <v>3</v>
-		Mvolô wongan a ne Nsisim, a ne Mbamba Nsisim
-		Nnye a volô bia minlem, a wulu bia mezen
-		Nnye a liti mam abé bi ayiane tu'a vini
+		Mvolô wongan a ne Nsisim, a ne Mbamba Nsisim,
+		Nnye A volô bia minlem, A wulu bia mezen;
+		Nnye A liti mam abé bi ayiane tu'a vini,
 		A ne mvam a njiban a ngul abui.
-<a>Mrs J.McN</a>
+<br> </br>
+<a>Mrs Joseph Mac Neil</a>

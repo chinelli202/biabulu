@@ -1,35 +1,37 @@
 <h>192. A MBAMBA MÔS</h>
+<br> </br>
 <t>Tune : O blessed, happy Christmas morn</t>
 <v>1</v>
-		A mbamba môs, abefie môs
-		Avak, avak, avak
-		Môs Yésus a nga zu si nyô
-		Avak, avak, avak
-		Beange be maneya kate foé
-		A bô bese be yene mvaé
-		A mvo'é ve kui si 'nyô
-		A mvo'é ve kui si nyô
-<cl1>Avak, avak, a bô bese</cl1>
-<c>Avak, avak, ôlun ve ke</c>
-<c>(bis)</c>
-<c>Avak! Avak</c>
-<c>Krist a nga bialé fo'o</c>
+		A mbamba môs, abeñe môs,
+		Avak, avak, avak!
+		Môs Yésus a nga zu si nyô.
+		Avak, avak, avak!
+		Beange be maneya kate foé,
+		A bô bese be yene mvaé,
+		A mvo'é ve kui si nyô.
+		A mvo'é ve kui si nyô.
+<br> </br>
+<c>Avak, avak, a bô bese,</c>
+<c>Avak, avak, ôlun ve ke;</c>
+<c>Avak ! Avak !           } (bis)</c>
+<c>Krist A nga bialé fo'o. } (bis)</c>
 <v>2</v>
-		Oteté ô nga liti vôm
-		Avak, avak, avak
-		Vôm Mone Zambe a nga too
-		Avak, avak, avak
+		Oteté ô nga liti vôm,
+		Avak, avak, avak!
+		Vôm Mone Zambe A nga too
+		Avak, avak, avak!
 		Efufup é nga kui si nyô
 		A vaa fe dibi vôm ase
-		Akév' anen, A Tat
-		Akév' anen, A Tat
+		Akév' anen, A Tat,
+		Akév' anen, A Tat.
 <v>3</v>
-		Mimbu abui mi maneya lôt
-		Avak, avak, avak
-		Ve foé é ngen é za'a be bôt
-		Avak, avak, avak
-		Beange be nji fe beta zu
-		Ve bôt b'akate mbamba foé
-		A mia bese, vakan
-		A mia bese, vakan
-<a>Mrs A.I.G</a>
+		Mimbu abui mi maneya lôt,
+		Avak, avak, avak!
+		Ve foé é ngen é za'a be bôt,
+		Avak, avak, avak!
+		Beange be nji fe beta zu,
+		Ve bôt b'akate mbamba foé,
+		A mia bese, vakan,
+		A mia bese, vakan.
+<br> </br>
+<a>Mrs Albert Irwin Good</a>

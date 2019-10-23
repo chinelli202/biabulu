@@ -1,27 +1,30 @@
 <h>100. TE ME'ETE NA, BENYA MEJÔÔ</h>
-<t>Tune : Why not to-night. Basa 257 - Bfia 172</t>
+<br> </br>
+<t>Tune : Why not to-night. Basa 257 - Bafia 172</t>
 <v>1</v>
-		Te me'ete na, benya mejôô
-		Me tulane melo a ke
-		A môt, w'awôk, te bo ayet
-		W'akômbê nyiñ, w'ayange jé
-<cl1>W'ayange jé, w'ayange jé</cl1>
-<c>W' akômbô ayahge jé</c>
-<c>W 'ayange jé, w)Aayangejé</c>
-<c>Nge w'aye nyiñ, w'ayange jé</c>
+		Te me'ete na, benya mejôô,
+		Me tulane melo a ke,
+		A môt, w'awôk, te bo ayet,
+		W'akômbô nyiñ, w'ayange jé?
+<br> </br>
+<c>W'ayange jé ? w'ayange jé ?</c>
+<c>W'akômbô nyiñ, w'ayange jé ?</c>
+<c>W'ayange jé ? W'ayange jé ?</c>
+<c>Nge w'aye nyiñ, w'ayange jé ?</c>
 <v>2</v>
-		Te beta yange môse mfe
-		Amu wo te yem môs Y'awu
-		Ve bo mefek a buni den
-		W'akômbô nyiñ, w'ayange jé
+		Te beta yange môse mfe,
+		Amu wo te yem môs Y'awu.
+		Ve bo mefek a buni den,
+		W'akômbô nyiñ, w'ayange jé ?
 <v>3</v>
-		Satan a kpwe'ele bô bese
-		A ne te yeme volô nlem
-		Za'a wulu zen é ne zôsô
-		W'akômbô nyiñ, wayange jé
+		Satan a kpwe'ele bô bese.
+		A ne te yeme volô nlem,
+		Za'a wulu zen é ne zôsô,
+		W'akômbô nyiñ, wayange jé ?
 <v>4</v>
-		Yésus a ne te bene môt
-		Nge aye zu a buni nye
-		Te beta ben, buni'i ve den
-		W'akômbô ñyiin, w'ayange jé
-<a>W.M.D.</a>
+		Yésus a ne te bene môt,
+		Nge aye zu a buni nye,
+		Te beta ben, buni'i ve den;
+		W'akômbô nyiñ, w'ayange jé ?
+<br> </br>
+<a>Rev. William Moore Dager</a>

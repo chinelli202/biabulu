@@ -1,22 +1,25 @@
-<h>223. BÔT W'ABUNI YESUS</h>
+<h>223. BÔT W'ABUNI YÉSUS</h>
+<br> </br>
 <t>Tune : Whosoever will, may come. Basa 213</t>
 <v>1</v>
 		Bôt b'abuni Yésus, vaka'an bese
-		Foé Nti Yésus Krist é kele sise nyô
-		Bôt be kate'e foé Nti Yésus vôm ase
-		"Môt a kômbô zu a za'ak"
-<cl1>Môt ase a za'ak, môt ase a za'ak</cl1>
-<c>Kate'e mbamba foé ate meyoñ mese</c>
-<c>Mbamba tyiñe Yésus, nnye a lo bese</c>
-<c>"Môt a kômbô zu, a za'ak"</c>
+		Foé Nti Yésus Krist é kele sise nyô ;
+		Bôt be kate'e foé Nti Yésus vôm ase.
+		"Môt a kômbô zu a za'ak !"
+<br> </br>
+<c>Môt ase a za'ak, môt ase a za'ak,</c>
+<c>Kate'e mbamba foé ate meyoñ mese.</c>
+<c>Mbamba tyiñe Yésus, Nnye a lo bese.</c>
+<c>"Môt a kômbô zu, a za'ak,"</c>
 <v>2</v>
-		To bebo abé be nto fo'o ve zu
-		Krist a diiya mbé, mia beta yange jé
-		Yésus a ne zen j'aliti bôt enyiñ
-		"Môt a kômbô zu, a za'ak"
+		To bebo abé be nto fo'o ve zu,
+		Krist A diiya mbé, mia beta yange jé?
+		Yésus A ne zen j'aliti bôt enyiñ,
+		"Môt a kômbô zu, a za'ak,"
 <v>3</v>
-		Nge w'akômbô Yésus, a jô wo na
-		Môt ase a kômbô nyon ényiñ a za'ak
-		Te fe beta ben nge bo nye ntipe nlem
-		"Môt a kômbô zu, a za'ak"
-<a>M.N</a>
+		Nge w'akômbô Yésus, A jô wo na,
+		Môt ase a kômbô nyon ényiñ a za'ak;
+		Te fe beta ben nge bo Nye ntipe nlem,
+		"Môt a kômbô zu, a za'ak,"
+<br> </br>
+<a>J. McN.</a>

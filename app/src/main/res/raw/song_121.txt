@@ -1,27 +1,30 @@
-<h>121. M' AYE KE BE YESUS</h>
-<t>Tune : Are you washed in the blood. Basa 54 - Bfia 35</t>
+<h>121. M'AYE KE BE YESUS</h>
+<br> </br>
+<t>Tune : Are you washed in the blood. Basa 54 - Bafia 35</t>
 <v>1</v>
-		M'aye ke be yésus, nnye a dutu ma
-		A ye bo ma ve mfuban été
-		M'aye buni nye amu a bo ma mvam
-		A ye bo ma ve mfuban été
-<cl1>Yésus wom a nga wu</cl1>
+		M'aye ke be yésus, Nnye A dutu ma,
+		A ye bo ma ve mfuban été;
+		M'aye buni Nye amu A bo ma mvam,
+		A ye bo ma ve mfuban été.
+<br> </br>
+<c>Yésus wom A nga wu,</c>
 <c>A nga kulu metyi mé élé</c>
-<c>Ane me nga bialé me ne mbo abé</c>
-<c>A ye bo ma ve mfuban été</c>
+<c>Ane me nga bialé me ne mbo abé,</c>
+<c>A ye bo ma ve mfuban été.</c>
 <v>2</v>
-		M'aye wulu nnye bebé melu mese
+		M'aye wulu Nnye bebé melu mese,
 		A ye bo ma ve mfuban été
 		Nleme wom w'abômbô si, te fe ko woñ
-		A ye bo ma ve mfuban été
+		A ye bo ma ve mfuban été.
 <v>3</v>
 		A ye bo ma nlem éfumulu ne fuum
-		A ye bo ma ve mfuban été
-		Amu m'aye nambe nye a ngule jé
-		A ye bo ma ve mfuban été
-<v>4</v>
-		Yésus a nga lôme fe me mbañete
-		A yebo ma ve mfuban été
-		M'aye fo'o li'i Satan a ke be Yésus
+		A ye bo ma ve mfuban été;
+		Amu m'aye nambe Nye a ngule jé,
 		A ye bo ma ve mfuban été.
+<v>4</v>
+		Yésus A nga lôme fe me mbañete,
+		A yebo ma ve mfuban été;
+		M'aye fo'o li'i Satan a ke be Yésus,
+		A ye bo ma ve mfuban été.
+<br> </br>
 <a>Rev. Melvin Frazer</a>

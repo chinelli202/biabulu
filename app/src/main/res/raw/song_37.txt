@@ -1,5 +1,6 @@
-<h>37. ZA'A BO ESAE</h>
-<t>Tune : Go labor On. Basa 218 - Bfia 160</t>
+<h>37. ZA'A BO ÉSAE</h>
+<br> </br>
+<t>Tune : Go labor On. Basa 218 - Bafia 160</t>
 <v>1</v>
 		Za'a bo ésaé, te tabe si
 		Ve bo je ane Zamb'a nye'e
@@ -14,15 +15,16 @@
 		Za'a bo ésaé, alu d'avin
 		Môs ô za lôt, ésaé te man
 		Avôl, avô ! Te bo éles
-		Eles é nji ke dutu môt
+		Éles é nji ke dutu môt
 <v>4</v>
 		Za'a bo ésaé, ô mombô'ô fe
-		Bo'o fe'e ya dutu bôt b' akop
+		Bo'o fe'e ya dutu bôt b'akop
 		Zen é ne ndam j'ake awu
-		O liti bôt ve zen y'ényiñ
+		Ô liti bôt ve zen y'ényiñ
 <v>5</v>
-		Za'a bo ésaé, a wô'avak
+		Za'a bo ésaé, a wô' avak
 		Yésus émien a ve awo'an
 		W'aye fe wô' a jô'ô wo na
-		"A mone wom, ô lô, m'azu"
-<a>Mrs. A.l. Good</a>
+		"A mone wom, ô lô, M'azu"
+<br> </br>
+<a>Madame Albert Irwin Good</a>

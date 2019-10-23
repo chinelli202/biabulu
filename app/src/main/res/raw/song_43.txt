@@ -1,32 +1,35 @@
-<h>43. NGE MAM ABE MOE ME NTO</h>
+<h>43. NGE MAM ABÉ MÔÉ ME NTO</h>
+<br> </br>
 <t>Tune : Let Yesus Come into your Heart. Basa 31</t>
 <v>1</v>
 		Nge mam abé môé me nto beta mbe'e
 		Va'a Yésus éto nlem été
 		Nge w'aye buni a bo mfefé môt
-		Va' a Yésus éto nlem été
-<cl1>Te jô na me ne te yem</cl1>
+		Va'a Yésus éto nlem été.
+<br> </br>
+<c>Te jô na me ne te yem</c>
 <c>Te jô na, me ne ve ben</c>
 <c>Jô'ô na, m'ave fo'o nye nlem</c>
 <c>Va'a Yésus éto nlem été</c>
 <v>2</v>
 		Nge mam abé me nga bo wo abui
-		Va'a yésus éto nlem été
+		Va'a Yésus éto nlem été
 		A ye fo'o sôpe wo mvin ése nlem
-		Va' a Yésus éto nlem été
+		Va'a Yésus éto nlem été.
 <v>3</v>
-		Nge ê nga jaé tôñ ve mam ya si nyô
+		Nge ô nga jaé tôñ ve mam ya si nyô
 		Va'a Yéyus éto nlem été
 		Mam mete me ne te liti wo jôm
-		Va'a Yésus éto nlem été
+		Va'a Yésus éto nlem été.
 <v>4</v>
 		Nge bô befe be nga bo wo abé
-		Va'a yesus éto nlem été
-		Nge ô nga jaé yen meve'ele abui
 		Va'a Yésus éto nlem été
+		Nge ô nga jaé yen meve'ele abui
+		Va'a Yésus éto nlem été.
 <v>5</v>
-		Nge w' aye bo môta Zambe si nyô
-		Va'a yésus éto nlem été
+		Nge w'aye bo môta Zambe si nyô
+		Va'a Yésus éto nlem été
 		Nge w' aye kômbô kui nlame ya yôp
 		Va'a Yésus éto nlem été.
-<a>A.I.G.</a>
+<br> </br>
+<a>Rev. Albert Irwin Good</a>

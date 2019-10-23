@@ -1,22 +1,25 @@
 <h>28. TE FE TABE SI A YANGE</h>
+<br> </br>
 <t>Tune : Brighten the Corner.</t>
 <v>1</v>
 		Te fe tabe si a yange beta jam ya bo
 		Te fe kômbô ve beta duma
 		Jam ese d'ayiane boban, tame taté bo
-		Faé' bôt éfufup vôm ô to
-<cl1>Faé' bôt éfufup vôm ô to</cl1>
-<c>Faé 'bôt éfufup vôm ô to</c>
+		Faé' bôt éfufup vôm ô to.
+<br> </br>
+<c>Faé' bôt éfufup vôm ô to</c>
+<c>Faé' bôt éfufup vôm ô to</c>
 <c>Môt éziñ aju'uya a ye fombô mam w'abo</c>
 <c>Faé' bôt éfufup vôm ô to</c>
 <v>2</v>
 		Bô bevok be ne wo bebé mbe be bili njuk
-		Te fe simesan Ve womien étam
-		Kôlô'ô si a jene zen ya volô môt éziñ
-		Faé' bôt éfufup vôm ô to
+		Te fe simesan ve womien étam
+		Kôlô'ô si a jeñe zen ya volô môt éziñ
+		Faé' bôt éfufup vôm ô to.
 <v>3</v>
 		Yésus émien a ye liti wo ésaé ya bo
 		Wo w'ayiane toñe nye bebé
 		Kele' liti bôte Yésus, .nnye a ve ényiñ
-		Faé' bôt éfufup vôm ô 'to.
+		Faé' bôt éfufup vôm ô to.
+<br> </br>
 <a>Rev. L.D. Heminger</a>

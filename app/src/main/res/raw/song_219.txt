@@ -1,35 +1,38 @@
 <h>219. ZAKAN BEBUNI KRIST</h>
-<t>Tune : Come we that love the Lord. Basa 216 - Bfia 80</t>
+<br> </br>
+<t>Tune : Come we that love the Lord. Basa 216 - Bafia 80</t>
 <v>1</v>
 		Zakan, bebuni Krist
-		A vôlô'ô tyiñe jé
-		Elu'uminlam a nto ôsu
-		Elu'uminlam a nto ôsu
-		Bi tame tôñe nnye
-		Bi tame tone nnye
-<cl1>Bi betane Siôn</cl1>
-<c>Etôtok, étôto'o Siôn</c>
-<c>Bi tôñe zene ya Siôn</c>
-<c>Mintama nya nlame Zambe</c>
+		A vôlô'ô tyiñe jé;
+		Elu'uminlam A nto ôsu,
+		Elu'uminlam A nto ôsu,
+		Bi tame tôñe Nye,
+		Bi tame tone Nye.
+<br> </br>
+<c>Bi betane Siôn,</c>
+<c>Étôtok, étôto'o Siôn,</c>
+<c>Bi tôñe zene ya Siôn,</c>
+<c>Mintama nya nlame Zambe.</c>
 <v>2</v>
-		Mvala'ane si a téé
-		Bi bo te tyiñelan
-		Bi bo' avôl ya kôlô si
-		Bi bo' avôl ya kô1ô si
-		A tôñ Elu'uminlam
-		A tôñ Elu'uminlam
+		Mvala'ane si a téé,
+		Bi bo te tyiñelan:
+		Bi bo' avôl ya kôlô si,
+		Bi bo' avôl ya kô1ô si,
+		A tôñ Élu'uminlam,
+		A tôñ Élu'uminlam.
 <v>3</v>
 		Meva'a m'ayange wôé
-		M'afimi mili'i mis
+		M'afimi mili'i mis;
+		Bi tame liti Mbome Krist,
 		Bi tame liti Mbome Krist
-		Bi tame liti Mbome Krist
-		Bibotan bi ne wôé
-		Bibotan bi ne wôé
+		Bibotan bi ne wôé,
+		Bibotan bi ne wôé.
 <v>4</v>
-		Bi buni Yésus Krist
-		Ajaé alô'ô y'aluk
-		Laka'ane tyiñ ébe'e jé
-		Laka'ane tyiñ ébe'e jé
-		A kañe zôsô wé
-		A kañe zôsô we
-<a>E.M.R ba B.A</a>
+		Bi buni Yésus Krist,
+		Ajaé alô'ô y'aluk;
+		Laka'ane tyiñ ébe'e jé,
+		Laka'ane tyiñ ébe'e jé,
+		A kañe zôsô wé,
+		A kañe zôsô we.
+<br> </br>
+<a>E.M.R ba Baa Rev. Bisô bi Abu'u</a>

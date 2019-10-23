@@ -1,25 +1,28 @@
-<h>179. M' AYE KE BE YESUS WOM</h>
-<t>Tune : In the shadow of His wings. Basa 296 - Saf 406</t>
+<h>179. M'AYE KE BE YÉSUS WOM</h>
+<br> </br>
+<t>Tune : In the shadow of His wings. Basa 296 - SAF 406</t>
 <v>1</v>
-		M' aye ke be Yésus wom a ke yen awo'an
-		Me nga ju' a mam ya si nyô
-		Te fe bo mam me ne zôsôô
-		M' aye tabe nlame wé, mbamba vôm ya wo'an
-		M' aye tabe nlame wé, vôm ya wotan
-<cl1>Mbaa awo'an, mbaa awo'an</cl1>
-<c>M'aye yen mbaa awo'an be Yésus wom</c>
-<c>Mbaa awo'an, mbaa awo'an</c>
-<c>M'aye yen mbaa awo'an be Yésus wom</c>
+		M'aye ke be Yésus wom a ke yen awo'an,
+		Me nga ju' a mam ya si nyô,
+		Te fe bo mam me ne zôsôô,
+		M'aye tabe nlame wé, mbamba vôm ya wo'an
+		M'aye tabe nlame wé, vôm ya wo'an.
+<br> </br>
+<c>Mbaa awo'an, mbaa awo'an,</c>
+<c>M'aye yen mbaa awo'an be Yésus wom;</c>
+<c>Mbaa awo'an, mbaa awo'an,</c>
+<c>M'aye yen mbaa awo'an be Yésus wom.</c>
 <v>2</v>
-		Bôt b'ake be Yésus wom mbe b'ayen awo'an
-		B'aye bo te beta kôlô
-		A ye bo be mam m'avolô
-		B'aye nyoñe ngule jé, nje j'ave awo'an
-		B'aye nyoñe ngule jé, b'aye wo'an
+		Bôt b'ake be Yésus wom mbe b'ayen awo'an,
+		B'aye bo te beta kôlô,
+		A ye bo be mam m'avolô.
+		B'aye nyoñe ngule jé, nje j'ave awo'an,
+		B'aye nyoñe ngule jé, b'aye wo'an.
 <v>3</v>
-		Tame ke be Yésus wom, nnye a ve awo'an
-		Nge w'abo ve mban ya buni
-		W'aye yene nya ényiñi
-		W'aye nyiñ a mvame jé, te fe jeñ awo'an
-		W'aye nyiñ a mvame jé, w'aye wo'an
-<a>Mrs J. McN</a>
+		Tame ke be Yésus wom, Nnye A ve awo'an,
+		Nge w'abo ve mban ya buni,
+		W'aye yene nya ényiñi,
+		W'aye nyiñ a mvame jé, te fe jeñ awo'an,
+		W'aye nyiñ a mvame jé, w'aye wo'an.
+<br> </br>
+<a>Mrs J. Mac Neill Loïs</a>

@@ -1,27 +1,30 @@
-<h>208. BA'ALE FO'O VE JÔE NTI YESUS</h>
-<t>Tune : Take the Name of Jesus with you.Basa 200 - Mb 213 -Bfia 63 - Saf 64</t>
+<h>208. BA'ALE FO'O VE JÔÉ NTI YÉSUS</h>
+<br> </br>
+<t>Tune : Take the Name of Jesus with you. Basa 200 - Mb 213 -Bafia 63 - SAF 64</t>
 <v>1</v>
-		Ba'ale fo'o ve jôé Nti Yésus
-		Môt a wô' ôlun a njuk
-		D'aye volô nlem w'abuni
-		Ba'ale'e foto de vôm ase
-<cl1>Mbamba jôé, ngo' abeñ</cl1>
-<c>To si nyô to nlam ya yôp</c>
-<c>Mbamba Jôé, ngo' abeñ</c>
-<c>To si nyô to nlam ya yôp</c>
+		Ba'ale fo'o ve jôé Nti Yésus,
+		Môt a wô' ôlun a njuk;
+		D'aye volô nlem w'abuni,
+		Ba'ale'e fo'o de vôm ase.
+<br> </br>
+<c>Mbamba jôé, ngo' abeñ!</c>
+<c>To si nyô to nlam ya yôp;</c>
+<c>Mbamba Jôé, ngo' abeñ!</c>
+<c>To si nyô to nlam ya yôp.</c>
 <v>2</v>
 		Ba'ale'e fo'o ve jôé Nti Yésus
-		D'aye kam e mfa'a y'abé
-		Vôm meve'ele me nga bi wo
-		Ye'ela'an a jôé te
+		D'aye kam e mfa'a y'abé;
+		Vôm meve'ele me nga bi wo,
+		Ye'ela'an a jôé te.
 <v>3</v>
-		Kañe'e fo'o ve jôé Nti Yésus
-		D'ave nleme wôé mevak
-		Emien a ye ve fe bia
-		Mba bito ya étôtok
+		Kañe'e fo'o ve jôé Nti Yésus.
+		D'ave nleme wôé mevak;
+		Emien A ye ve fe bia,
+		Mba bito ya étôtok.
 <v>4</v>
-		Nyofie' fo'o ve jôé Nti Yésus
-		Kafie'e de a nlem Ose
-		A nyii ba bese b' abuni
-		A ne njôô ya nnôm éto
-<a>F.O.E</a>
+		Nyoñe' fo'o ve jôé Nti Yésus.
+		Kañe'e de a nlem Ose;
+		A nyii ba bese b'abuni,
+		A ne njôô ya nnôm éto.
+<br> </br>
+<a>Rev. F.O. Emerson</a>

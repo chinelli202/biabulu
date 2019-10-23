@@ -1,22 +1,25 @@
-<h>47. YESUS NYII WOM A NGA KÔLÔ</h>
-<t>Tune : I'll be a Sunbeam. Basa 139</t>
+<h>47. YÉSUS NYII WOM A NGA KÔLÔ</h>
+<br> </br>
+<t>Tune : I'll be a Sun beam. Basa 139 - SAF 472</t>
 <v>1</v>
 		Yésus Nyii wom a nga kôlô
-		Eto ya nlame wé
+		Eto ya nlame Wé
 		A zu nyii bôte ya si nyô
-		Ma fe me ne été
-<cl1>Mvolô, mvolô</cl1>
+		Ma fe me ne été.
+<br> </br>
+<c>Mvolô, mvolô</c>
 <c>Ma m'aye volô ésaé jé</c>
 <c>Mvolô, mvolô</c>
-<c>Ma m'aye bo mvolô wé</c>
+<c>Ma m'aye bo mvolô Wé</c>
 <v>2</v>
 		M'ayeme na, me ne mongô
 		Te yeme mfañe jam
 		Ve me ne ngule ya volô
-		A bo abime dam
+		A bo abime dam.
 <v>3</v>
 		Yésus émien a mbe mongô
 		Abim me ntoo fe di
 		A yeme mame ya bongô
 		A nye'e fe be abui.
+<br> </br>
 <a>Dr Silas Franklin Johnson</a>

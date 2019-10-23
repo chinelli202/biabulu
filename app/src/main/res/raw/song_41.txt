@@ -1,28 +1,30 @@
-<h>41. JOE YESUS E NE FO'O ABEN</h>
-<t>Tune : How Sweet the Name of Jesus Sounds. Bfia 64</t>
+<h>41. JOE YÉSUS E NE FO'O ABEÑ</h>
+<br> </br>
+<t>Tune : How Sweet the Name of Jesus Sounds. Bafia 64</t>
 <v>1</v>
-		Joé Yésus é ne fo'o abeñ
-		Melo me bôte bé
-		D'avolô nlem w'awô'ôlun
-		A vaa fe wôñ ôse
+		Joé Yésus é ne fo'o abeñ,
+		Melo me bôte bé;
+		D'avolô nlem w'awô'ôlun,
+		A vaa fe wôñ ôse.
 <v>2</v>
-		Jôé te d'asaé nlem ô n'abé
-		D'ave wô mvo'é été
-		D'ave bidi vôm "zaé é né
-		D'aman'évé ya nlem
+		Jôé te d'asaé nlem ô n'abé,
+		D'ave wô mvo'é été;
+		D'ave bidi vôm zaé é né,
+		D'aman' évé ya nlem.
 <v>3</v>
-		Abeñe jôé'te é n'akok
-		Eben, asoé, ôlem
+		Abeñe jôé'te é n'akok,
+		Eben, asoé, ôlem;
 		Mbamba akum a ne te man
-		A beta mvam anen
+		A beta mvam anen.
 <v>4</v>
 		A Yésus, ô ne Mba'ale wom
 		Nyii wom a Njôô ya nlem
-		O ne ma mvôé, a mbé, a zen
-		M' ave wo duma'se
+		Ô ne ma mvôé, a mbé, a zen
+		M'ave wo duma' se.
 <v>5</v>
-		M' akômbô k'añe mvame jôé
-		Melu mese me vee
-		A môs y'awu ve yia bia
-		A kañe jôé Yésus
-<a>F.O.E.</a>
+		M'akômbô kañe mvame jôé,
+		Melu mese me vee;
+		A môs y'awu ve yia bia,
+		A kañe jôé Yésus.
+<br> </br>
+<a>Rev. F.O. Emerson</a>

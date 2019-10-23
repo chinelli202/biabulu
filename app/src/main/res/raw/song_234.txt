@@ -1,18 +1,20 @@
-<h>234. KUTE' MA MVEBE WÔE</h>
-<t>Tune : Breathe on me, breath of God. Bfia 145</t>
+<h>234. KUTE' MA MVEBE WÔÉ</h>
+<br> </br>
+<t>Tune : Breathe on me, breath of God. Bafia 145</t>
 <v>1</v>
-		Kute' ma mvebe wôé
-		Mvebe y'ényiñ, A Tat
+		Kute' ma mvebe Wôé,
+		Mvebe y'ényiñ, A Tat,
 		Jalé'é ma nlem, m'akômbô bo
-		Ve mam w'aliti ma
+		Ve mam W'aliti ma.
 <v>2</v>
-		Kute' ma mvebe wôé
+		Kute' ma mvebe Wôé,
 		Mvebe y'ényiñ, A Tat
-		Me ve wo nlô, a nlem, a nyô
-		Me tôñe zene jôé
+		Me ve wo nlô, a nlem, a nyô,
+		Me tôñe zene jôé.
 <v>3</v>
-		Kute ma mvebe wôé
-		Mvebe y'ényiñ, A Tat
-		Me bo te wu, me vee be wo
-		Enyiñ ya nnôm éto
+		Kute ma mvebe Wôé,
+		Mvebe y'ényiñ, A Tat.
+		Me bo te wu, me vee be Wo
+		Enyiñ ya nnôm éto.
+<br> </br>
 <a>Mrs F.N. White</a>

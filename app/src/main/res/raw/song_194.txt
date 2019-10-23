@@ -1,27 +1,29 @@
 <h>194. A NLEM Ô KÔLÔ'Ô SI</h>
+<br> </br>
 <t>Tune : Arise, my soul, arise. Basa 298</t>
 <v>1</v>
-		A nlem, ô kôlô'ô si
-		A vaa abé a woñ
-		Yésus Nyii wom a ntoo
-		A liti mvame jé
-		A too mbo nnôme Zambe yôp
-		A too mbo nnôme Zambe yôp
-		A bo ésaé meye'elan
+		A nlem, ô kôlô'ô si,
+		A vaa abé a woñ,
+		Yésus Nyii wom A ntoo
+		A liti mvame jé.
+		A too mbo nnôme Zambe yôp,
+		A too mbo nnôme Zambe yôp,
+		A bo ésaé meye'elan.
 <v>2</v>
-		A to yôp nnôm éto
-		A vañe Zambe wôé
-		Amu étua nye'an
-		Metyi mé me nga kui
-		Metyi mete m' anyii fo'o bôt
-		Metyi mete m' anyii fo'o bôt
-		A vaa be mam abé mese
+		A to yôp nnôm éto,
+		A vañe Zambe wôé;
+		Amu étua nye'an,
+		Metyi mé me nga kui.
+		Metyi mete m'anyii fo'o bôt,
+		Metyi mete m'anyii fo'o bôt,
+		A vaa be mam abé mese.
 <v>3</v>
-		Zambe a nji fe yaa
-		Ve jamé me abé
-		Me nto fo'o mone wé
-		Te beta mate nye
-		M' anye'e me kui fo'o nye bebé
-		M' anye'e me kui fo'o nye bebé
-		A loene nye na, Tate wom
-<a>A.I.G</a>
+		Zambe A nji fe yaa,
+		Ve jamé me abé;
+		Me nto fo'o mone Wé,
+		Te beta mate Nye.
+		M'anye'e me kui fo'o Nye bebé,
+		M'anye'e me kui fo'o Nye bebé,
+		A loene Nye na, Tate wom.
+<br> </br>
+<a>Rev. Albert Irwin Good</a>

@@ -1,23 +1,25 @@
-<h>113. A ZAMBE NLEM W'ATYI'I</h>
+<h>113. A ZAMBE NLEM W'ATYI'I'</h>
+<br> </br>
 <t>Tune : Now I resolve with all my heart. Basa 294</t>
 <v>1</v>
-		A Zambe, nlem w'atyi'i fo'o na
-		Me bo ésaé jôé nnôm éto
-		Me bo te li'i mejô w'ajô
-		Ve tôñe wo a ngul ése
+		A Zambe, nlem w'atyi'i fo'o na,
+		Me bo ésaé jôé nnôm éto;
+		Me bo te li'i mejô w'ajô,
+		Ve tôñe Wo a ngul ése.
 <v>2</v>
-		M'adañe nye'e me bo'ésaé
-		A liti bôt mam ô nga bo
-		Ajô'te b'aye nye'e fe wo
-		A kôlô si a buni wo
+		M'adañe nye'e me bo' ésaé
+		A liti bôt mam Ô nga bo;
+		Ajô'te b'aye nye'e fe Wo,
+		A kôlô si a buni Wo.
 <v>3</v>
-		M'akômbô jô nya njôane na
-		Me tôñe fo'o ve wo étam
-		Me ve metiñe môé mewôk
-		A nye'e fe wo a nlem ôse
+		M'akômbô jô nya njôane na.
+		Me tôñe fo'o ve Wo étam;;;
+		Me ve metiñe Môé mewôk,
+		A nye'e fe Wo a nlem ôse.
 <v>4</v>
-		M'akômbô jibi, te ke kat
-		Te kôlô zen w'aliti ma
-		A Beta zambe, me'ete'e na
-		Me bo fo'o mam m'ajô wo ma
-<a>A.I.G</a>
+		M'akômbô jibi, te ke kat,
+		Te kôlô zen W'aliti ma,
+		A Beta Zambe, me'ete'e na:
+		Me bo fo'o mam m'ajô Wo ma.
+<br> </br>
+<a>Rev. Albert Irwin Good</a>

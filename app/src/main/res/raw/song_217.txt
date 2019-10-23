@@ -1,22 +1,25 @@
-<h>217. MA ME BILI MBAMBA FOE</h>
-<t>Tune : Look and live. Basa 270 - Mb 90 - Bfia 134</t>
+<h>217. MA ME BILI MBAMBA FOÉ</h>
+<br> </br>
+<t>Tune : Look and live. Basa 270 - Mb 90 - Bafia 134</t>
 <v>1</v>
 		Ma me bili mbamba foé Alleluia!
-		M'akômbô kate bô bese
-		Nnye a nyii meyoñ mese, Alleluia!
+		M'akômbô kate bô bese;
+		Nnye A nyii meyoñ mese, Alleluia!
 		Nge w'alôbô Yésus w'aye nyiñ
-<cl1>Lôbô'ô nye, éyoñe ji</cl1>
-<c>Lôbô'ô Tate den, ô nyiñ</c>
+<br> </br>
+<c>Lôbô'ô Nye, éyoñe ji.</c>
+<c>Lôbô'ô Tate den, ô nyiñ;</c>
 <c>Nge w'akômbô yen ényiñ, Alleluia!</c>
-<c>Tame lôbô'ô Tate Yésus Krist</c>
+<c>Tame lôbô'ô Tate Yésus Krist.</c>
 <v>2</v>
 		Mbamba foé a soya fo'o, Alleluia!
 		Nge mot a kômbô nyoñ, ve nyiñ
 		A nga so be Zambe yôp, Alleluia!
-		Yésus Krist étam a ve ényiñ
+		Yésus Krist étam A ve ényiñ.
 <v>3</v>
 		M'aye nyoñ ényiñ éte, Alleluia!
 		A tab' ényiñ ya nnôm éto
 		Kate'e ma benya mejôô, Alleluia!
 		Mbe b'anyii meyoñ me bôt mese.
-<a>A.A</a>
+<br> </br>
+<a>Rev. Akoa Abômô François</a>

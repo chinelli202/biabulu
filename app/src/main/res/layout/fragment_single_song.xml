@@ -6,7 +6,7 @@
         android:layout_height="match_parent"
         android:gravity="center"
         android:orientation="vertical"
-        tools:context="com.chinellli.gib.biabulu.SingleSongFragment">
+        tools:context="com.chinellli.gib.biabulu.SongReaderFragment">
     <TextView
         android:id="@+id/fragment_page_cantique"
         android:layout_width="wrap_content"

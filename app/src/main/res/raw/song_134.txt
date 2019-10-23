@@ -1,23 +1,25 @@
-<h>﻿134. YESUS KRIST A NTELE VA</h>
-<t>Tune : Alberson. Bfia 122</t>
+<h>134. YÉSUS KRIST A NTELE VA</h>
+<br> </br>
+<t>Tune : Alberson. Bafia 122</t>
 <v>1</v>
-		Yésus Krist a ntele va
-		Fombô'ô nnye, wo, mbo abé
-		Mbamba môs a soya den
-		Bete'e tyiñ, a loene nye
+		Yésus Krist A ntele va,
+		Fombô'ô Nye, wo, mbo abé;
+		Mbamba môs a soya den,
+		Bete'e tyiñ, a loene nye.
 <v>2</v>
-		Tame yen a loene wo
-		"Za' avô, a mone wom"
-		Kôlô'ô si a ve nnye nlem
-		Kôlô'ô si, a loene wo
+		Tame yen A loene wo,
+		"Za' avô, a mone wom".
+		Kôlô'ô si a ve Nye nlem,
+		Kôlô'ô si, A loene wo.
 <v>3</v>
-		Ko m'éngôngo, A Mba Tat
-		Liti'i me nya nye'ane wôé
-		Nye'an ôte ô za'a me nlem
-		Nalé m'aye yen ényiñ
+		Ko m'éngôngo, A Mba Tat,
+		Liti'i me nya nye'ane Wôé;
+		Nye'an ôte ô za'a me nlem,
+		Nalé m'aye yen ényiñ.
 <v>4</v>
-		Yésus Krist a bili ngu
-		A ye saé môt a ye zu
-		A ye jô na, "kele mvo'é
-		Mbunan nwô ô nyiiya wo"
-<a>M.N.</a>
+		Yésus Krist A bili ngu,
+		A ye saé môt a ye zu;
+		A ye jô na, "kele mvo'é,
+		Mbunan nwô ô nyiiya wo".
+<br> </br>
+<a>Rev. Mac Neill</a>

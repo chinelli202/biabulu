@@ -2,20 +2,23 @@ package com.chinellli.gib.biabulu;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
-import android.app.DialogFragment;
+
+
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
+
+
+import android.support.v4.app.DialogFragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.EditText;
-import android.widget.TextView;
-import android.widget.Toast;
 
 import static android.app.Activity.RESULT_CANCELED;
 import static android.app.Activity.RESULT_OK;
 
-public class NewCategoryDialogFragment extends DialogFragment {
+public class CategoryEditDialogFragment extends DialogFragment {
 
     public static final String CATEGORY_REQUEST_KEY = "REQUEST_KEY";
     public static final String RETURN_CATEGORY_NAME_KEY = "CATEGORY_NAME_RESULT";
@@ -29,32 +32,50 @@ public class NewCategoryDialogFragment extends DialogFragment {
     private String actionButtonText;
     private int requestCode;
     EditText editText;
+    private CategoryActionListener listener;
+
     @Override
     public Dialog onCreateDialog(Bundle savedInstanceState) {
 
         AlertDialog.Builder builder =  new AlertDialog.Builder(getActivity());
         //content here
         LayoutInflater layoutInflater = getActivity().getLayoutInflater();
-        View view = layoutInflater.inflate(R.layout.new_category_fragment_dialog,null);
+        View view = layoutInflater.inflate(R.layout.category_edit_fragment_dialog,null);
         editText = view.findViewById(R.id.editText2);
-        requestCode = (int)getArguments().get(NewCategoryDialogFragment.CATEGORY_REQUEST_KEY);
+        requestCode = (int)getArguments().get(CategoryEditDialogFragment.CATEGORY_REQUEST_KEY);
         setup(requestCode);
         builder.setTitle(dialogTitle)
                 .setView(view)
                 .setPositiveButton(actionButtonText, new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int id) {
-                        // FIRE ZE MISSILES!
-                        //Toast.makeText(getActivity(), "Clicked Positive Button", Toast.LENGTH_SHORT).show();
-                        //Intent intent = new Intent();
-                        //sanitize textview content and the pass it as return value
-                        //intent.putExtra(NewCategoryDialogFragment.RETURN_CATEGORY_NAME_KEY,editText.getText());
-                        if(requestCode == CREATE_CATEGORY_REQUEST_CODE)
-                            ((CategoryActionListener)getActivity()).createAction(editText.getText().toString());
-                        else{
-                            int position = (int)getArguments().get(NewCategoryDialogFragment.UPDATE_CATEGORY_POSITION_KEY);
-                            ((CategoryActionListener)getActivity()).updateAction(position,editText.getText().toString());
+                        if(listener == null){
+                            //return data to be managed by the onActivityResult method
+                            //draft
+
+
+                            //Data : songNumber, inputText, request type
+                            Intent intent = new Intent();
+
+                            int songNumber = getArguments().getInt(AddToCategoryDialogFragment.SONG_NUMBER_KEY);
+                            String categoryName = editText.getText().toString();
+
+
+                            intent.putExtra(AddToCategoryDialogFragment.SONG_NUMBER_KEY,songNumber);
+                            intent.putExtra(GroupFragment.NEW_CATEGORY_NAME_KEY,categoryName);
+
+                            getTargetFragment().onActivityResult(GroupFragment.NEW_CATEGORY_REQUEST, RESULT_OK, intent);
+                            dismiss();
                         }
-                        //((CategoryActionListener)NewCategoryDialogFragment.this.getContext()).createAction(editText.getText().toString());
+                        else{
+                            if(requestCode == CREATE_CATEGORY_REQUEST_CODE)
+                                listener.createAction(editText.getText().toString());//((CategoryActionListener)getActivity()).createAction(editText.getText().toString());
+                            else{
+                                int position = (int)getArguments().get(CategoryEditDialogFragment.UPDATE_CATEGORY_POSITION_KEY);
+                                listener.updateAction(position,editText.getText().toString());//((CategoryActionListener)getActivity()).updateAction(position,editText.getText().toString());
+                            }
+                        }
+
+                        //((CategoryActionListener)CategoryEditDialogFragment.this.getContext()).createAction(editText.getText().toString());
                         //onActivityResult(CREATE_CATEGORY_REQUEST_CODE, RESULT_OK, intent);
                     }
                 })
@@ -64,7 +85,7 @@ public class NewCategoryDialogFragment extends DialogFragment {
                         //Toast.makeText(getActivity(), "Clicked Negative Button", Toast.LENGTH_SHORT).show();
                         //((CategoryActionListener)getActivity()).createAction(editText.getText().toString());
                         Intent intent = new Intent();
-                        intent.putExtra(NewCategoryDialogFragment.RETURN_CATEGORY_NAME_KEY,editText.getText());
+                        intent.putExtra(CategoryEditDialogFragment.RETURN_CATEGORY_NAME_KEY,editText.getText());
                         onActivityResult(UPDATE_CATEGORY_REQUEST_CODE, RESULT_CANCELED, intent);
                     }
                 });
@@ -79,8 +100,20 @@ public class NewCategoryDialogFragment extends DialogFragment {
         else{
             dialogTitle = update_title;
             actionButtonText = "Modifier";
-            editText.setText(getArguments().getCharSequence(NewCategoryDialogFragment.UPDATE_CATEGORY_ARGUMENT_KEY));
+            editText.setText(getArguments().getCharSequence(CategoryEditDialogFragment.UPDATE_CATEGORY_ARGUMENT_KEY));
             editText.requestFocus();
+        }
+    }
+
+    @Override
+    public void onAttach(Context context){
+        super.onAttach(context);
+        try{
+            listener = (CategoryActionListener) context;
+        }
+        catch (ClassCastException e){
+           // throw new ClassCastException(context.toString() + "must implement CategoryActionListener");
+            System.out.println("not implementing CategoryActionListener");
         }
     }
 }

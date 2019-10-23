@@ -1,28 +1,30 @@
-<h>29. BOT B' ABUNI</h>
-<t>Tune : Sweet the Moments. Basa 57 - Bfia 88</t>
+<h>29. BOT B'ABUNI TATE ZAMBE</h>
+<br> </br>
+<t>Tune : Sweet the Moments. Basa 57 - Bafia 88</t>
 <v>1</v>
-		Bôt b' abuni Tate Zambe
-		Tuka' a fomban mam jô
-		Amu Satan a ne bebé
-		Nnye a kômbô wôlé mia
+		Bôt b'abuni Tate Zambe,
+		Tuka'a fomban mam A jô;
+		Amu Satan a ne bebé;
+		Nnye a kômbô wôlé mia.
 <v>2</v>
-		Yésus a ne mia mbé si
-		Nnye ve kut a kômbô nyiin
-		Bo'an avôl ya dii nye mbé den
-		Mia be nye ve late ngbwa
+		Yésus a ne mia mbé si,
+		Nnye ve kut a kômbô nyiin;
+		Bo'an avôl ya dii nye mbé den,
+		Mia be Nye ve late ngbwa.
 <v>3</v>
-		Nge mi ayange a za kôlô
-		Te fe beta kute mbé
-		Mi ve li'i te yene Yésus
-		Satan émien ve zu nyiin
+		Nge mi ayange A za kôlô,
+		Te fe beta kute mbé;
+		Mi ve li'i te yene Yésus,
+		Satan émien ve zu nyiin.
 <v>4</v>
-		Mi bo'o mban ya sili Zambe
-		Nye étam a bili ngu
-		A ye ve je bôt b'akômbô
-		Nge b'abo ve mban Ya ja'é
+		Mi bo'o mban ya sili Zambe,
+		Nye étam a bili ngu;
+		A ye ve je bôt b'akômbô,
+		Nge b'abo ve mban Ya ja'é.
 <v>5</v>
-		Yésus émien a ne nya ndi'i
-		Mi ne ve mefas y'été
-		Te fe kandan Tate Yésus
+		Yésus émien a ne nya ndi'i,
+		Mi ne ve mefas y'été;
+		Te fe kandan Tate Yésus,
 		Mi za kôt a dimi fé.
-<a>C. W. Mc C.</a>
+<br> </br>
+<a>Rev. Charles Warner Mac Cleary</a>

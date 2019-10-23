@@ -24,7 +24,7 @@ import static android.graphics.Typeface.BOLD;
 import static android.graphics.Typeface.ITALIC;
 
 
-public class SingleSongFragment extends Fragment {
+public class SongReaderFragment extends Fragment {
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
     public static final String POSITION_CANTIQUE = "pcantique";
@@ -35,7 +35,7 @@ public class SingleSongFragment extends Fragment {
     private String mParam2;
     private List<LineBuilder> lineBuilderList;
 
-    public SingleSongFragment() {
+    public SongReaderFragment() {
         // Required empty public constructor
     }
 
@@ -44,11 +44,11 @@ public class SingleSongFragment extends Fragment {
      * this fragment using the provided parameters.
      *
      * @param param1 Parameter 1.
-     * @return A new instance of fragment SingleSongFragment.
+     * @return A new instance of fragment SongReaderFragment.
      */
     // TODO: Rename and change types and number of parameters
-    public static SingleSongFragment newInstance(int param1) {
-        SingleSongFragment fragment = new SingleSongFragment();
+    public static SongReaderFragment newInstance(int param1) {
+        SongReaderFragment fragment = new SongReaderFragment();
         Bundle args = new Bundle();
         args.putInt(POSITION_CANTIQUE, param1);
         fragment.setArguments(args);
@@ -131,12 +131,21 @@ public class SingleSongFragment extends Fragment {
             LineSpanner spanner = new LineSpanner() {
                 @Override
                 public void spanSong(SpannableString spannable, int begin, int end) {
-                    spannable.setSpan(new VerticalAscentMarginSpan(100),begin,end,Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
+                    //spannable.setSpan(new VerticalAscentMarginSpan(100),begin,end,Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
                     spannable.setSpan(new
                             StyleSpan(ITALIC), begin, end, Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
                 }
             };
             applySpanner(sb,cursor,spanner,"<t>");
+        }
+        if (sb.indexOf("<br>") == 0) {
+            LineSpanner spanner = new LineSpanner() {
+                @Override
+                public void spanSong(SpannableString spannable, int begin, int end) {
+                    spannable.setSpan(new VerticalAscentMarginSpan(50),begin,end,Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
+                }
+            };
+            applySpanner(sb,cursor,spanner,"<li>");
         }
         if (sb.indexOf("<v>") == 0) {
             LineSpanner spanner = new LineSpanner() {
@@ -179,7 +188,7 @@ public class SingleSongFragment extends Fragment {
             LineSpanner spanner = new LineSpanner() {
                 @Override
                 public void spanSong(SpannableString spannable, int begin, int end) {
-                    spannable.setSpan(new VerticalAscentMarginSpan(100),begin,end,Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
+                   // spannable.setSpan(new VerticalAscentMarginSpan(100),begin,end,Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
                     spannable.setSpan(new
                             StyleSpan(ITALIC), begin, end, Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
                 }
@@ -191,7 +200,7 @@ public class SingleSongFragment extends Fragment {
     private void applySpanner(StringBuilder sb, int cursor, LineSpanner spanner, String tag){
         sb.delete(0, tag.length());
         sb.delete(sb.length() - (tag.length()+1), sb.length());
-        if(sb.length() > 0){
+        if(sb.length() >= 0){
             LineBuilder builder = new LineBuilder(cursor, cursor+sb.length());
             System.out.println("Just set new lineBuilder with begin = "+cursor+" and end = "+(sb.length()-1));
             builder.setLineSpanner(spanner);

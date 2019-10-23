@@ -1,22 +1,25 @@
 <h>158. MAM ME ZAMBE WOM</h>
+<br> </br>
 <t>Tune : He is able to deliver thee</t>
 <v>1</v>
-		Mam me Zambe wom, mme m'adañ abeñ
-		Me n'avale mam bôt b'ayiane jeñ
+		Mam me Zambe wom, mme m'adañ abeñ,
+		Me n'avale mam bôt b'ayiane jeñ;
 		Mam mete mese, di d'adañe fo'o
-		Zambe nnye a ne ngul ya volô wo
-<cl1>A ne ngul ya tua volô wo</cl1>
-<c>A ne ngul ya tua volô wo</c>
-<c>Ja'an mbo abé, kelet vôm a né</c>
-<c>Zambe nnye a ne ngul ya volô wo</c>
+		Zambe Nnye A ne ngul ya volô wo.
+<br> </br>
+<c>A ne ngul ya tua volô wo,</c>
+<c>A ne ngul ya tua volô wo,</c>
+<c>Ja'an mbo abé, kele' vôm a né,</c>
+<c>Zambe Nnye A ne ngul ya volô wo.</c>
 <v>2</v>
-		Mam me yôp a si me ne ve tyôtyoé
-		Mam me Zambe wom, mme mtadañe mvo'é
+		Mam me yôp a si me ne ve tyôtyoé,
+		Mam me Zambe wom, mme m'adañe mvo'é
 		Kate'e môt ase, di d'adañe fo'o
-		Zambe nnye a nengul ya volô wo
+		Zambe Nnye A ne ngul ya volô wo.
 <v>3</v>
-		Mam me Zambe wom me ne mvam anen
-		Nlem ôse ô wô'ôk, te fe beta ben
-		Buni'i Zambe wom, nnye a jamé fo'o
-		Zambe nnye a ne ngul ya volô wo.
-<a>J.Mc.N</a>
+		Mam me Zambe wom me ne mvam anen.
+		Nlem ôse ô wô'ôk, te fe beta ben,
+		Buni'i Zambe wom, Nnye A jamé fo'o,
+		Zambe Nnye A ne ngul ya volô wo.
+<br> </br>
+<a>Rev. Joseph Mac Neil</a>

@@ -1,30 +1,32 @@
 <h>190. BA MAM MESE</h>
-<t>Tune : The spacious firmament. Saf 33</t>
+<br> </br>
+<t>Tune : The spacious firmament. SAF 33</t>
 <v>1</v>
 		Ba mam ase ya sise nyô
-		A kañete abeñ ajô
-		Minkut ya yôp a ñyem ôse
-		Bi bili tyiñ ya kate de
+		A kañete abeñ ajô;
+		Minkut ya yôp a ñyem ôse,
+		Bi bili tyiñ ya kate de.
 		Vôm jôp d'atôô, a vôm d'ake
 		D'akate fe meyoñ mese
-		Ajô Zambe ya nnôm éto
-		A mam mese nnye a nga bo
+		Ajô Zambe ya nnôm éto,
+		A mam mese Nnye A nga bo.
 <v>2</v>
-		Eyoñe môs ô jaéya lôt
+		Eyoñe môs ô jaéya lôt,
 		Alu d'ataté liti bôt
-		Ve mboan Zambe a nga bo
-		Môs a nga telé biôm bi too
-		A ngon b'ateté bi n'été
-		Bi ave fe Zambe duma dé
+		Ve mboan Zambe A nga bo.
+		Môs A nga telé biôm bi too
+		A ngon b'ateté bi n'été,
+		Bi ave fe Zambe duma dé,
 		A kañete ve mam m'émien
-		A zôsô wé mimfa'a minyin
+		A zôsô wé mimfa'a minyin.
 <v>3</v>
-		Nde mam mese ya yôp a si
-		M'akañete ve ajô di
+		Nde mam mese ya yôp a si,
+		M'akañete ve ajô di;
 		Me kôsa tabe fo'o ne mieññ
-		Me bili tyiñ j'adañ abeñ
-		Nyô a n'alo, ane je yem
-		Mejô y'été ve kui nye nlem
-		A ye fe wôt ane m'ayia
-		"Wo Zamb' étam ô nga té bia"
-<a>J.McN</a>
+		Me bili tyiñ j'adañ abeñ.
+		Nyô A n'alo, ane je yem,
+		Mejô y'été ve kui nye nlem,
+		A ye fe wôt ane m'ayia-
+		"Wo Zamb' étam Ô nga té bia."
+<br> </br>
+<a>Rev. Jospeph Mac Neill</a>

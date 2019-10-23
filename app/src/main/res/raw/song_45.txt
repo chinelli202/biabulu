@@ -1,22 +1,25 @@
-<h>45. M' AKANE ZAMBE</h>
-<t>Tune : Revive us again. Basa 6 - Bfia 13 - Saf 368</t>
+<h>45. M'AKAÑE ZAMBE</h>
+<br> </br>
+<t>Tune : Revive us again. Basa 6 - Bafia 13 - SAF 368</t>
 <v>1</v>
-		M' akañe Zambe ! amu Yésus Nyii wom
+		M'akañe Zambe! amu Yésus Nyii wom
 		A nga zu si nyô a ve ma mba ényiñ
-<cl1>Kañe' Zambe ! va'a Nye duma</cl1>
-<c>Kañe' Zambe ! ve den</c>
-<c>Kañe' Zambe ! va'a Nye duma</c>
+<br> </br>
+<c>Kañe' Zambe! va'a Nye duma</c>
+<c>Kañe' Zambe ve den!</c>
+<c>Kañe' Zambe! va'a Nye duma</c>
 <c>Amu A ne mvam</c>
 <v>2</v>
-		M' akañe Zambe ! amu Nye a ne ngu
-		Amu Nye étam a nga té bia bese
+		M'akañe Zambe! amu Nye a ne ngu
+		Amu Nye étam A nga té bia bese
 <v>3</v>
-		M' akañe Zambe amu Nsisime wé
+		M'akañe Zambe! amu Nsisime wé
 		A dutu ma me bo mam me ne zôsô
 <v>4</v>
-		M' akañe Zambe amu Nye a ne mvam
+		M'akañe Zambe amu Nye a ne mvam
 		Aye kôme ma nlem ô bo mfefé a mvo'é
 <v>5</v>
-		M'akañe Zambe ! Nnye A volô minlem
+		M'akañe Zambe! Nnye A volô minlem
 		A nyii bone bé A ke be awu yat
-<a>Matthew Henry Kerr</a>
+<br> </br>
+<a>Matthew Henry Kerr.</a>

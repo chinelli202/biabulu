@@ -1,33 +1,36 @@
-<h>55. M' AYEME NA NYII WOM A VEE</h>
-<t>Tune : I know that My Redeemer lives. Basa 80 - Bfia 38 - Saf 559</t>
+<h>55. M'AYEME NA NYII WOM A VEE</h>
+<br> </br>
+<t>Tune : I know that My Redeemer lives. Basa 80 - Bafia 38 - SAF 559</t>
 <v>1</v>
-		M'ayeme na Nyii wom a vee
-		A kôsa bo nnye a nga wu
-		A vee éyoñe ji
-		A vee a ye'elan ajô dam
-		A volô ma a ngule jé
-		Yésus Nyii wom a vee
-<cl1>A vee, a vee, Yésus Nyii wom a vee fo'o</cl1>
-<c>A vee, a vee, m'ayeme na Nyii wom a vee</c>
+		M'ayeme na Nyii wom a vee,
+		A kôsa bo nnye a nga wu,
+		A vee éyoñe ji;
+		A vee a ye'elan ajô dam,
+		A volô ma a ngule jé,
+		Yésus Nyii wom A vee.
+<br> </br>
+<c>A vee, a vee, Yésus Nyii wom a vee fo'o,</c>
+<c>A vee, a vee, m'ayeme na Nyii wom a vee,</c>
 <v>2</v>
 		M'ayeme na Nyii wom a vee
 		M'awô' ava'a nlem été
-		A kañe nye étam
-		A vee vôm Esa wé a to
+		A kañe Nye étam
+		A vee vôm Esa Wé A to
 		Ajô te m'aye fo'o nyiñ
-		Yésus Nyii wom a vee
+		Yésus Nyii wom A vee
 <v>3</v>
 		M'ayeme na Nyii wom a vee
-		A vee, nnye a nga wômô soñ
-		A vee, a ye nyii bôt
-		A vee, a to fe ma bebé
+		A vee, Nnye a nga wômô soñ
+		A vee, A ye nyii bôt
+		A vee, A to fe ma bebé
 		A jamé ma mam me n'abé
-		Yésus Nyii wom a vee
+		Yésus Nyii wom A vee
 <v>4</v>
 		M'ayeme na Nyii wom a vee
-		M'ayeme na a ye fo'o so
-		Ma m'aye yene nye
+		M'ayeme na A ye fo'o so
+		Ma m'aye yene Nye
 		Ma te fe beta wô'ô mintaé
 		Te beta kuli mili'mis
 		Yésus Nyii wom a vee.
-<a>Mrs A.N.K</a>
+<br> </br>
+<a>Madame Adolf N. Krug</a>

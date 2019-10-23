@@ -1,28 +1,31 @@
 <h>129. BI NGA YE KÔLÔ SI NYÔ</h>
-<t>Tune : Only remembered. Basa 21 - Mb 146 - Bfia 111</t>
+<br> </br>
+<t>Tune : Only remembered. Basa 21 - Mb 146 - Bafia 111</t>
 <v>1</v>
-		Bi nga ye kôlô si nyô te fe yené
-		A jañe mis, an'ateté a môs
+		Bi nga ye kôlô si nyô te fe yené,
+		A jañe mis, an'ateté a môs;
 		Zamb'aye loen, bi ve yebe a kôlô
-		Bôt b'aye simesan ve mam bi nga bo
-<cl1>Bôt b'aye simesan</cl1>
-<c>Bôt b'aye simesan</c>
+		Bôt b'aye simesan ve mam bi nga bo.
+<br> </br>
+<c>Bôt b'aye simesan,</c>
+<c>Bôt b'aye simesan,</c>
 <c>Bôtb'aye simesan ve mam bi nga bo</c>
-<c>Zamb'a ye loen, bi ve yebe a kôlô</c>
+<c>Zamb'a ye loen, bi ve yebe a kôlô;</c>
 <c>Bôt b'aye simesan ve mam bi nga bo</c>
 <v>2</v>
-		Bôt b'aye tôñ, b'aye simesan bia
-		B'aye ke simesan mesu nge menyô
-		Vôm bi nga bé, bô befe b'aye kôan
-		Mbe b'aye simesan ve mam bi nga bo
+		Bôt b'aye tôñ, b'aye simesan bia.
+		B'aye ke simesan mesu nge menyô,
+		Vôm bi nga bé, bô befe b'aye kôan,
+		Mbe b'aye simesan ve mam bi nga bo.
 <v>3</v>
 		Nge bi nga kobo ve mam me ne zosô
-		Nge bi nga bé mbamba fes ya ényiñ
+		Nge bi nga bé mbamba fes ya ényiñ;
 		Bôt b'aye simesan ve mbamba bibuma
-		Mbamba bibuma ya mam bi nga bo
+		Mbamba bibuma ya mam bi nga bo.
 <v>4</v>
-		Môs bô bese b'aye tôbane Zambe
+		Môs bô bese b'aye tôbane Zambe,
 		A nyoñe éto nlame wé yôp été
-		Mbunan bi abuni Yésus Krist Nyii wongan
-		Nwô w'aye nyii bia sa mam bi nga bo
-<a>Mrs A.I.C</a>
+		Mbunan bi abuni Yésus Krist Nyii wongan,
+		Nwô w'aye nyii bia sa mam bi nga bo.
+<br> </br>
+<a>Mrs Albert Irwin Good</a>

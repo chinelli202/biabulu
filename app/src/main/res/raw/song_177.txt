@@ -1,43 +1,46 @@
-<h>177. MBA FOE NYÔ TATE YESUS</h>
-<t>Tune : The Gospel bells are ringing. Basa 309 - Mb 105 - Bfia 138</t>
+<h>177. MBA FOÉ NYÔ TATE YÉSUS</h>
+<br> </br>
+<t>Tune : The Gospel bells are ringing. Basa 309 - Mb 105 - Bafia 138</t>
 <v>1</v>
-		Mba foé nyô Tate Yésus
-		A nga zu nyii bia bese
-		Mbamba foé ya nyiane wongan
-		A ve bia bese ényiñ
-		Amu nya nye'ane wé
-		A nga nye'e bôt ya si nyô
-		Zambe a nga lôme Yésus
-		A zu nyii bebuni bé
-<cl1>Mbamba foé, mbamba foé</cl1>
-<c>A nga zu nyii bia bese</c>
-<c>Mbamba foé, mbamba foé</c>
-<c>A nga zu ve bia ényiñ</c>
+		Mba foé nyô Tate Yésus,
+		A nga zu nyii bia bese;
+		Mbamba foé ya nyiane wongan,
+		A ve bia bese ényiñ.
+		Amu nya nye'ane wé,
+		A nga nye'e bôt ya si nyô;
+		Zambe A nga lôme Yésus,
+		A zu nyii bebuni bé.
+<br> </br>
+<c>Mbamba foé, mbamba foé,</c>
+<c>A nga zu nyii bia bese;</c>
+<c>Mbamba foé, mbamba foé,</c>
+<c>A nga zu ve bia ényiñ.</c>
 <v>2</v>
-		Mba foé ya Tate Yésus
-		Nnye a loene bô bese
-		Tame vô'ôlô nloene Tate
-		Te fe bene zu be nnye
-		A ne bidi ya ényiñ
-		Tame di, ô bo te wu
+		Mba foé ya Tate Yésus,
+		Nnye A loene bô bese;
+		Tame vô'ôlô nloene Tate,
+		Te fe bene zu be Nye.
+		A ne bidi ya ényiñ,
+		Tame di, ô bo te wu;
 		Ja'ane nlem ô ntoo wo ndaman
-		Yésus a ye tune wo
+		Yésus A ye tune wo.
 <v>3</v>
-		Mba foé ya Tate Yésus
-		Nnye a lepe bia bese
+		Mba foé ya Tate Yésus,
+		Nnye a lepe bia bese;
 		An' ayaa ya Zambe wongan
 		D'aye zu be bôt b'aben
-		Te langan zen y'abé
-		Ve zu sobô be Yésus
-		Nnye a vañe bia be Zambe
-		Nnye étam a ve ényiñ
+		Te langan zen y'abé,
+		Ve zu sobô be Yésus;
+		Nnye A vañe bia be Zambe.
+		Nnye étam A ve ényiñ.
 <v>4</v>
-		Mba foé ya Tate Yésus
-		A ne fo'o mevak abui
-		Nnye a liti tep ya mbunan
-		Ane bi ne ngul ya nyiñ
-		Be wumu'u Zambe yôp
-		Mvo'é é boto bôt ya si nyô
-		Nyii bôt a nga bialé si nyô
-		A ne Yésus, Tat' a njôô
-<a>Mrs D.C.L</a>
+		Mba foé ya Tate Yésus,
+		A ne fo'o mevak abui;
+		Nnye A liti tep ya mbunan,
+		Ane bi ne ngul ya nyiñ.
+		Be wumu'u Zambe yôp,
+		Mvo'é é bo'o bôt ya si nyô;
+		Nyii bôt A nga bialé si nyô,
+		A ne Yésus, Tat' a njôô.
+<br> </br>
+<a>Mrs D. Coe Love</a>

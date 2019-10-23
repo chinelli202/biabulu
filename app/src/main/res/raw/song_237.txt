@@ -1,22 +1,25 @@
-<h>237. MVAME ZAMBE E NGA FAE BIA</h>
+<h>237. MVAME ZAMBE É NGA FAÉ BIA</h>
+<br> </br>
 <t>Tune : Let the lower lights be burmng. Basa 286</t>
 <v>1</v>
-		Mvame Zambe é nga faé bia
-		Vôme Yésus a nga wu
-		Nde a ve bia Mbamba Foé nyô
-		Bi adutu bôt befe
-<cl1>Kate'e fo'o ve Mbamba Foé nyô</cl1>
-<c>Bô bese b'ayiane wôk</c>
-<c>Yésus émien a ne Nyii bôt</c>
-<c>Nnye étam a ve ényiñ</c>
+		Mvame Zambe é nga faé bia,
+		Vôme Yésus A nga wu.
+		Nde A ve bia Mbamba Foé nyô
+		Bi adutu bôt befe.
+<br> </br>
+<c>Kate'e fo'o ve Mbamba Foé nyô</c>
+<c>Bô bese b'ayiane wôk.</c>
+<c>Yésus émien A ne Nyii bôt</c>
+<c>Nnye étam A ve ényiñ.</c>
 <v>2</v>
 		Ja'ane bôt ba biasé Zambe
 		A ye jamé mam abé
-		Nge b'amem a buni fo'o Nye
-		A ye liti nye'ane wé
+		Nge b'amem a buni fo'o Nye,
+		A ye liti nye'ane Wé.
 <v>3</v>
-		Bo'o mban a môt w'abuni
-		Dutu'u bôt be za ke jañ
-		Jô'ô be na, Yésus a nye'e be
-		A ye nyii be, b'aye nyiñ
-<a>Mrs A. N. Krug</a>
+		Bo'o mban a môt w'abuni,
+		Dutu'u bôt be za ke jañ,
+		Jô'ô be na, Yésus A nye'e be
+		A ye nyii be, b'aye nyiñ.
+<br> </br>
+<a>Mrs Adolf N. Krug</a>

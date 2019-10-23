@@ -1,42 +1,45 @@
-<h>168. Ô KATE MBA FOE NYÔ</h>
-<t>Tune : The Comforter has come. Basa 264 - Bfia 71</t>
+<h>168. Ô KATE MBA FOÉ NYÔ</h>
+<br> </br>
+<t>Tune : The Comforter has come. Basa 264 - Bafia 71</t>
 <v>1</v>
-		Ô kate' mba foé nyô
-		Vôm jôp d' adim atôô
-		Vom bôt b' awô' ôlun
-		Vôm bôt b' asuñesuñ
-		Ô kate' Mba Foé nyô
-		Vôm asese'e si nyô
-		Nya Mvolô Nlem a nto
-<cl1>Nya Mvolô nlem a nto</cl1>
-<c>Nya Mvolô nlem a nto</c>
-<c>Nye Yésus a nga jô</c>
-<c>A lômeya fo'o si nyô</c>
-<c>Ô kate' Mba Foé  nyô</c>
+		Ô kate' mba foé nyô,
+		Vôm jôp d'adim a tôô,
+		Vom bôt b'awô' ôlun,
+		Vôm bôt b'asuñesuñ;
+		Ô kate' mba Foé nyô
+		Vôm asese'e si nyô.
+		Nya Mvolô Nlem A nto.
+<br> </br>
+<c>Nya Mvolô nlem A nto</c>
+<c>Nya Mvolô nlem A nto</c>
+<c>Nye Yésus A nga jô</c>
+<c>A lômeya fo'o si nyô.</c>
+<c>Ô kate' Mba Foé nyô</c>
 <c>Vôm jôp d'adim a tôô</c>
-<c>Nya Mvolô Nlem a nto</c>
+<c>Nya Mvolô Nlem A nto.</c>
 <v>2</v>
-		A kômbô liti zen
-		Vôm w'aye wulu den
-		A kômbô vaa bisô
-		A mam m'ave bijô
-		A ve minlem ne mieññ
-		Te li'i wo jam ya jeñ
-		Nya Mvolô Nlem a nto
+		A kômbô liti zen,
+		Vôm w'aye wulu den,
+		A kômbô vaa bisô,
+		A mam m'ave bijô,
+		A ve minlem ne mieññ,
+		Te li'i wo jam ya jeñ:
+		Nya Mvolô Nlem A nto.
 <v>3</v>
 		A yi fe na, ô yem
-		Mam a ye ve wo nlem
-		A kômbô bo wo ñgbwa
-		Nté w'aye wulu va
-		Ye w'aye dii Nnye mbé
-		A liti foto mam y'abé
-		Nya Mvolô Nlem a nto
+		Mam A ye ve wo nlem,
+		A kômbô bo wo ñgbwa.
+		Nté w'aye wulu va;
+		Ye w'aye dii Nnye mbé,
+		A li'i fo'o mam y'abé ?
+		Nya Mvolô Nlem A nto.
 <v>4</v>
 		Me nji ke tu'a yem
-		Zen m'aye wulu den
-		Nge m'aye wô'ô mintaé
-		Nge m'aye yene mvaé
-		V'akôsa bo awu
+		Zen m'aye wulu den,
+		Nge m'aye wô'ô mintaé,
+		Nge m'aye yene mvaé,
+		V'akôsa bo awu,
 		Me nji ko woñ amu
-		Nya Mvolô Nlem a nto
-<a>Mrs E. Cozzens</a>
+		Nya mvolô Nlem A nto.
+<br> </br>
+<a>Mrs Cozzens Lucia Hammond</a>

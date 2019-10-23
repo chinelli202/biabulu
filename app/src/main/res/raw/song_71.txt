@@ -1,30 +1,32 @@
-<h>71. MBAMBA FOE A MANEYA SO</h>
-<t>Tune :Jesus saves. Basa 105 - Bfia 133</t>
+<h>71. MBAMBA FOÉ A MANEYA SO</h>
+<br> </br>
+<t>Tune : Jesus saves. Basa 105 - Bafia 133</t>
 <v>1</v>
-		Mbamba foé a maneya so
-		Za'a mi nyiñ, za'a mi nyiñ
-		Kela katan vôm ase
-		Za'a mi nyiñ. za'a mi nyiñ
-		Si'se nyô j'ayiane wôk
+		Mbamba foé a maneya so,
+		Za'a mi nyiñ, za'a mi nyiñ;
+		Kela katan vôm ase,
+		Za'a mi nyiñ, za'a mi nyiñ;
+		Si'se nyô j'ayiane wôk,
 		Teke' nlam, ve bôt b'ayem
-		Vôm ase ve tyiñe nyô
-		Za'a mi nyiñ, za'a mi nyiñ
+		Vôm ase ve tyiñe nyô,
+		Za'a mi nyiñ, za'a mi nyiñ.
 <v>2</v>
-		Kela litan bô bese
-		Za'a mi nyiñ, za'a mi nyiñ
+		Kela litan bô bese,
+		Za'a mi nyiñ, za'a mi nyiñ;
 		Bôt b'ajañ be tame wôk
-		Za'a mi nyiñ, za'a mi nyiñ
-		Fôé' te j'aye ke ôyap
-		J'aye kui susu'a si
-		Bô bese ve wô'ô mevak
-		Za'a mi nyiñ, za'a mi nyiñ
+		Za'a mi nyiñ, za'a mi nyiñ;
+		Fôé' te j'aye ke ôyap,
+		J'aye kui susu'a si,
+		Bô bese ve wô'ô mevak,
+		Za'a mi nyiñ, za'a mi nyiñ.
 <v>3</v>
-		Bô bese kôla'ane si
-		Za'a mi nyiñ, za'a mi nyiñ
-		Fôé y'ényiñ é soya fo'o
-		Za'a mi nyiñ, za'a mi nyiñ
-		Teke môt a bo'o melo
-		Teke ben ve buni fo'o
-		Bô bese ve bo été
-		Za'a mi nyiñ, za'a mi nyiñ
-<a>A.I.G</a>
+		Bô bese kôla'ane si,
+		Za'a mi nyiñ, za'a mi nyiñ;
+		Fôé y'ényiñ é soya fo'o,
+		Za'a mi nyiñ, za'a mi nyiñ;
+		Teke môt a bo'o melo,
+		Teke ben ve buni fo'o,
+		Bô bese ve bo été,
+		Za'a mi nyiñ, za'a mi nyiñ.
+<br> </br>
+<a>Rev. Albert Irwin Good</a>

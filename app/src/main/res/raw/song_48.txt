@@ -1,24 +1,26 @@
 <h>48. MBAMBA ALU</h>
-<t>Tune : Silent Night. Basa 62 - Bfia 25 - Saf 81</t>
+<br> </br>
+<t>Tune : Silent Night. Basa 62 - Bafia 25 - SAF 81</t>
 <v>1</v>
-		Mbamba alu, si ne mièññ
+		Mbamba alu, si ne mièññ!
 		Mam mese me nto mvo'é
-		Mfa'a ya minga ba mone wé
-		Mbamba nkeñelé, mfefé Mon
-		A nga tabe ôyo
-		A nga tabe ôyo
+		Mfa'a ya minga ba mone wé,
+		Mbamba nkeñelé, mfefé Mon,
+		A nga tabe ôyo,
+		A nga tabe ôyo.
 <v>2</v>
-		Mbamba alu, si ne mièññ
+		Mbamba alu, si ne mièññ!
 		Ve beba'ale be mbe woñ
 		Amu benga wô'ô beta be mam
 		Be nga yene fe nsamba ya yôp
-		Nyii bôt a nga zu
-		Nyii bôt a nga zu
+		Nyii bôt a nga zu,
+		Nyii bôt a nga zu.
 <v>3</v>
-		Mbamba alu, si ne mièññ
-		A yésus, ô nga zu
-		Amu nye'an ô nga nye'e bôt
-		O nga nyii be, a liti be mvam
-		Mbamba mbialane fo'o
+		Mbamba alu, si ne mièññ!
+		A Yésus, Ô nga zu
+		Amu nye'an Ô nga nye'e bôt
+		Ô nga nyii be, a liti be mvam
+		Mbamba mbialane fo'o,
 		Mbamba mbialane fo'o.
+<br> </br>
 <a>Rev. Albert Irwin Good</a>

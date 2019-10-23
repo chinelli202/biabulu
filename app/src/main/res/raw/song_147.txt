@@ -1,32 +1,35 @@
 <h>147. Ô BUNI'I ZAMBE NNYE A DAÑ</h>
-<t>Tune : Faith in the victory. Basa 125 - Bfia 87</t>
+<br> </br>
+<t>Tune : Faith in the victory. Basa 125 - Bafia 87</t>
 <v>1</v>
-		O buni'i. Zambe, Nnye a dañ
-		A kômesane ngu
-		O bo'o bita be mbia môt
-		A ngul a mban ôse
-		Kele' bita a bo ayok
-		Bita bi bi n'abé
-		Ve mbunan ñwô w'adañ abui
-		W'adañe mam mese
-<cl1>Mbunan ô dañeya! mbuna ô dañeya</cl1>
-<c>Ô dañeya fo'o abui, w'adañe mam mese</c>
+		Ô buni'i Zambe, Nnye A dañ,
+		A kômesane ngu;
+		Ô bo'o bita be mbia môt
+		A ngul a mban ôse.
+		Kele' bita a bo ayok,
+		Bita bi bi n'abé;
+		Ve mbunan ñwô w'adañ abui,
+		W'adañe mam mese.
+<br> </br>
+<c>Mbunan ô dañeya ! mbuna ô dañeya !</c>
+<c>Ô dañeya fo'o abui, w'adañe mam mese.</c>
 <v>2</v>
-		O bii' fe nlinga wé ya nye'an
-		Mejô mé me ne fa
-		O tôñe' nsamba bôt ya kôa
-		O kuiya nlam ya yôp
-		O bili mbunan ô nga dañ
-		Ve tyiñe yôp a fôn
+		Ô bii' fe nlinga wé ya nye'an,
+		Mejô mé me ne fa;
+		Ô tôñe' nsamba bôt ya kôa.
+		Ô kuiya nlam ya yôp.
+		Ô bili mbunan ô nga dañ,
+		Ve tyiñe yôp a fôn;
 		Nde mbunan ô ne fo'o été
-		Eben ya kame bia
+		Eben ya kame bia.
 <v>3</v>
-		Besiñ abui b'ayabe bia
-		B'akômbô bo bita
-		Ajô te, te fe kate njuk
-		Eyoñ w'anyin été
-		O jaé' ében ya zôsô tôé
-		A bo ve ngule nlem
+		Besiñ abui b'ayabe bia,
+		B'akômbô bo bita;
+		Ajô te, te fe kate njuk,
+		Eyoñ w'anyin été.
+		Ô jaé' ében ya zôsô tôé,
+		A bo ve ngule nlem;
 		Besiñ be ne fe woñ abui
-		Nde mbunan w'aye dañ
-<a>W.M.D</a>
+		Nde mbunan w'aye dañ.
+<br> </br>
+<a>Rev. William Moore Dager</a>

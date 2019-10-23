@@ -1,27 +1,30 @@
-<h>51. BI AKATE JEA ABEAE JOE</h>
-<t>Tune : The Sweetest name. Basa 239 - Bfia 62</t>
+<h>51. BI AKATE JEÑ ABEÑE JÔÉ</h>
+<br> </br>
+<t>Tune : The Sweetest name. Basa 239 - Bafia 62</t>
 <v>1</v>
-		Bi akete jeñ abeñe jôé
-		Nge si nge yôp be Zambe
-		D' abo abeñ avale di
-		Mbamba Nyii wongan, Yésus
-<cl1>Bi anye'e bii kañe' Nye, Njôô Bôt</cl1>
-<c>A lo Nye Mona Zambe</c>
-<c>Ve jôé d' adañe môé mese</c>
+		Bi akete jeñ abeñe jôé,
+		Nge si nge yôp be Zambe;
+		D'abo abeñ avale di,
+		Mbamba Nyii wongan, Yésus.
+<br> </br>
+<c>Bi anye'e bi kañe' Nye, Njôô Bôt,</c>
+<c>A lo Nye Mona Zambe;</c>
+<c>Ve jôé d'adañe môé mese</c>
 <c>E ne ve di ya Yésus</c>
 <v>2</v>
-		Môs a nga wu a tyele yôp
-		Jôé dé e mbe fe ntilan
-		Bôt be nga lañ a yeme na
-		Jôé te e mbe nya jôé wé
+		Môs A nga wu a tyele yôp,
+		Jôé dé e mbe fe ntilan;
+		Bôt be nga lañ a yeme na,
+		Jôé te e mbe nya jôé wé.
 <v>3</v>
-		Eyoñe ji a bili ngu
-		A nto mbo nnôm be Zambe
-		A nyii fe bôt b'abo abé
-		Nge b'aye buni jôé dé
+		Eyoñe ji a bili ngu,
+		A nto mbo nnôm be Zambe;
+		A nyii fe bôt b'abo abé,
+		Nge b'aye buni jôé dé.
 <v>4</v>
-		Jôé Tate Zambe e n'étyi
-		Di Mba Nsisim fe nalé
-		Ve jôé ya Mon adañe kañ
-		Amu a nto Nyii wongan
-<a>A.I.G</a>
+		Jôé Tate Zambe e n'étyi,
+		Di Mba Nsisim fe nalé;
+		Ve jôé ya Mon bi adañe kañ,
+		Amu a nto Nyii wongan.
+<br> </br>
+<a>Rev. Albert Irwin Good</a>

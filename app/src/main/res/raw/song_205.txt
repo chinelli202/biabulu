@@ -1,22 +1,25 @@
 <h>205. BIA BELA BI SOYA ÔYAP</h>
-<t>Tune : We three Kings of Orient are. Basa 65</t>
+<br> </br>
+<t>Tune : We three Kings of Orient Are. Basa 65</t>
 <v>1</v>
-		Bia bela bi soya ôyap
-		Bia beyeme mam ya si nyô
+		Bia bela bi soya ôyap,
+		Bia beyeme mam ya si nyô.
 		Bi atôñe ôteté
-		Nvie vi aliti zen
-<cl1>A mba ôteté faé' ôyap</cl1>
-<c>Liti'i bôt abeñe jam</c>
-<c>Liti'i beta njôô ya si nyô</c>
-<c>Bô bese be kañe' nye</c>
+		Nvie vi aliti zen.
+<br> </br>
+<c>A mba ôteté faé' ôyap</c>
+<c>Liti'i bôt abeñe jam;</c>
+<c>Liti'i beta njôô ya si nyô,</c>
+<c>Bô bese be kañe' Nye.</c>
 <v>2</v>
-		Bi azu nye mbamba be biôm
-		Biôm bite ve yiane nye
+		Bi azu Nye mbamba be biôm;
+		Biôm bite ve yiane Nye;
 		Faé', ôteté! Liti'i zôsô
-		Vôm émien a né
+		Vôm émien A né.
 <v>3</v>
-		Liti'i bia vôm yésus a bôô
-		A ne Njô bôt, nnye bi ajen
-		Bi ve tôn, a kañe fe nye
-		Vôm ase a too
-<a>Mrs A.I.G</a>
+		Liti'i bia vôm yésus A bôô
+		A ne Njô bôt, nNye bi ajen;
+		Bi ve tôn, a kañe fe Nye
+		Vôm ase A too.
+<br> </br>
+<a>Mrs Albert Irwin Good</a>

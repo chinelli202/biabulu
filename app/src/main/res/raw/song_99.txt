@@ -1,11 +1,13 @@
 <h>99. YESUS WOM KO MA ENGÔNGO</h>
+<br> </br>
 <t>Tune : Pass me not. Basa 101 - Mb 221 - Bfia 150</t>
 <v>1</v>
 		Yésus wom ko ma éngôngo
 		Me m'adañ abé
 		Bô bevo'o b'ayen ébotan
 		Ye w'alôte ma ?
-<cl1>Yésus, Yésus, Ô ne mvam abui</cl1>
+<br> </br>
+<c>Yésus, Yésus, Ô ne mvam abui</c>
 <c>Bô bevo'o b'ayen ébotan</c>
 <c>Ye w'alôte ma</c>
 <v>2</v>
@@ -18,4 +20,5 @@
 		Tame va éñwom
 		Ô nga wômôlô miñwuan
 		Me m'ayi ényiñ
+<br> </br>
 <a>S.F.F</a>

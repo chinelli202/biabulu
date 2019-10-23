@@ -3,6 +3,7 @@ package com.chinellli.gib.biabulu;
 import android.arch.lifecycle.LiveData;
 import android.arch.persistence.room.Room;
 import android.content.Context;
+import android.database.sqlite.SQLiteConstraintException;
 import android.support.test.InstrumentationRegistry;
 import android.support.test.runner.AndroidJUnit4;
 
@@ -66,6 +67,32 @@ public class ListedSongTests {
          List<ListedSong> allSongs = listedSongDao.findAll();
          assertTrue(!allSongs.isEmpty());
          assertEquals(allSongs.get(0).getNum(),mySong.getNum());
+     }
+
+     @Test
+     public void insertWithFailTest(){
+         Category category = new Category("Deuils");
+         catDao.insert(category);
+         List<Category> listCat = catDao.findAllCats();
+         assertTrue(!listCat.isEmpty());
+         assertEquals(listCat.get(0).getName(),category.getName());
+         Category inserted = listCat.get(0);
+         ListedSong mySong = new ListedSong(185,inserted);
+         listedSongDao.insert(mySong);
+
+         long id;
+         try{
+             ListedSong song2 = new ListedSong(185,inserted);
+             id = listedSongDao.insertWithFail(song2);
+         }
+
+         catch(SQLiteConstraintException e){
+             System.out.println("db constraint violated");
+         }
+
+
+
+
      }
 
      @Test

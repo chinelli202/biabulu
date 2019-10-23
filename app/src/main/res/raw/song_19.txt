@@ -1,17 +1,20 @@
 <h>19. YESUS WOM M' AKÔMBÔ KU</h>
-<t>Tune : Near the Cross. Basa 77 - Mb 64 - Bfia 9</t>
+<br> </br>
+<t>Tune : Near the Cross. Basa 77 - Mb 64 - Bafia 99</t>
 <v>1</v>
-		Yésus wom m' akômbô ku bebé mebo moé
-		Womien w' aye liti ma mame mvaé be Zambe
-<cl1>Yésus wom, Yésus wom, m' aye kañe ve wo</cl1>
+		Yésus wom m'akômbô ku bebé mebo moé
+		Womien w'aye liti ma mame mvaé be Zambe
+<br> </br>
+<c>Yésus wom, Yésus wom, m'aye kañe ve wo</c>
 <c>Akekui éyoñ éte, Zambe a ye lo ma</c>
 <v>2</v>
 		M'aye yene mvam' be Wo, ô ne nko éngôngo
-		Wôna w' aye bete ma, me ve yene mvaé woé
+		Wôna w'aye bete ma, me ve yene mvaé woé
 <v>3</v>
 		M'aye wô'ô benya mejôô, m'aye tu'a simsan
-		Wôna m' aye fo'o yen zen j' ake be Zambe
+		Wôna m'aye fo'o yen zen j'ake be Zambe
 <v>4</v>
 		Mbunan m'aye buni wo w'aye fo'o nyii ma
 		Volô'ô ma éyoñe ji, m'aye tua buni.
-<a>C. W. Mc C.</a>
+<br> </br>
+<a>Rev. Charles Warner Mac Cleary</a>

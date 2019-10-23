@@ -1,4 +1,5 @@
-<h>22. MBUNAN MBA BE BOT YA KÔA</h>
+<h>22. MBUNAN MBA BE BÔT YA KÔA</h>
+<br> </br>
 <t>Tune : Faith of our Fathers. Basa 223</t>
 <v>1</v>
 		Mbunane mba be bôt ya kôa
@@ -11,21 +12,22 @@
 		Mbunan mba be bôt ya kôa
 		Ô mbe fe ngu, te fun awu
 		Bi ne fe bon ya bô bete
-		Ng'awu d' azu, ve jibi fe
+		Ng'awu d'azu, ve jibi fe
 		Mbunan ya kôa abene jôm
-		Bia fe ve ba' ale nnôm éto
+		Bia fe ve ba'ale nnôm éto
 <v>3</v>
 		Mbunane mba be bôt ya kôa
-		W' aye fe dutu bôt abui
+		W'aye fe dutu bôt abui
 		Nge bôt be wô'ô benya mejôô
 		Bôt ya si nyô ve bo beti
 		Mbunan ya kôa, abeñe jôm
 		Bia fe ve ba'ale nnôm éto
 <v>4</v>
 		Mbunane mba be bôt ya kôa
-		W' aye'ele mvo'é vôm bôt be to
-		W' aliti mba be mam ya bo
-		W' anyii fe bôt b'anyôñe wô
+		W'aye'ele mvo'é vôm bôt be to
+		W'aliti mba be mam ya bo
+		W'anyii fe bôt b'anyôñe wô
 		Mbunan ya kôa, abeñe jôm
 		Bia fe ve ba'ale nnôm éto.
-<a>Rev. A.I. Good, D.D</a>
+<br> </br>
+<a>Rev. Albert Irwin Good D.D</a>

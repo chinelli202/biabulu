@@ -1,22 +1,26 @@
-<h>230. MBA EFUFUP</h>
-<t>Tune : There is sunshine in my soul today. Bña 179</t>
+<h>230. MBA ÉFUFUP</h>
+<br> </br>
+<t>Tune : There is sunshine in my soul today. Bafia 179</t>
 <v>1</v>
-		Mba éfufup a ne nleme wom
-		Nnye a dañe nyô ya jôp
-		Yésus Nnye a n'Efufup éte
-		Efe te dañe Nye
-<cl1>A Efufup, Mbaa Efufup</cl1>
-<c>Volô'ô ma, me faé ve mfaéane wôé</c>
-<c>Nge m' abo ve mam ya Zambe wom</c>
-<c>M'aye liti Krist été</c>
-<cl1>2</cl1>
-<c>Yésus a ne mbamba lampe wom</c>
-<c>Nnye a liti mfa'a m'ake</c>
-<c>Ete Nye a faé ma zene jam</c>
-<c>Me vo'o ke, ma étam</c>
+		Mba éfufup a ne nleme wom,
+		Nnye a dañe nyô ya jôp;
+		Yésus Nnye A n'Efufup éte
+		Éfe te dañe Nye.
+<br> </br>
+<c>A Éfufup, Mbaa Éfufup</c>
+<c>Volô'ô ma, me faé ve mfaéane wôé,</c>
+<c>Nge m'abo ve mam ya Zambe wom,</c>
+<c>M'aye liti Krist été.</c>
+<br> </br>
 <v>2</v>
-		Dibi e vo'o bo' be Yésus Krist
-		Nnye a yem mezen mese
+		Yésus A ne mbamba lampe wom
+		Nnye A liti mfa'a m'ake;
+		Éte Nye a faé ma zene jam
+		Me vo'o ke, ma étam.
+<v>3</v>
+		Dibi e vo'o bo' be Yésus Krist,
+		Nnye A yem mezen mese;
 		Môs, alu, avale da be Nye
-		Efufup ya si nyô
+		Éfufup ya si nyô.
+<br> </br>
 <a>Mrs D. Coe Love</a>

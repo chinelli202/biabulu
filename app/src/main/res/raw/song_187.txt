@@ -1,18 +1,20 @@
-<h>﻿187. MVO'E, NYA MVO'E NLEM</h>
-<t>Tune : Peace, perfect peace: Basa 166 - Saf 395</t>
+<h>187. MVO'É, NYA MVO'É NLEM</h>
+<br> </br>
+<t>Tune : Peace, perfect peace. Basa 166 - SAF 395</t>
 <v>1</v>
-		Mvo'é, nya mvo'é nlem, a kôsa bo si nyô
+		Mvo'é, nya mvo'é nlem, a kôsa bo si nyô.
 		Metyi me Yésus, mme m'ave mvo'é nyô
 <v>2</v>
 		Mvo'é, nya mvo'é nlem, me kôsa yen abé
-		Amu Mbaa Nsisim a ve ma mvaé jé
+		Amu Mbaa Nsisim A ve ma mvaé jé.
 <v>3</v>
-		Mvo'é, nya mvo'é nlem, a kôsa bo azoé
-		Amu Mbaa Nsisim a ve ma nya mvo'é
+		Mvo'é, nya mvo'é nlem, a kôsa bo azoé.
+		Amu Mbaa Nsisim A ve ma nya mvo'é.
 <v>4</v>
-		Mvo'é, nya mvo'é nlem, a kôsa bo ôlun
-		Ke nju'u ya si nyô w' aye bo étun
+		Mvo'é, nya mvo'é nlem, a kôsa bo ôlun.
+		Ke nju'u ya si nyô w'aye bo étun.
 <v>5</v>
-		Mvo'é, nya mvo'é nlem, a kôsa bo awu
-		Ke Yésus a nga dañ awu a ngu
-<a>Mrs. E.C</a>
+		Mvo'é, nya mvo'é nlem, a kôsa bo awu.
+		Ke Yésus A nga dañ awu a ngu.
+<br> </br>
+<a>Mrs. Edwin Cozzens Lucia Hammond</a>

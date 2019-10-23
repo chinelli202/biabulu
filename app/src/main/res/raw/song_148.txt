@@ -1,27 +1,30 @@
-<h>148. MELU YA SI NYÔ ME M'ALÔT</h>
+<h>148. MELU YA SI NYÔ MME M'ALÔT</h>
+<br> </br>
 <t>Tune : My days are gliding</t>
 <v>1</v>
-		Melu ya si nyô mme m'alôt
-		A me ne jôm ve ntabe
+		Melu ya si nyô mme m'alôt,
+		A me ne jôm ve ntabe;
 		M'anye'e ve na, melu me man
-		Amu abé y'éto ji
-<cl1>Den bi ne fo'o fefel awu</cl1>
+		Amu abé y'éto ji.
+<br> </br>
+<c>Den bi ne fo'o fefel awu,</c>
 <c>Bôt abui fe be wuya!</c>
 <c>A mamien me nji yem éyoñ</c>
-<c>Nje ma fe m'aye kôlô</c>
+<c>Nje ma fe m'aye kôlô.</c>
 <v>2</v>
-		Bi ayiane bo minleme ngu
+		Bi ayiane bo minleme ngu,
 		A bo v'ésaé Nti Yésus
-		Ji émien a nga liti na
-		Bi kate mbamba foé wé
+		Ji émien A nga liti na,
+		Bi kate mbamba foé Wé.
 <v>3</v>
-		Nge m'aye beta bi ôlun
-		Me m'aye bo ve jibi
-		Amu Yésus a volô nlem
-		A ve ma mam m'ayian
+		Nge m'aye beta bi ôlun,
+		Me m'aye bo ve jibi;
+		Amu Yésus A volô nlem,
+		A ve ma mam m'ayian.
 <v>4</v>
-		Akôsa bo mam ya si nyô
-		M'atindi mbia ntindan
-		Mbamba Nsisim a volô nlem
-		A too be ma, te kôlô
+		Akôsa bo mam ya si nyô,
+		M'atindi mbia ntindan;
+		Mbamba Nsisim A volô nlem,
+		A too be ma, te kôlô.
+<br> </br>
 <a>Rev. Melvin Frazer</a>

@@ -1,18 +1,20 @@
 <h>23. NNYE A NGA BÔÔ SOÑ</h>
-<t>Tune : Christ Arose. Basa 78 Mb 72-Bfia 39 - saf 120</t>
+<br> </br>
+<t>Tune : Christ Arose. Basa 78 - Mb 72 - Bafia 39 - SAF 120</t>
 <v>1</v>
 		Nnye a nga bôô soñ
 		Yésus Nyii wongan
 		Ve yange Esa wé
 		Yésus Nyii wom
-<cl1>A teme na a nga vee</cl1>
+<br> </br>
+<c>A teme na a nga vee</c>
 <c>A nga vee ôyo y'awu a ngu</c>
 <c>A nga wômô soñ a dan besiñe bé</c>
 <c>An'éyoñe ji a to fe Zamb'a né</c>
 <c>A nga vee, a nga vee</c>
 <c>Yésus a nga vee awu</c>
 <v>2</v>
-		Bôt be nga mombô son
+		Bôt be nga mombô soñ
 		Yésus Nyii wongan
 		E mbe fe nyemetan
 		Yésus nyii wom
@@ -21,4 +23,5 @@
 		Yésus Nyii Wongan
 		Nnye a nga dañe de
 		Yésus Nyii wom.
-<a>Mrs. C. W Mc Clean.</a>
+<br> </br>
+<a>Madame Charles Warner Mc Cleary</a>

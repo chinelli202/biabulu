@@ -1,27 +1,30 @@
 <h>211. NJÔÔ WOM A TAT</h>
+<br> </br>
 <t>Tune : Lead me to Calvary. Basa 73</t>
 <v>1</v>
-		Njôô wom A Tat, m'akañe wo
-		Duma e bo'o be wo
-		A za bo na, me vuane wo
-		Liti'i me ke Kalvaire
-<cl1>Me bo'o te vuan Gethsémané</cl1>
-<c>Me bo te vuane minlune miôé</c>
-<c>Me bo'o te vuane mvame jôé</c>
-<c>Liti'i me ke Kalvaire</c>
+		Njôô wom A Tat, m'akañe Wo,
+		Duma e bo'o be Wo;
+		A za bo na, me vuane Wo,
+		Liti'i me ke Kalvaire.
+<br> </br>
+<c>Me bo'o te vuan Gethsémané,</c>
+<c>Me bo te vuane minlune miôé.</c>
+<c>Me bo'o te vuane mvame jôé,</c>
+<c>Liti'i me ke Kalvaire.</c>
 <v>2</v>
-		Liti'i me soñ vôm ô nga bôô
-		Vôm be nga yôn a yi
-		Ange a nga to a mombô' wo
-		Akekui mametyé
+		Liti'i me soñ vôm Ô nga bôô,
+		Vôm be nga yôn a yi;
+		Ange a nga to a mombô' Wo,
+		Akekui mametyé.
 <v>3</v>
-		M' akômbôzu ane Maria
+		M'akômbôzu ane Maria
 		Me zule mveane wom
-		Liti'i me éwôwôlé soñ
-		Liti'i ma ke Kalvaire
+		Liti'i me éwôwôlé soñ,
+		Liti'i ma ke Kalvaire.
 <v>4</v>
-		Yebe'e A Tat, me be'e Krôa jam
-		Me toñe zene jôé
-		A kôsa bo m'awô'ô mintaé
-		Wo ô nga dañedañ
+		Yebe'e A Tat, me be'e Krôa jam,
+		Me toñe zene jôé;
+		A kôsa bo m'awô'ô mintaé,
+		Wo Ô nga dañedañ.
+<br> </br>
 <a>E.M.R</a>

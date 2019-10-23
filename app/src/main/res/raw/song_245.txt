@@ -1,24 +1,26 @@
 <h>245. AKEKUI A BETA ZU</h>
-<t>Tune : Till He comes. Saf 277</t>
+<br> </br>
+<t>Tune : Till He comes. SAF 277</t>
 <v>1</v>
-		Akekui a beta zu
-		Za'a di tawôlô wé
+		Akekui A beta zu,
+		Za'a di tawôlô wé.
 		Ja'a fembé, nya'a waen
-		Yi'a jia, ye'elan
+		Yi'a jia, ye'elan,
 		Simesa'an Nye biyoñ biyoñ
-		Akekui a beta zu
+		Akekui A beta zu.
 <v>2</v>
-		Akekui a beta zu
-		Bi aye jibi mam mese
-		Bi aye yé'é mejô mé
-		Bi aye kate Mba foé wé
-		Bi aye wô'ô Nsisim wé
-		Akekui a beta zu
+		Akekui A beta zu,
+		Bi aye jibi mam mese.
+		Bi aye yé'é mejô mé,
+		Bi aye kate Mba foé Wé,
+		Bi aye wô'ô Nsisim Wé
+		Akekui A beta zu.
 <v>3</v>
-		Akekui a beta zu
-		Bi aye tôban mam y'awu
-		Abui d'aye ke ôsu
-		Ba bevok ve li'i mu
+		Akekui A beta zu,
+		Bi aye tôban mam y'awu.
+		Abui d'aye ke ôsu,
+		Ba bevok ve li'i mu,
 		Mmbe bete b'aye yi du
-		V'akekui a beta zu
-<a>Mrs E. C</a>
+		V'akekui A beta zu.
+<br> </br>
+<a>Mrs Edwin Cozzens Lucia Hammond</a>

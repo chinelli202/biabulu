@@ -4,7 +4,6 @@ import android.app.ListActivity;
 import android.app.SearchManager;
 import android.content.Intent;
 import android.net.Uri;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ArrayAdapter;
@@ -39,8 +38,8 @@ public class SearchableActivity extends ListActivity {
         else if(Intent.ACTION_VIEW.equals(intent.getAction())){
             Uri data = intent.getData();
             int pos = Integer.valueOf(data.toString());
-            Intent intent2 = new Intent(SearchableActivity.this,SongCollectionActivity.class);
-            intent.putExtra(SingleSongFragment.POSITION_CANTIQUE,pos);
+            Intent intent2 = new Intent(SearchableActivity.this,ReaderActivity.class);
+            intent.putExtra(SongReaderFragment.POSITION_CANTIQUE,pos);
             startActivity(intent2);
         }
         //run search method
@@ -68,8 +67,8 @@ public class SearchableActivity extends ListActivity {
         content = content.replaceAll("\\s","");
         String tokens[] = content.split("-");
         int pos = Integer.valueOf(tokens[0]);
-        Intent intent = new Intent(SearchableActivity.this,SongCollectionActivity.class);
-        intent.putExtra(SingleSongFragment.POSITION_CANTIQUE,pos);
+        Intent intent = new Intent(SearchableActivity.this,ReaderActivity.class);
+        intent.putExtra(SongReaderFragment.POSITION_CANTIQUE,pos);
         startActivity(intent);
     }
 }

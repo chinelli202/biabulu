@@ -1,15 +1,10 @@
 package com.chinellli.gib.biabulu;
 
 import android.app.Activity;
-import android.app.Dialog;
 import android.app.DialogFragment;
 import android.content.Intent;
 import android.os.Handler;
-import android.support.v4.app.FragmentActivity;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.text.Spannable;
-import android.text.SpannableString;
 import android.view.View;
 import android.widget.TextView;
 
@@ -21,7 +16,7 @@ public class Splashscreen extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splashscreen);
-        textview = findViewById(R.id.textView_splashscreen);
+        //textview = findViewById(R.id.textView_splashscreen);
 
         //spanned text labing
         //String str = "This is some new string line\n\nand this is another one.\nhow does this play out?";
@@ -57,8 +52,8 @@ public class Splashscreen extends Activity {
 
     }
 
-    public void onclick(View view){
-        DialogFragment dialogFragment = new NewCategoryDialogFragment();
+    /*public void onclick(View view){
+        DialogFragment dialogFragment = new CategoryEditDialogFragment();
         dialogFragment.show(getFragmentManager(),"newCat");
-    }
+    }*/
 }

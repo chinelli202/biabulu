@@ -1,26 +1,29 @@
-<h>182. NGE MVO'E, NGE MEVAK</h>
-<t>Tune : It is well with my soul. Basa 207 - Mb 260 - Bfia 186 - Saf 411</t>
+<h>182. NGE MVO'É, NGE MEVAK</h>
+<br> </br>
+<t>Tune : It is well with my soul. Basa 207 - Mb 260 - Bafia 186 - SAF 411</t>
 <v>1</v>
 		Nge mvo'é, nge mevak, bi aye toñe ma zen
-		Ng'ôlun vi aye yandane nlem
-		Jam wo w'aye ve, m'aye kañese na
-		Nleme wom ô ne mvo'é, o ne mvo'é
-<cl1>Nleme wom ô ne mvo'é</cl1>
+		Ng'ôlun vi aye yandane nlem;
+		Jam Wo W'aye ve, m'aye kañese na,
+		Nleme wom ô ne mvo'é, ô ne mvo'é.
+<br> </br>
+<c>Nleme wom ô ne mvo'é,</c>
 <c>(Nleme wom ô ne mvo'é)</c>
-<c>Nleme wom ô ne mvo'é, ô ne mvo'é</c>
+<c>Nleme wom ô ne mvo'é, ô ne mvo'é.</c>
 <v>2</v>
-		Nge Satan a wosan, nge njuk w'aye dañ
-		Ke mbunane wom ô vo'o man
-		Nyii wom a lô ma, a ye volô fe ma
-		A nga kulu metyi amu ma
+		Nge Satan a wosan, nge njuk w'aye dañ,
+		Ke mbunane wom ô vo'o man;
+		Nyii wom A lô ma, A ye volô fe ma;
+		A nga kulu metyi amu ma,
 <v>3</v>
-		Eyoñ me m'asimesan abé me nga bo
-		A ma'an m'aye bo me ne awu
-		Nde Krist a nga wu, a vaa fo'o ma mekua
-		M'aye ve nye akéva te lan
+		Eyoñ me m'asimesan abé me nga bo,
+		A ma'an m'aye bo me n'awu;
+		Nde Krist A nga wu, a vaa fo'o ma mekua
+		M'aye ve Nye akéva te lan.
 <v>4</v>
-		Nge Tate a zu den, asu'ulan ve kui
-		A yôp d'aye kandane zañ
-		Nge toñ j'aye jô, a nge Krist a ye so
-		Ja'ane den, nleme wom ô ne mvo'é
-<a>A.A</a>
+		Nge Tate A zu den, asu'ulan ve kui,
+		A yôp d'aye kandane zañ;
+		Nge toñ j'aye jô, a nge Krist A ye so,
+		Ja'ane den, nleme wom ô ne mvo'é.
+<br> </br>
+<a>Rev. Akoa Abômô François</a>

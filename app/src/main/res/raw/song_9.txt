@@ -1,12 +1,13 @@
 <h>9. A TAT, ANE W'ANYE'E</h>
+<br> </br>
 <t>Tune : My Yesus, as Thou Wilt. Basa 221</t>
 <v>1</v>
-		A Tat, ane w' anye'e, m' akômbô wô'ô ve wo
+		A Tat, ane W'anye'e, m'akômbô wô'ô ve Wo
 		Liti'i ma zene mvaé, me wulu zen éte
-		To m' aye wô ôlun, to m'aye wô avak
-		Volô'ô me jô fo'o na, A Tat, ane w'anye'e
+		To m'aye wô ôlun, to m'aye wô avak
+		Volô'ô me jô fo'o na, A Tat, ane W'anye'e.
 <v>2</v>
-		A Tat, ane w'anye'e, a kôsa bd m'aya'a
+		A Tat, ane w'anye'e, akôsabo m'aya'a
 		M'ajibi fo'o mintaé, te kômbô kate jam
 		Nge m'aye bo azoé, te yen akum abui
 		Ve supe mam mese, A Tat, ane W'anye'e.
@@ -14,6 +15,6 @@
 		A Tat, ane w'anye'e, me nji bo jôme jam
 		Wo ô nga té fo'o ma, a wu étome jam
 		Enyiñ a ngul ése, bi nga so ve be wo
-		W' ayiane lepe ma, A Tat, ane w'anye'e.
-		M.E
-<a></a>
+		W'ayiane lepe ma, A Tat, ane w'anye'e.
+<br> </br>
+<a>Rev. Melvin Frazer</a>

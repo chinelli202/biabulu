@@ -1,22 +1,25 @@
-<h>232. MEJÔ MOE ME NTO LAMPE WOM</h>
+<h>232. MEJÔ MOÉ ME NTO LAMPE WOM</h>
+<br> </br>
 <t>Tune : Thy word have I hid in my heart. Basa 192</t>
 <v>1</v>
 		Mejô môé me nto lampe wom
-		M'aliti ma zene jam
-		M'alepe ma mam m'aye bo
-		Me jeffe ve mam w' anye'e
-<cl1>Mejô môé me solô ma nlem</cl1>
-<c>A za bo na, m'abiasé wo</c>
-<c>Me za biasé wo, me za biasé wo</c>
+		M'aliti ma zene jam,
+		M'alepe ma mam m'aye bo.
+		Me jeñe ve mam W'anye'e.
+<br> </br>
 <c>Mejô môé me solô ma nlem</c>
+<c>A za bo na, m'abiasé Wo</c>
+<c>Me za biasé Wo, me za biasé Wo</c>
+<c>Mejô môé me solô ma nlem.</c>
 <v>2</v>
 		Mejô môé me to nnôm éto
 		Te selan te kôñelan
-		Mejô môé te selane da
-		Mese me ne fo'o été
+		Mejô môé te selane da,
+		Mese me ne fo'o été.
 <v>3</v>
-		Mejô môé m' akañete foé
+		Mejô môé m'akañete foé
 		Awu Nti Yésus Nyii wom
 		A ve fo'o nya nyian a mvo'é
-		Be bôt b'aye buni Nye
+		Be bôt b'aye buni Nye.
+<br> </br>
 <a>Mrs D. coe Love</a>

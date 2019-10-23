@@ -1,27 +1,30 @@
 <h>7. TATE ZAMBE ANE AKOK</h>
-<t>A Shelter in the time of storm. Basa 38 - Mb 199 - Bfia 184</t>
+<br> </br>
+<t>Tune : A Shelter in the time of storm. Basa 38 - Mb 199 - Bfia 184</t>
 <v>1</v>
 		Tate Zambe ane akok
 		Asoé bi asob' ôkôs
-		Te yene jônvé vo'o de bôé
+		Te yene jôm é vo'o de bôé
 		Asoé bi asob' ôkôs
-<cl1>Ya, Yésus a n'akok, e ne mbia si</cl1>
+<br> </br>
+<c>Ya, Yésus a n'akok, e ne mbia si</c>
 <c>Mbia si, mbia si</c>
 <c>Ya Yésus a n'akok e ne mbia si</c>
-<c>Asoé bi asob'ôkôs</c>
+<c>Asoé bi asob' ôkôs</c>
 <v>2</v>
 		Andil alu, ôlem a môs
-		Asoé bi asob'ôkôs
+		Asoé bi asob' ôkôs
 		Te boté mveñ, te ko fe wôn
-		Asoé bi asob'ôkôs
+		Asoé bi asob' ôkôs
 <v>3</v>
 		Okôs ve vuñ, bi to ve nkôt
-		Asoé bi asob'ôkôs
+		Asoé bi asob' ôkôs
 		Bita ve kui te mate jôm
-		Asoé bi asob'ôkôs
+		Asoé bi asob' ôkôs
 <v>4</v>
 		Ako'o bi bili e ne ngu
-		Asoé bi asob'ôkôs
+		Asoé bi asob' ôkôs
 		Bi se fe ngul ya kôlô de
-		Asoé bi asob'ôkôs
-<a>Rey. C. W. Mc Cleary</a>
+		Asoé bi asob' ôkôs
+<br> </br>
+<a>Rey. Charles Warner Mac Cleary</a>

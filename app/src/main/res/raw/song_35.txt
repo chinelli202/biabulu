@@ -1,27 +1,30 @@
-<h>35. ZAMB'A YE FO'O LÔM EBOTAN</h>
-<t>Tune : There shall be Showers of blessing. Basa 102 - Bfia 164 - Saf 145</t>
+<h>35. ZAMB'AYE FO'O LÔM ÉBOTAN</h>
+<br> </br>
+<t>Tune : There shall be showers of blessing. Basa 102 - Bafia 164 - SAF 145</t>
 <v>1</v>
 		Zamb'a ye fo'o lôm ébotan
 		Nalé émien a nga jô
 		Wôna melu me y'évôvoé
-		M'aye liti bia mvaé
-<cl1>No'o bia ébotan</cl1>
-<c>J aye fo'o so ane mveñ</c>
+		M'aye liti bia mvaé.
+<br> </br>
+<c>No'o bia ébotan</c>
+<c>J'aye fo'o so ane mveñ</c>
 <c>Vôm metoé me nga toé tyôtyoé</c>
-<c>Bi ayefo'o yen abui</c>
+<c>Bi aye fo'o yen abui</c>
 <v>2</v>
 		Zamb'a ye fo'o lôm ébotan
 		Mbamba ényiñ a n'été
 		Afôla se bi afombô
-		Ve yene beta mendem
+		Ve yene beta mendem.
 <v>3</v>
 		Zamb'a ye fo'o lôm ébotan
-		Jika'a lôm bia je,A Tat
+		Jika'a lôm bia je, A Tat
 		Va'a Mbamba Nsisim a zu den
-		A ve mejô môé ngu
+		A ve mejô môé ngu.
 <v>4</v>
 		Zamb'a ye fo'o lôm ébotan
 		Nge môt a kômbô, ve nyoñ
-		Emienn yi na bi buni
+		Emien A yi na bi buni
 		A vaa mam m'adipe zen.
-<a>M.F.</a>
+<br> </br>
+<a>Rev. Melvin Frazer</a>

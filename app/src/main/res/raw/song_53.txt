@@ -1,32 +1,35 @@
-<h>53. M' AYE KANE JÔE YESUS</h>
-<t>Tune : I Will Sing the Wondrous Story. Basa 9 - Mb 307 - Bña 132</t>
+<h>53. M'AYE KAÑE JÔÉ YÉSUS</h>
+<br> </br>
+<t>Tune : I Will Sing the Wondrous Story. Basa 9 - Mb 307 - Bafia 132</t>
 <v>1</v>
-		M'aye kañe jôé Yésus
-		A nga tyele fo'o élé
-		A nga kôlô nlame Zambe
-		A zu yu mbia awu
-<cl1>M'aye kañe Joe Yésus</cl1>
-<c>Tate won) a Krist Nyii»vonv</c>
-<c>Bê bese be to be Zambe</c>
-<c>Mmbe b'akañe nyeétam</c>
+		M'aye kañe jôé Yésus,
+		A nga tyele fo'o élé,
+		A nga kôlô nlame Zambe,
+		A zu wu mbia awu.
+<br> </br>
+<c>M'aye kañe jôé Yésus,</c>
+<c>Tate wom, a Krist Nyii wom</c>
+<c>Bô bese be to be Zambe,</c>
+<c>Mmbe b'akañe nye étam.</c>
 <v>2</v>
 		Yésus a nga kôé ma ndiman
-		Me nga dimi fé éte
-		A nga kôé me nya engôngo
+		Me nga dimi fé été,
+		A nga kôé me nya éngôngo,
 		Ve ke dutu ma a mvam
 <v>3</v>
-		Me nga kon, Yésus ve saé ma
-		Me nji bo ngule nyô
-		Me mbe woñ me mbe ndindim
-		Nnye ve bo ma mvô'é a mvô'é
+		Me nga kon, Yésus ve saé ma,
+		Me nji bo ngule nyô,
+		Me mbe woñ me mbe ndindim,
+		Nnye ve bo ma mvô'é a mvô'é.
 <v>4</v>
-		Môs éziñ nju'u w'abi ma
-		Môs éziñ m'awô'ôlun
-		Yésus a nji ve'ele kôlô
-		Nnôm éto ve wulu ma
+		Môs éziñ nju'u w'abi ma,
+		Môs éziñ m'awô'ôlun,
+		Yésus a nji ve'ele kôlô,
+		Nnôm éto ve wulu ma.
 <v>5</v>
-		Nalé fe a ba'ale fo'o ma
-		Akekui môs m'aye wu
-		Wôna m'aye yene Zambe
+		Nalé fe a ba'ale fo'o ma,
+		Akekui môs m'aye wu,
+		Wôna m'aye yene Zambe,
 		Ba be bôt be nto ôsu.
-<a>W.M.D.</a>
+<br> </br>
+<a>Rev. William Moore Dager</a>

@@ -1,14 +1,23 @@
 <h>126. ZAMBE A NE MVAM ANEN</h>
-<t>Tune : Depth of mercy Basa 262</t>
+<br> </br>
+<t>Tune : Depth of mercy. Basa 262</t>
 <v>1</v>
-		Zambe a ne mvam anen, nny fe a ne ngul abui
-		A ne ngul ya tune ma, a ye bo me mfefé môt
-<cl1>Zambe a ne mvam anen, a nga lôme Mone wé</cl1>
-<c>Yésus a nga zu, a nyii fo'o ma</c>
+		Zambe A ne mvam anen,
+		Nnye fe A ne ngul abui,
+		A ne ngul ya tune ma,
+		A ye bo me mfefé môt.
+<br> </br>
+<c>Zambe A ne mvam anen, A nga lôme Mone wé</c>
+<c>Yésus A nga zu, A nyii fo'o ma</c>
 <v>2</v>
-		Me nga bo melo abui, jam d'ayiane ma v'awu
-		Me nji wôk an'a nga loen, me nga tyam metiñe mé
+		Me nga bo melo abui,
+		Jam d'ayiane ma v'awu,
+		Me nji wôk an'a nga loen,
+		Me nga tyam metiñe mé.
 <v>3</v>
-		M'aye kôñelane nlem, te fe bo nnye mam abé
-		A ne ngul ya jamé ma, a ve nleme wom ényiñ
+		M'aye kôñelane nlem,
+		Te fe bo Nnye mam abé,
+		A ne ngul ya jamé ma,
+		A ve nleme wom ényiñ.
+<br> </br>
 <a>Rev. Melvin Frazer</a>

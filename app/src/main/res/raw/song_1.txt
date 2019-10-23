@@ -1,11 +1,13 @@
-<h>﻿1. BETA'A KATE ME FOE ETE</h>
+<h>1. BETA KATE ME FOE ETE</h>
+<br> </br>
 <t>Tune : Wonderful Words of Life. Basa 47-</t>
 <v>1</v>
 		Beta'a kate me foé éte
-		M' aye je tu'a wôk
+		M'aye je tu'a wôk
 		Ane Yésus a nga so yôp
 		Ajô bot be n'abé
-<cl1>Ny'ajô fo'o m'ajô nyô</cl1>
+<br> </br>
+<c>Ny'ajô fo'o m'ajô nyô</c>
 <c>Ajô d'aye nyii bia</c>
 <c>Abeñ ajô, abeñ ajô  (bis)</c>
 <c>Ajô d'aye nyii bia 	(bis)</c>
@@ -24,5 +26,5 @@
 		An' a nga bete yôp
 		A ke tabe vôm Zamb'a né
 		A kame bôte bé
-		A.C.G
-<a></a>
+<br> </br>
+<a>A.C.G</a>

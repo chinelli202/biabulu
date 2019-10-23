@@ -1,27 +1,30 @@
-<h>39. EYONE NKOL Y'ENYIA W'A'rE</h>
-<t>Tune : Saved by Grace. Basa 156 - Bfia 206</t>
+<h>39. ÉYOÑE NKOL Y'ENYIÑ W'ATÉÉ</h>
+<br> </br>
+<t>Tune : Saved by Grace. Basa 156 - Bafia 206</t>
 <v>1</v>
-		Eyoñe nkol y'ényiñ w' até
+		Eyoñe nkol y'ényiñ w'atéé
 		Bi aye li'i mam ya si nyô
 		Bi aye vee ôyo a vak
-		Eyoñ bi kuiya nda Yésus
-<cl1>M'aye ke yene nye asu</cl1>
-<c>A kañe nye a mvame jé</c>
-<c>M'aye fe wô'ô mejô a jô</c>
-<c>Bia nye ve tabe nnôm éto</c>
+		Eyoñ bi kuiya nda Yésus.
+<br> </br>
+<c>M'aye ke yene Nye asu</c>
+<c>A kañe Nye a mvame jé</c>
+<c>M'aye fe wô'ô mejô A jô</c>
+<c>Bia Nye ve tabe nnôm éto</c>
 <v>2</v>
 		Eyoñe m'aye taté duk
-		A nsisim w' aye kôlô nyô
-		M' ayeme na, Yésus Nyii wom
-		A ye ma liti mba éto
+		A nsisim w'aye kôlô nyô
+		M'ayeme na, Yésus Nyii wom
+		A ye ma liti mba éto.
 <v>3</v>
 		Eyoñe nda jam j'aye ku
 		Me te fe yene jôp e tô'ô
 		Nda m'aye ke é ne te ku
-		Nya bet'éfufup a ye faé
+		Nya bet' éfufup a ye faé.
 <v>4</v>
 		Eyoñe m'aye man ésaé
-		Ve li'i si nyô, a ke awo an
+		Ve li'i si nyô, a ke awo'an
 		Yésus émien a ye dii mbé
 		A jô ma na, Za'a tabe si.
-<a>M.E</a>
+<br> </br>
+<a>Rev. Melvin Frazer</a>

@@ -1,10 +1,11 @@
 package com.chinellli.gib.biabulu.entities;
 
 import android.arch.persistence.room.Entity;
+import android.arch.persistence.room.Index;
 import android.arch.persistence.room.PrimaryKey;
 import android.support.annotation.NonNull;
 
-@Entity
+@Entity(indices = {@Index(value = {"name"},unique = true)})
 public class Category {
 
     public Category(){}
@@ -16,7 +17,7 @@ public class Category {
     @PrimaryKey(autoGenerate = true)
     private int id;
 
-    @NonNull
+
     private String name;
 
     public String getName() {

@@ -1,28 +1,30 @@
 <h>15. TATE EMIEN A WULU MA</h>
-<t>Tune : He Leadeth Me. Basa 37 -Mb!33 Bfia 91 - saf39</t>
+<br> </br>
+<t>Tune : He Leadeth Me. Basa 37 - Bafia 91 - SAF 396</t>
 <v>1</v>
-		Tate émien a wulu ma
-		Ajô te ayene mvaé
-		Mezemm awulu va
-		Zambe émien a wulu ma
-<cl1>A wûlu ma, à wulé ma</cl1>
-<c>A bi ma Wo a yolô 'ma</c>
-<c>Me boya foro ve mone wé</c>
-<c>Amu émien a wulu ma</c>
+		Tate émien a wulu ma,
+		Ajô te nde m'ayene mvaé
+		Mezen mese m'awulu va,
+		Zambe émien a wulu ma.
+<br> </br>
+<c>A wulu ma, A wulu ma</c>
+<c>A bi ma wo A volô ma</c>
+<c>Me boya fo'o ve mone Wé</c>
+<c>Amu émien a wulu ma.</c>
 <v>2</v>
-		Melu m' ézifi m' 'ayen abé
-		Melu ézifi ayene mvâé
+		Melu m'éziñ m'ayen abé,
+		Melu m'éziñ m'ayene mvaé;
 		To jam abé, to mbamba jam
-		Tate émien a wulu ma
+		Tate émien a wulu ma.
 <v>3</v>
-		Melu mese m' abi enyewo
-		A bo ma an' a kômbô bo
-		M' anye'e zen a lepe ma
-		Amu émien wulu ma
+		Melu mese m'abi Nye wo
+		A bo ma an'A kômbô bo
+		M'anye'e zen A lepe ma
+		Amu émien A wulu ma.
 <v>4</v>
-		Akôlô m' aye kôlô va
+		Akôlô m'aye kôlô va
 		Eyoñe Zamb'a loene ma
-		Awy ébien me nji ko woñ
-		Amu émien a wulu ma.
-		A.C.G.
-<a></a>
+		Awu ébien me nji ko woñ
+		Amu émien A wulu ma.
+<br> </br>
+<a>Rev. Adolph Clément Good - Phd</a>

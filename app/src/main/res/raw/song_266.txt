@@ -1,27 +1,30 @@
-<h>266. MBA MOT A NGA KE YENE YESUS ALU</h>
+<h>266. MBA MÔT A NGA KE YENE YÉSUS ALU</h>
+<br> </br>
 <t>Tune : A ruler once came to Jesus by night</t>
 <v>1</v>
-		Mba môt a nga ke yene Yésus alu
+		Mba môt a nga ke yene Yésus alu,
 		A sili nye zen ya ényiñ te fe wu
-		Eyalane Yesus é nji bo àyaé
+		Eyalane Yésus é nji bo ayaé
 		Beta'a bialé den (ve den)
-<cl1>Beta'a bialé den (ve den)</cl1>
+<br> </br>
 <c>Beta'a bialé den (ve den)</c>
-<c>M'abele fo'o ane m'ajô wo na :</c>
-<c>Beta'a bialé ve den (ve den)</c>
+<c>Beta'a bialé den (ve den)</c>
+<c>M'abele fo'o ane m'ajô wo na:</c>
+<c>Beta'a bialé ve den. (ve den)</c>
 <v>2</v>
 		Môt a tame vô'ôlo mba tyiñ ate
 		Ya beta Nyii bôt a ne Mone Zambe
-		A nyoñe fe mba tyiñ at' e nlem été
+		A nyoñe fe mba tyiñ at'e nlem été
 		A beta'a bialé den (ve den)
 <v>3</v>
-		Abui mba be biôm Zamb'a ve bôte bé
+		Abui mba be biôm Zamb'A ve bôte bé
 		D'ayange wo môs w'aye kui yôp été
-		Nde vô'ôlô mbañete w'ajô wo na
+		Nde vô'ôlô mbañete w'ajô wo na,
 		Beta'a bialé den (ve den)
 <v>4</v>
 		Mia bôt mi akômbô bi mba vôme ya wo'an
 		A yia fe mba be bia éyoñ mi aye kôan
 		Nge mi akômbô tabe ényiñ nnôm éto
 		Beta'a bialane den (ve den)
-<a>P.H.M</a>
+<br> </br>
+<a>Rev. Paul H. Merkle</a>

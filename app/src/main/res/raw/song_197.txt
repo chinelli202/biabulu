@@ -1,34 +1,37 @@
-<h>197. ME MBE MAM ABE ETE</h>
+<h>197. ME MBE MAM ABÉ ÉTÉ</h>
+<br> </br>
 <t>Tune : Love lifted me. Basa 266</t>
 <v>1</v>
-		Me mbe mam abé été
-		Te ke fe kômbô mvaé
-		NIeme ôse v' abé ne lut
-		Bebé ya jañejañ
-		Nye'ane Yésus a nye'e ma
-		Nwo ô nga bi me nlem
-		A nga nyii ma mfa'a y' abé
-		Me nto ve mvo'é
-<cl1>A nyiiya ma } (bis)</cl1>
+		Me mbe mam abé étém
+		Te ke fe kômbô mvaé,
+		NIeme ôse v'abé ne lut,
+		Bebé ya jañejañ;
+		Nye'ane Yésus A nye'e ma
+		Nwo ô nga bi me nlem;
+		A nga nyii ma mfa'a y'abé
+		Me nto ve mvo'é.
+<br> </br>
+<c>A nyiiya ma } (bis)</c>
 <c>A nyiiya ma }</c>
 <c>Te zene fe ya nyiñ }</c>
 <c>A nyiiya ma }</c>
 <v>2</v>
-		Nleme wom ô ntoo éñwé
-		Ma me nga ve nnye wô
-		M'aye kañe mvame jé
-		Vôm a nga dutu ma
-		Beta nye'an a nye'eya ma
-		Ye me ne biasé nnye
-		M'aye bo nnye nya ésaé
-		Melu mese
+		Nleme wom ô ntoo éñwé,
+		Ma me nga ve Nye wô,
+		M'aye kañe mvame jé.
+		Vôm A nga dutu ma:
+		Beta nye'an A nye'eya ma,
+		Ye me ne biasé nnye ?
+		M'aye bo Nye nya ésaé
+		Melu mese.
 <v>3</v>
-		Bôt be ntoo awu été
-		Fomba'ane mfa'a a too
-		A ne ngul ya nyii fe mia
-		Buna'ane mvame jé
-		A ne njôô ya mam mese
-		A ne fe ngul ése
-		Nge mi akômbô yen ényiñ
-		Ve buni nye
-<a>A.I.G</a>
+		Bôt be ntoo awu été,
+		Fomba'ane mfa'a a too;
+		A ne ngul ya nyii fe mia,
+		Buna'ane mvame jé:
+		A ne njôô ya mam mese,
+		A ne fe ngul ése;
+		Nge mi akômbô yen ényiñ,
+		Ve buni Nye.
+<br> </br>
+<a>Rev. Albert Irwin Good</a>

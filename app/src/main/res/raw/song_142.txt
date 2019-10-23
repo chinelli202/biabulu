@@ -1,22 +1,25 @@
-<h>142. BI NE BA B'ABE</h>
-<t>Tune : Bringing in the sheaves. Basa 263 - Mb 143 - Bfia 157</t>
+<h>142. BI NE BA B'ABÉ MVOÑ</h>
+<br> </br>
+<t>Tune : Bringing in the sheaves. Basa 263 - Mb 143 - Bafia 157</t>
 <v>1</v>
 		Bi ne ba b'abé mvoñ mfa'a y'afupe Zambe
 		Mam me tyé a zañe môs a mam me ngo'é
-		Bi ne ba b'amombô môs ya vaa bibuma
-		Bi ne fo'o ve hôt b'abuni Zambe wop
-<cl1>Bi ne ba b'abé, Zamb'a noo fe mven</cl1>
-<c>Mvoñ j'afaa a wum bibuma bi ne mvaé</c>
-<c>Nsisim a n'été, yôm bi abo ésaé</c>
-<c>Nde bi abo ésaé a dutu bôt be Nye</c>
+		Bi ne ba b'amombô môs ya vaa bibuma,
+		Bi ne fo'o ve bôt b'abuni Zambe wop.
+<br> </br>
+<c>Bi ne ba b'abé, Zamb'a noo fe mveñ</c>
+<c>Mvoñ j'afaa a wum bibuma bi ne mvaé.</c>
+<c>Nsisim a n'été, vôm bi abo ésaé</c>
+<c>Nde bi abo ésaé a dutu bôt be Nye.</c>
 <v>2</v>
-		Bi ne ba b'abé éyoñe môs ô tôôya
-		A bo mban ya jibi njuk a éduduk
+		Bi ne ba b'abé éyoñe môs ô tôôya,
+		A bo mban ya jibi njuk a éduduk;
 		Esaé j'aye man, a bi aye fo'o ke wo'an
-		Môse Mone zambe a ye beta so
+		Môse Mone zambe A ye beta so.
 <v>3</v>
-		Bi ne b'abé mvoñ, nje é n'abui meva
-		Vôm ase bi awulu bi ne ngul ya bé
-		Zamb'a yeme fo'o ésaé ése bi abo nye
-		A ye ya'ane bô bese ane b'abo
+		Bi ne b'abé mvoñ, nje é n'abui meva,
+		Vôm ase bi awulu bi ne ngul ya bé;
+		Zamb'A yeme fo'o ésaé ése bi abo Nye
+		A ye ya'ane bô bese ane b'abo.
+<br> </br>
 <a>Rev. Melvin Frazer</a>

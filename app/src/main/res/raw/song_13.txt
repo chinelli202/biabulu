@@ -1,18 +1,20 @@
-<h>13. NESUS A YE JOO BESE</h>
-<t>Tune : Missionary Chant. Basa 288</t>
+<h>13. YÉSUS A YE JÔÔ BÔ BESE</h>
+<br> </br>
+<t>Tune : Missionary Chant. Basa 288 - Bafia 3</t>
 <v>1</v>
 		Yésus a ye jôô bô bese
-		Vôm jôp d' ayené si se nyô
+		Vôm jôp d'ayené si se nyô
 		Ayoñe dé d' aye fo'o dañ
-		Bôt te fe li'i b' adimi nye.
+		Bôt te fe li'i b'adimi nye.
 <v>2</v>
-		Bejô bôt bi aye wo o ve nye
+		Bejô bôt bi aye wô'ô ve nye
 		A zu fe kumbu nye mebo
-		Meyoñ mese m' aye 'fo'o mem
+		Meyoñ mese m'aye fo'o mem
 		A fulan an' ayoñe da
 <v>3</v>
-		B' aye bo mban ya kañemye
-		A tabe ñgbwa mimbu te lañ
-		Si bi to nyô j' aye fo'o lôt
+		B'aye bo mban ya kañe Nye
+		A tabe ñgbwa mimbu te lañ;
+		Si bi to nyô j'aye fo'o lôt
 		Ve Yésus a to nnôm éto.
-<a>M.E</a>
+<br> </br>
+<a>Rev. Melvin Frazer</a>

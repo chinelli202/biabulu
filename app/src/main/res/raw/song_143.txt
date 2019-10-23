@@ -1,26 +1,29 @@
-<h>﻿143. BÔT BE NGA BI YESUS TE ETOM</h>
+<h>143. BÔT BE NGA BI YÉSUS TE ÉTOM</h>
+<br> </br>
 <t>Tune : Glory to His Name. Basa 201</t>
 <v>1</v>
-		Bôt be nga bi Yésus te étom
-		Ve kpwe'ele nnye be betyi'i mejô
-		V'a nji ke yalane be, ve na
-		Mone Zambe nyô
-<cl1>Kañe jôé dé, kañe jôé dé</cl1>
-<c>Vôm a nga wu, a vaa mam abé</c>
-<c>Kañe jôé dé</c>
+		Bôt be nga bi Yésus te étom,
+		Ve kpwe'ele Nye be betyi'i mejô,
+		V'A nji ke yalane be, ve na,
+		Mone Zambe Nyô.
+<br> </br>
+<c>Kañe' jôé dé, kañe jôé dé,</c>
+<c>Vôm A nga wu, a vaa mam abé,</c>
+<c>Kañe' jôé dé.</c>
 <v>2</v>
-		Bôt be nga bo nnye kuron biyo
-		A bibi fe nnye, a tui nnye menden
-		A lume fe nnye akoñe nkuk
-		Mbia mboane le
+		Bôt be nga bo Nye kuron biyo,
+		A bibi fe Nye, a tui Nye menden,
+		A lume fe Nye akoñe nkuk,
+		Mbia mboane le.
 <v>3</v>
-		Bôt be nga tyelé fe nye élé
-		Ve tupe mo a mebo mesen
-		A jô na, nge ô ne Krist émien
-		Tame sise si
+		Bôt be nga tyelé fe Nye élé,
+		Ve tupe mo a mebo mesen;
+		A jô na, nge Ô ne Krist émien
+		Tame sise si.
 <v>4</v>
-		A nga nye'e bôt be nga tyelé nnye
-		A jô na, A Tat, ô jamé'é be
-		Be ne te yem ane b'abo ma
-		Mvame fo'o le
+		A nga nye'e bôt be nga tyelé Nye,
+		A jô na, A Tat, Ô jamé'é be,
+		Be ne te yem ane b'abo Ma,
+		Mvame fo'o le !
+<br> </br>
 <a>Rev. Melvin Frazer</a>

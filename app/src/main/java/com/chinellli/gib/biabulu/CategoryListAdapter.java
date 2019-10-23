@@ -4,9 +4,9 @@ import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
-import android.content.Intent;
 import android.os.Bundle;
-import android.text.Layout;
+import android.support.v4.app.FragmentManager;
+import android.support.v7.app.AppCompatActivity;
 import android.view.LayoutInflater;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -19,7 +19,6 @@ import android.widget.TextView;
 
 import com.chinellli.gib.biabulu.entities.Category;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class CategoryListAdapter extends ArrayAdapter<Category> {
@@ -28,8 +27,10 @@ public class CategoryListAdapter extends ArrayAdapter<Category> {
     private CategoryActionListener categoryActionListener;
     private CategoryViewModel categoryViewModel;
     private List<Category> mCategoryList;
+    private Context context;
     public CategoryListAdapter(Context context, List<Category> categoryArrayList) {
         super(context, 0, categoryArrayList);
+        this.context = context;
         inflater = LayoutInflater.from(context);
         mCategoryList = categoryArrayList;
     }
@@ -89,17 +90,18 @@ public class CategoryListAdapter extends ArrayAdapter<Category> {
                         dialog.show();
                         return true;
                     case R.id.rename_category_item :
-                        //Intent intent = new Intent(getContext(), NewCategoryActivity.class);
+                        //Intent intent = new Intent(getContext(), CategoryEditActivity.class);
                         //startActivityForResult(intent,NEW_CATEGORY_ACTIVITY_REQUEST_CODE);
 
                         Bundle bundle = new Bundle();
-                        bundle.putInt(NewCategoryDialogFragment.CATEGORY_REQUEST_KEY,NewCategoryDialogFragment.UPDATE_CATEGORY_REQUEST_CODE);
-                        bundle.putCharSequence(NewCategoryDialogFragment.UPDATE_CATEGORY_ARGUMENT_KEY,getItem(position).getName());
-                        bundle.putInt(NewCategoryDialogFragment.UPDATE_CATEGORY_POSITION_KEY,position);
+                        bundle.putInt(CategoryEditDialogFragment.CATEGORY_REQUEST_KEY,CategoryEditDialogFragment.UPDATE_CATEGORY_REQUEST_CODE);
+                        bundle.putCharSequence(CategoryEditDialogFragment.UPDATE_CATEGORY_ARGUMENT_KEY,getItem(position).getName());
+                        bundle.putInt(CategoryEditDialogFragment.UPDATE_CATEGORY_POSITION_KEY,position);
 
-                        NewCategoryDialogFragment newCategoryDialogFragment = new NewCategoryDialogFragment();
-                        newCategoryDialogFragment.setArguments(bundle);
-                        newCategoryDialogFragment.show(((Activity)getContext()).getFragmentManager()," new category dialog");
+                        CategoryEditDialogFragment categoryEditDialogFragment = new CategoryEditDialogFragment();
+                        categoryEditDialogFragment.setArguments(bundle);
+                        FragmentManager manager = ((AppCompatActivity)context).getSupportFragmentManager();
+                        categoryEditDialogFragment.show(manager,"update category dialog");
                         return true;
                         default: return false;
                 }

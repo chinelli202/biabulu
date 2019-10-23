@@ -1,27 +1,30 @@
-<h>161. KE MBAMBA MVO'E A MVAM</h>
-<t>Tune : The blood of Christ ransomed me. Basa 98 - Bfia 50 - Saf 276</t>
+<h>161. KE MBAMBA MVO'É A MVAM</h>
+<br> </br>
+<t>Tune : The blood of Christ ransomed me. Basa 98 - Bafia 50 - SAF 276</t>
 <v>1</v>
 		Ke mbamba mvo'é a mvam bi ajaé ma nlem
-		Bia Tate Zambe bi neñgbwa
-		A nleme wom w'afôn amu mevak
-		Amu nyii wom a kôté ma
-<cl1>Metyi me Christ, m'akôté ma</cl1>
-<c>M'atañ m'étom a toé me nti</c>
+		Bia Tate Zambe bi ne ñgbwa;
+		A nleme wom w'afôn amu mevak,
+		Amu nyii wom A kôté ma.
+<br> </br>
+<c>Metyi me Christ, m'akôté ma.</c>
+<c>M'atañ m'étom a toé me nti,</c>
 <c>Vôm m'aye ke bôt b'aye yem</c>
 <c>Metyi me Christ m'akôté ma</c>
 <v>2</v>
-		A liti zen m'atôñe zôsô wé
-		A kui me mise mam me yen
-		A ne ma mvôé, a too me nlem été
-		Metyi me Krist m'akôté ma
+		A liti zen m'atôñe zôsô Wé,
+		A kui me mise mam me yen;
+		A ne ma mvôé, A too me nlem été
+		Metyi me Krist m'akôté ma.
 <v>3</v>
 		Me mbe ôlo ya Satan ba abé
-		Ve ngule jé j'avolô ma
-		A nyiiya ma a vaa mengata'a mam
-		Metyi me Christ m'akôté ma
+		Ve ngule jé j'avolô ma.
+		A nyiiya ma a vaa mengata'a mam,
+		Metyi me Christ m'akôté ma.
 <v>4</v>
-		Eyoñ m'awu, alu m'azu be wo
-		A Zambe, m'aye yene wo
-		A kañe wo me lô fe wo asu
-		A kate foé metyi me Krist
-<a>Rev. Akoa Abômô</a>
+		Eyoñ m'awu, alu m'azu be Wo,
+		A Zambe, m'aye yene Wo;
+		A kañe Wo me lô fe Wo asu,
+		A kate foé metyi me Krist.
+<br> </br>
+<a>Rev. Akoa Abômô François</a>

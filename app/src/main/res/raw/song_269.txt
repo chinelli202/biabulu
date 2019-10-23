@@ -1,29 +1,32 @@
-<h>269. ME VEME FO'O vôM ME TELE</h>
-<t>Tune : My Saviour's love. Basa 320 - Bfia 104</t>
+<h>269. ME VEME FO'O VÔM ME TELE</h>
+<br> </br>
+<t>Tune : My Saviour's love. Basa 320 - Bafia 104</t>
 <v>1</v>
 		Me veme fo'o vôm me tele
-		Asu Yésus Tate wom
-		M'asemé fo'o vôm a nye'e ma
-		Amu me nto fo'o mfuban
-<cl1>Hô! mbamba jam! Hô! beta jam</cl1>
+		Asu Yésus Tate wom,
+		M'asemé fo'o vôm A nye'e ma
+		Amu me nto fo'o mfuban.
+<br> </br>
+<c>Hô! mbamba jam! Hô! beta jam!</c>
 <c>(mbamba mbamba jam) (bis)</c>
-<c>Me ve yia jia na</c>
-<c>Hô! mbamba jam! Hô! beta jam</c>
+<c>Me ve yia jia na:</c>
+<c>Hô! mbamba jam! Hô! beta jam!</c>
 <c>(mbamba mbamba jam) (bis)</c>
-<c>Na, Nyii wom A nye'e ma</c>
+<c>Na, Nyii wom A nye'e ma!</c>
 <v>2</v>
-		Ke Zambe, Mon a nga ye'elan
-		Ajô dam afup été
+		Ke Zambe, Mon A nga ye'elan
+		Ajô dam afup été,
 		A yene fo'o njuk v'amu ma
-		Metyi mé mebien ve kui
+		Metyi mé mebien ve kui.
 <v>3</v>
 		Beange abui be nga to wôé
-		A zu volô njuk ôte
+		A zu volô njuk ôte.
 		Ve kôlô fo'o nlame Zambe
-		Eyoñ a nga kôté ma
+		Eyoñ A nga kôté ma.
 <v>4</v>
 		Asu'ulan m'aye lôbô
-		Asu e nga kôté ma
+		Asu e nga kôté ma.
 		A m'aye va' kom ésese
-		Ve kañe mba foé ya nye'an
-<a>Rév Samuel Ondoh O</a>
+		Ve kañe mba foé ya nye'an.
+<br> </br>
+<a>Rev. Samuel Ondoh Ondoh</a>

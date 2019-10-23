@@ -1,30 +1,33 @@
-<h>110. EYOÑE MONE ZAMBE</h>
-<t>Tune : Battle hymn of the Republic. Basa 229</t>
+<h>110. ÉYOÑE MONE ZAMBE</h>
+<br> </br>
+<t>Tune : Battle hymn of the Republic. Basa 229 - Bafia 13</t>
 <v>1</v>
-		Eyoñe Mone Zambe a nga wulu si bi too
-		A nga lepe bôte zôsô a kobô benya mejôô
+		Eyoñe Mone Zambe A nga wulu si bi too,
+		A nga lepe bôte zôsô A kobô benya mejôô,
 		Bevo'abui be mbe te buni be nga sôane Nnye
-		Ve Yésus a nji ku
-<cl1>Duma, duma Mone Zambe (ter)</cl1>
+		Ve Yésus A nji ku.
+<br> </br>
+<c>Duma, duma Mone Zambe (ter)</c>
 <c>Si se ve dumadé</c>
 <v>2</v>
-		Bejô bôt be nga vini nye a mboane wé ôse
-		Be nga kuse môt, a bi nye, a ke nye be ntyi' mejô
-		Eyoñe be nga tele wôé a bôte nye mejô
-		Yésus a nga kabe
+		Bejô bôt be nga vini Nye a mboane wé ôse,
+		Be nga kuse môt, a bi nye, a ke nye be ntyi' mejô,
+		Eyoñe be nga tele wôé a bôte nye mejô,
+		Yésus A nga kabe.
 <v>3</v>
-		Akôsa bo mejô map me nji bo ajô été
-		Be nga tyi'ajô ékotekot a jô nnye na, w'aku
-		A nji ke bo étom ve be nga tyelé nnye élé
-		V'ajô' te, a nga zu
+		Akôsa bo mejô map me nji bo ajô été,
+		Be nga tyi'ajô ékotekot a jô Nnye na: "w'a ku",
+		A nji ke bo étom ve be nga tyelé Nnye élé;
+		V'ajô' te, A nga zu.
 <v>4</v>
-		Eyoñe be nga va nnye woé a bôôé nnye soñ été
-		Be nga bo te buni njôane wé na, a ye wômô soñ
-		Emien ve wômô môse lale, te fe bo été
-		A dañ awu a ngu
+		Eyoñe be nga va Nnye wôé a bôé Nnye soñ été
+		Be nga bo te buni njôane wé na, A ye wômô soñ
+		Emien ve wômô môse lale, te fe bo été,
+		A dañ awu a ngu.
 <v>5</v>
-		A nga beta tabe si nyô melu mewôm menyin
-		Wôna émien a nga Ya'ane bôte bé a ke fe yôp
-		Eyoñe ji a nto fe ntyi'i mejô ya bia bese
-		A tyi'i mejô zôsô
-<a>C. W McC</a>
+		A nga beta tabe si nyô melu mewôm menyin,
+		Wôna émien A nga Ya'ane bôte bé a ke fe yôp,
+		Eyoñe ji A nto fe ntyi'i mejô ya bia bese.
+		A tyi'i mejô zôsô.
+<br> </br>
+<a>Rev. Charles Warner Mac Cleary</a>

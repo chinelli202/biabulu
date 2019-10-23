@@ -1,22 +1,25 @@
-<h>198. DI' ANE MBE</h>
+<h>198. DI'ANE MBE</h>
+<br> </br>
 <t>Tune : Open the gates</t>
 <v>1</v>
-		Di'ane mbé amu bongô b'azu
-		B'akômbô yia mba be bia mose wu
-		Yésus Nyii wongan, a loene be nne
-		A kômbô bongo, be za'a fo'o be nnye
-<cl1>Bongo b'azu, ya, bongô b'azu</cl1>
-<c>Di'ane mbé, di'ane mbé</c>
-<c>Yésus émien a ye liti be zen</c>
-<c>Di'ane mbé, be zu nyin</c>
+		Di'ane mbé amu bongô b'azu,
+		B'akômbô yia mba be bia môse wu,
+		Yésus Nyii wongan, a loene be nne,
+		A kômbô bongo, be za'a fo'o be Nye
+<br> </br>
+<c>Bongo b'azu, ya, bongô b'azu.</c>
+<c>Di'ane mbé, di'ane mbé;</c>
+<c>Yésus émien A ye liti be zen,</c>
+<c>Di'ane mbé, be zu nyin.</c>
 <v>2</v>
-		A mongo, tame zu nyin e mbé den
-		Za'a wô'avak, te fe fet, te fe ben
-		Yésus émien a ye botane wo
-		Tame zu buni, te bo nye melo
+		A mongo, tame zu nyin e mbé den.
+		Za'a wô'avak, te fe fet, te fe ben:
+		Yésus émien A ye botane wo,
+		Tame zu buni, te bo Nye melo.
 <v>3</v>
-		Bongô be bili ésaé b'aye bo
-		Yésus a nye'e na, be zu vôm a too
-		To be ne tyôtyoé, b'avolô fe nye
-		A maneya loo be, a kômbô bese
-<a>Mrs A.I.G</a>
+		Bongô be bili ésaé b'aye bo,
+		Yésus A nye'e na, be zu vôm A too
+		To be ne tyôtyoé, b'avolô fe Nye,
+		A maneya loo be, A kômbô bese.
+<br> </br>
+<a>Mrs Albert Irwin Good</a>

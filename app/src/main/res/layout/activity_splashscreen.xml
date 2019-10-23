@@ -7,18 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
-        android:id="@+id/textView_splashscreen"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:clickable="false"
-        android:focusable="false"
-        android:focusableInTouchMode="false"
-        android:padding="10dp"
-        android:textSize="18sp"
-        android:textColor="#ffffff"
-        android:text="Dummy Text"/>
-    <ImageView
+   <ImageView
         android:id="@+id/imageView"
         android:layout_width="312dp"
         android:layout_height="312dp"
@@ -33,18 +22,4 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/button9"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginEnd="8dp"
-        android:layout_marginRight="8dp"
-        android:layout_marginBottom="32dp"
-        android:onClick="onclick"
-        android:text="Button"
-        app:layout_constraintBottom_toTopOf="@+id/imageView"
-        app:layout_constraintEnd_toEndOf="parent" />
-
-
 </android.support.constraint.ConstraintLayout>

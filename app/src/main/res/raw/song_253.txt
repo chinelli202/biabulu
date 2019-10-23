@@ -1,24 +1,26 @@
-<h>253. MBAMBA MBU MFEFE MBU</h>
+<h>253. MBAMBA MBU MFEFÉ MBU</h>
+<br> </br>
 <t>Tune : Silent night, Holy night</t>
 <v>1</v>
 		Mbamba mbu, Mfefé mbu!
 		Wulu'u mvo'é môs ôse!
-		Simsa'ane Yésus te vuane nye
-		Liti'i bô befe mvame jé
-		Krist a wulu'u wo
-		Krist a wulu'u wo
+		Simsa'ane Yésus te vuane Nye.
+		Liti'i bô befe mvame jé.
+		Krist A wulu'u wo.
+		Krist A wulu'u wo.
 <v>2</v>
 		Mbamba mbu, Mfefé mbu!
-		Bo'o ve mam Tat' a nye'e
-		Va'a nye nleme wôé ôse
-		Tôñe'e nye melu mese
-		Krist a nyeke'e wo
-		Krist a Nyeke'e wo
+		Bo'o ve mam Tat' A nye'e.
+		Va'a Nye nleme wôé ôse.
+		Tôñe'e Nye melu mese.
+		Krist A nyeke'e wo.
+		Krist A Nyeke'e wo.
 <v>3</v>
 		Mbamba mbu, Mfefé mbu!
-		Zambe a bota'ane wo
-		A ve wo mfefé ngu
-		A faé wo éfufup jé
-		Krist a tabe'e be wo
-		Krist a tabe'e be wo
+		Zambe A bota'ane wo,
+		A ve wo mfefé ngu,
+		A faé wo éfufup jé.
+		Krist A tabe'e be wo.
+		Krist A tabe'e be wo.
+<br> </br>
 <a>Paul and Evelyn Merkle</a>

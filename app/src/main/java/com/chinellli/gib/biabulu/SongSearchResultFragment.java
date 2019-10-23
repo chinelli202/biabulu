@@ -2,8 +2,6 @@ package com.chinellli.gib.biabulu;
 
 import android.content.Context;
 import android.content.Intent;
-import android.net.Uri;
-import android.opengl.Visibility;
 import android.os.Bundle;
 import android.app.Fragment;
 import android.support.v7.widget.CardView;
@@ -54,7 +52,7 @@ public class SongSearchResultFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this Fragment View Layout
         System.out.println("Inflating View Layout");
-        View rootView =  inflater.inflate(R.layout.fragment_content_test, container, false);
+        View rootView =  inflater.inflate(R.layout.fragment_song_search_result, container, false);
         cardView = rootView.findViewById(R.id.searchViewCard);
         cardView.setVisibility(View.GONE);
         textView = rootView.findViewById(R.id.no_result_text);
@@ -74,8 +72,8 @@ public class SongSearchResultFragment extends Fragment {
                 //content = content.replaceAll("\\s","");
                 String tokens[] = content.split("[.]");
                 int pos = Integer.valueOf(tokens[0])-1;
-                Intent intent = new Intent(getActivity(),SongCollectionActivity.class);
-                intent.putExtra(SingleSongFragment.POSITION_CANTIQUE,pos);
+                Intent intent = new Intent(getActivity(),ReaderActivity.class);
+                intent.putExtra(SongReaderFragment.POSITION_CANTIQUE,pos);
                 startActivity(intent);
             }
         });

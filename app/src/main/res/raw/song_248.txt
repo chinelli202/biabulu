@@ -1,35 +1,38 @@
 <h>248. M'AZU YIA MBAMBA JIA</h>
-<t>Tune : I' m redeemed</t>
+<br> </br>
+<t>Tune : I'm redeemed</t>
 <v>1</v>
-		M'azu yia mbamba jia
-		Tame vôlô'ô ma
-		Awu Yésus é kôteya ma!
-		Mba metyi mé ve kui
+		M'azu yia mbamba jia,
+		Tame vôlô'ô ma,
+		Awu Yésus e kôteya ma!
+		Mba metyi mé ve kui,
 		Mme m'atañe m'étom
-		Mone Zamb' a nga kôté fo'o ma
-<cl1>M'azu vak! M'azu vak !</cl1>
-<c>Mone Zamb'a nga kôté fo'o ma, Alleluia!</c>
-<c>Me nto fo'o mba éto ya mevak fo'o ve yia</c>
-<c>Jia ya Yésus a kôté fo'o ma!</c>
+		Mone Zamb'A nga kôté fo'o ma.
+<br> </br>
+<c>M'azu vak! M'azu vak !</c>
+<c>Mone Zamb'A nga kôté fo'o ma, Alleluia!</c>
+<c>Me nto fo'o mba éto ya mevak fo'o ve yia.</c>
+<c>Jia ya Yésus A kôté fo'o ma!</c>
 <v>2</v>
-		Yésus a to m' été
-		Môs ôse, kom ése
-		A ye volô ma mam m'aye bo
-		A ye ba'ale ma
+		Yésus A to m' été,
+		Môs ôse, kom ése.
+		A ye volô ma mam m'aye bo.
+		A ye ba'ale ma.
 		Vôm ase m'aye ke
-		Mone Zamb'a nga kôté fo'o ma
+		Mone Zamb'A nga kôté fo'o ma.
 <v>3</v>
-		Mvam abui, mvam anen
-		Mvam j'afubu ma nlem
-		Vôme nyô nye m'anembane ngu
+		Mvam abui, mvam anen,
+		Mvam j'afubu ma nlem,
+		Vôme nyô nye m'anembane ngu.
 		To m'akon mbia ôkon
 		To m'awu fo'o azoé
-		Mona Zamb'a nga kôté fo'o ma
+		Mona Zamb'A nga kôté fo'o ma.
 <v>4</v>
 		Mbia ôkôs mbia alu
 		M'aye wosan bita
-		Mone Zamb'a ye bo na me dañ
+		Mone Zamb'A ye bo na me dañ.
 		Mvo'é ve bo vôm me to
-		Si ése ve ne mienn
-		Mone Zamb' a nga koté fo'o ma
-<a>Rév Samuel Ondo</a>
+		Si ése ve ne mienn !
+		Mone Zamb'A nga koté fo'o ma.
+<br> </br>
+<a>Rév Samuel Ondo Ondo</a>

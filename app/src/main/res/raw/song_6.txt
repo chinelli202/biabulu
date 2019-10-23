@@ -1,23 +1,25 @@
-<h>6. YESUS A TANEYA ME ETOM</h>
-<t>Tune : What a Wonderful Sdviour. Basa 10 - Baña 47</t>
+<h>6. YESUS A TAÑEYA M'ÉTOM</h>
+<br> </br>
+<t>Tune : What a Wonderful Saviour. Basa 10 - Bafia 47</t>
 <v>1</v>
 		Yésus a tañeya ma étom
 		A nga nyii ma nya nyian
-		A nji ke kam ényiñejé
+		A nji ke kam ényiñe jé
 		A nga nyii ma nya nyian
-<cl1>A nga nyii ma nya nyian</cl1>
+<br> </br>
+<c>A nga nyii ma nya nyian</c>
 <c>Yésus, mone Zambe</c>
 <c>A nga nyii ma nya nyian</c>
 <c>Akéva, Zambe</c>
 <v>2</v>
-		A veya fo'o ma mfefénlem
+		A veya fo'o ma mfefé nlem
 		A nga nyii ma nya nyian
-		A dipe ferma mbiamezem
+		A dipe fe ma mbia mezen
 		A nga nyii ma nya nyian
 <v>3</v>
-		M' asemé fo'o jam a nga bo
+		M'asemé fo'o jam a nga bo
 		A nga nyii ma nya nyian
-		id
-		M' akômbô na; a nyii fe wo
+		M'akômbô na, a nyii fe wo
 		A nga nyii ma nya nyian
-<a>S.F.F</a>
+<br> </br>
+<a>Dr Silas Franklin Johnson</a>

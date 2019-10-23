@@ -2,7 +2,6 @@ package com.chinellli.gib.biabulu;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
-import android.text.Layout;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -11,17 +10,17 @@ import android.widget.Button;
 import android.widget.TextView;
 
 //Adapter element types are string, corresponding to song titles. Ex : 53. M'aye kane joe yesus.
-//main job : get the views right, get the event dispatching right.
-public class SongListAdapter extends ArrayAdapter<String> {
+//main job : get the views right, get the event (clicks on buttons) dispatching right.
+public class GroupListAdapter extends ArrayAdapter<String> {
 
-    private int songsGroupType;
-    public static final int SONG_GROUP_CATEGORY_TYPE = 0;
-    public static final int SONG_GROUP_WHOLE_LIST_TYPE = 1;
+    private int groupType;
+    public static final int CUSTOM_GROUP = 0;
+    public static final int PAGED_GROUP = 1;
     //private Button button;
     //parameter for choosing between cat list and whole song list.
-    public SongListAdapter(@NonNull Context context, int resource, int songsGroupType) {
+    public GroupListAdapter(@NonNull Context context, int resource, int groupType) {
         super(context, resource);
-        this.songsGroupType = songsGroupType;
+        this.groupType = groupType;
     }
 
     @Override
@@ -37,7 +36,7 @@ public class SongListAdapter extends ArrayAdapter<String> {
         Button button = convertView.findViewById(R.id.song_remove_button);
         button.setTag(position);
         textView.setText(getItem(position));
-        if(songsGroupType == this.SONG_GROUP_CATEGORY_TYPE)
+        if(groupType == this.CUSTOM_GROUP)
             adaptForCategory(button);
         else
             adaptForWholeList(button);
@@ -66,7 +65,7 @@ public class SongListAdapter extends ArrayAdapter<String> {
 
             String title = getItem(position);
             String tokens[] = title.split("[.]");
-            int songNumber = Integer.valueOf(tokens[0])-1;
+            int songNumber = Integer.valueOf(tokens[0]);
             ((SongActionListener)getContext()).addSongToCategory(songNumber);
         });
     }

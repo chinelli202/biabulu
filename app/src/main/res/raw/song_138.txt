@@ -1,27 +1,30 @@
 <h>138. B'AKATE SI, B'AKATE YÔP</h>
+<br> </br>
 <t>Tune : Tell me more about Jesus. Basa 293</t>
 <v>1</v>
-		B'akate si, b'àkate Yôp
+		B'akate si, b'akate Yôp
 		M'awô'ô fe mvaé éne nya ajôô
-		Ve mbambà jam m'anye'e fo'o
-		Beta'a kate foé Yésus
-<cl1>Feta'a kate foé Yésus</cl1>
+		Ve mbamba jam m'anye'e fo'o,
+		Beta'a kate foé Yésus.
+<br> </br>
 <c>Beta'a kate foé Yésus</c>
-<c>Nnye m'aye yem, a nye'ane wé</c>
-<c>Beta'a kate foé Yésus</c>
+<c>Beta'a kate foé Yésus,</c>
+<c>Nnye m'aye yem, a nye'ane Wé,</c>
+<c>Beta'a kate foé Yésus.</c>
 <v>2</v>
-		Mam me n'abeñ m'aji' a lôt
-		Minkut mi adipe. mam ya yôp
-		Mam me nga nye'e m'amane fe
-		Beta'a kate foé Yésus
+		Mam me n'abeñ m'a ji'a lôt,
+		Minkut mi adipe mam ya yôp;
+		Mam me nga nye'e m'amane fe:
+		Beta'a kate foé Yésus.
 <v>3</v>
-		Eyoñ bisô bi ntoo ma nlem
-		A mis m'adim amu ôlun
-		Ve jam d'avolô fo'o ma nlem
-		E ne mbamba foé Yésus
+		Eyoñ bisô bi ntoo ma nlem,
+		A mis m'adim amu ôlun,
+		Ve jam d'avolô fo'o ma nlem,
+		E ne mbamba foé Yésus.
 <v>4</v>
-		Môs m'aye ke be Zambe yôp
-		A nyoñ éto a liti ma
-		Me m'aye yia ve mba be bia
-		Mbie bi akate foé Yésus
-<a>F.O.E</a>
+		Môs m'aye ke be Zambe yôp,
+		A nyoñ éto A liti ma,
+		Me m'aye yia ve mba be bia,
+		Mbie bi akate foé Yésus.
+<br> </br>
+<a>Rev. F.O. Emerson</a>

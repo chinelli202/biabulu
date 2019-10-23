@@ -1,22 +1,25 @@
 <h>119. MÔSE TOÑE ZAMBE J'AYE JÔ</h>
-<t>Tune : When the roll is called up yoner. Basa 40</t>
+<br> </br>
+<t>Tune : When the roll is called up yonder. Basa 40</t>
 <v>1</v>
-		Môse toñe Zambe j'aye jô, a si nyô j'aye man
-		Môs asu'ulan ya si nyô d'aye kpwaan
-		Bôt b'ayen ényiñ be Zambe b'aye sulan yôp été
-		B'aye loen jôé dam nsamb'ôte
-<cl1>B'aye loene bôt b'abuni</cl1>
-<c>B'ayè loene bôt b'abuni</c>
-<c>B'aye loene bôt b'abuni</c>
-<c>B'aye loene môé me bôt b'abuni wôé</c>
+		Môse toñe Zambe j'aye jô, a si nyô j'aye man.
+		Môs asu'ulan ya si nyô d'aye kpwaan;
+		Bôt b'ayen ényiñ be Zambe b'aye sulan yôp été,
+		B'aye loen jôé dam nsamb'ôte.
+<br> </br>
+<c>B'aye loene bôt b'abuni,</c>
+<c>B'ayè loene bôt b'abuni,</c>
+<c>B'aye loene bôt b'abuni,</c>
+<c>B'aye loene môé me bôt b'abuni wôé.</c>
 <v>2</v>
-		Môse Zambe a ye loene bôt, a tyi'i be mejô
-		A mimbim mi awômô vôm ase si nyô
-		A ye nyoñe bôt b'abuni, be ke tabe nlame wé
-		B'aye loene jôé dam nsamb'ôte
+		Môse Zambe A ye loene bôt, a tyi'i be mejô,
+		A mimbim mi awômô vôm ase si nyô;
+		A ye nyoñe bôt b'abuni, be ke tabe nlame wé,
+		B'aye loene jôé dam nsamb'ôte.
 <v>3</v>
-		Ma me tame bo ésaé jé mam me tyé a mam me ngô'é
-		M'aye kate bôte foé Nti Yésus wom
-		Ve éyoñ ésaé jam j'aye man, a bôt b'ake be nnye
-		B'aye loene jôé dam nsamb'ôte
-<a>A.I.G</a>
+		Ma me tame bo ésaé jé mam me tyé a mam me ngô'é,
+		M'aye kate bôte foé Nti Yésus wom;
+		Ve éyoñ ésaé jam j'aye man, a bôt b'ake be Nye,
+		B'aye loene jôé dam nsamb'ôte.
+<br> </br>
+<a>Rev. Albert Irwin Good</a>

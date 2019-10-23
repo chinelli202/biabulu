@@ -37,7 +37,7 @@ public class CategoryLoadAdapter extends ArrayAdapter<Category> {
         if(convertView == null){
             convertView = inflater.inflate(R.layout.category_table_select_layout,parent,false);
         }
-        TextView textView = convertView.findViewById(R.id.catLabel);
+        TextView textView = convertView.findViewById(R.id.catTextView);
         textView.setText(cat.getName());
         return convertView;
     }

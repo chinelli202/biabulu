@@ -1,32 +1,35 @@
-<h>213. ME MBE BIYOE AMU ABE</h>
+<h>213. ME MBE BIYO'É AMU ABÉ</h>
+<br> </br>
 <t>Tune : Christ liveth in me. Basa 289</t>
 <v>1</v>
-		Me mbe biyo'é amu abé
-		Melunga mam eté
-		A Tat, me boya fo'o melo
-		Ve krist a nto m' été
-<cl1>Krist a nto m'été</cl1>
-<c>Krist a nto m'été</c>
+		Me mbe biyo'é amu abé,
+		Melunga mam été;
+		A Tat, me boya fo'o melo,
+		Ve krist A nto m'été.
+<br> </br>
+<c>Krist A nto m'été,</c>
+<c>Krist A nto m'été,</c>
 <c>Beta jam ya semé fo'o</c>
-<c>Na, Krist a m'été</c>
+<c>Na, Krist A nto m'été.</c>
 <v>2</v>
-		Atyi'i Mone Zambe wom
-		A 1ô meboko mam
-		A vaa melunga me nga too
-		Ya, Krist a nto m'été
+		Atyi'i Mone Zambe wom,
+		A 1ô meboko mam:
+		A vaa melunga me nga too,
+		Ya, Krist A nto m'été.
 <v>3</v>
-		Akéva Tate Zambe wom
-		Amu nto' be ma
-		Akéva Krist, nya nlate ñgbwa
-		Ya, Krist a nto m'été
+		Akéva Tate Zambe wom,
+		Amu Ô nto' be ma;
+		Akéva Krist, nya nlate ñgbwa,
+		Ya, Krist A nto m'été.
 <v>4</v>
-		Ntô, ntô ma'a ma'a, bi nto be ma
-		Me nto fo'o mone wé
+		Ntô, ntô ma'a ma'a, bi nto be ma,
+		Me nto fo'o mone wé;
 		Bia Krist bi ntoo fo'o bobenyañ
-		Ya, Krist a nto m'été
+		Ya, Krist A nto m'été.
 <v>5</v>
-		M'ave nnye ñleme wom ôse
-		M'ave nnye duma dé
-		Meva'a me ntoo me nlem ne lut
-		Ya, Krist a nto m'été
-<a>E.M.R, ba Rev, Bisô bi Abu 'u</a>
+		M'ave Nye ñleme wom ôse,
+		M'ave Nye duma dé;
+		Meva'a me ntoo me nlem ne lut,
+		Ya, Krist A nto m'été.
+<br> </br>
+<a>E.M.R, baa Rev, Bisô bi Abu'u</a>

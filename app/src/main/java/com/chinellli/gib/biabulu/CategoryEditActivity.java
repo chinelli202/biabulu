@@ -7,7 +7,7 @@ import android.text.TextUtils;
 import android.view.View;
 import android.widget.TextView;
 
-public class NewCategoryActivity extends AppCompatActivity {
+public class CategoryEditActivity extends AppCompatActivity {
 
     private TextView categoryTextView;
     public static final String CATEGORY_NAME_EXTRA = "NAME_EXTRA";
@@ -15,7 +15,7 @@ public class NewCategoryActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_new_category);
+        setContentView(R.layout.activity_category_edit);
         categoryTextView = findViewById(R.id.editText);
     }
 

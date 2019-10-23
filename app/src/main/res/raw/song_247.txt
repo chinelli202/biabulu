@@ -1,26 +1,29 @@
-<h>247. NGO'O MBAMBA MEVAK</h>
+<h>247. NGO'O MBAMBA MEVAK !</h>
+<br> </br>
 <t>Tune : It may be at morn</t>
 <v>1</v>
 		Ngo'o mbamba mevak
-		Môse Krist a ye bulan
-		Nge tyé nge alu, abui bôt d'aye sulan
-		Eyoñ a ye so a étôtok a duma
-		A zu nyoñe ba be n'émbé
-<cl1>Ntaa Vé, ntaa Vé, A Tat, A Tat</cl1>
-<c>Akekui b' aye yia</c>
-<c>Krist a soya, Alleluia</c>
+		Môse Krist A ye bulan
+		Nge tyé nge alu, abui bôt d'aye sulan.
+		Eyoñ A ye so a étôtok a duma
+		A zu nyoñe ba be n'émbé.
+<br> </br>
+<c>Ntaa Vé, ntaa Vé, A Tat, A Tat.</c>
+<c>Akekui b'aye yia</c>
+<c>Krist A soya, Alleluia.</c>
 <c>Alleluia, Amen</c>
-<c>Alleluia, Amen</c>
+<c>Alleluia, Amen.</c>
 <v>2</v>
-		Emien a ye sis
-		Beta tyiñ a ye kobô
-		A si nyô ése j'aye wô'ô toñe Zambe
-		Miñwuan mi ne Krist été mi aye fe wômô
-		Môs a nyoñe ba be n'émbé
+		Emien A ye sis,
+		Beta tyiñ a ye kobô,
+		A si nyô ése j'aye wô'ô toñe Zambe.
+		Miñwuan mi ne Krist été mi aye fe wômô,
+		Môs A nyoñe ba be n'émbé.
 <v>3</v>
-		Ngo'o mbamba mevak
-		Nge a so nté bi ayange
-		Bi bo te ke wu, te ke soñ, te ke jamban
+		Ngo'o mbamba mevak,
+		Nge A so nté bi ayange.
+		Bi bo te ke wu, te ke soñ, te ke jamban.
 		Ve tôbane Nye ñyem été a Hozana
-		Môs a nyoñe ba be n'émbé
-<a>L.J.M</a>
+		Môs a nyoñe ba be n'émbé.
+<br> </br>
+<a>Lylian J. Moore</a>

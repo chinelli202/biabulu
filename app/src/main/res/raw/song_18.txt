@@ -1,32 +1,35 @@
-<h>18. J'E NE NGUL YA TUNE MA ?</h>
+<h>18. J'É NE NGUL YA TUNE MA?</h>
+<br> </br>
 <t>Tune : Nothing but the Blood of Jesus. Basa 53 - Bfia 36</t>
 <v>1</v>
-		J'é ne ngul ya tune ma '?
+		J'é ne ngul ya tune ma ?
 		Yésus a nga ve metyi mé
-		Za jôm j' aye bo ma mvo'é?
-		Yésus a ngn ve metyi mé
-<cl1>Ya Yésus a nga wu</cl1>
+		Za jôm j'aye bo ma mvo'é?
+		Yésus a nga ve metyi mé
+<br> </br>
+<c>Ya Yésus a nga wu</c>
 <c>A tu' a tañe ma</c>
-<c>M' ayeme jôm éfe</c>
+<c>M'ayeme jôm éfe</c>
 <c>Jésus a nga ve metyi mé</c>
 <v>2</v>
-		J'é j' asôpe nleme wom?
+		J'é j'asôpe nleme wom?
 		Yésus a nga ve metyi mé
-		J'é j' avaa me abé dam?
+		J'é j'avaa me abé dam?
 		Yésus a nga ve metyi mé
 <v>3</v>
-		J'é j' adañe si se nyô?
+		J'é j'adañe si se nyô?
 		Yésus a nga ve metyi mé
-		J'é j' awolô mam m' abo
+		J'é j'awolô mam m'abo
 		Yésus a nga metyi mé
 <v>4</v>
-		Jé j' ave ma nleme mvo'é?
+		Jé j'ave ma nleme mvo'é?
 		Yésus a nga ve metyi mé
-		Jé j' ave ma zôsô wom?
+		Jé j'ave ma zôsô wom?
 		Yésus a nga ve metyi mé
 <v>5</v>
-		Za jôm j' aye bete ma?
+		Za jôm j'aye bete ma?
 		Yésus a nga ve metyi mé
-		Za jôm j' aye kee ma mvôk?
+		Za jôm j'aye kee ma mvôk?
 		Yésus a nga ve metyi mé.
-<a>H.D. Salveter</a>
+<br> </br>
+<a>Rev. H.D. Salveter</a>

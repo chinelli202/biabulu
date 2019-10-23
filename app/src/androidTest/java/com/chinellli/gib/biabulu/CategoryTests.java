@@ -2,6 +2,7 @@ package com.chinellli.gib.biabulu;
 
 import android.arch.persistence.room.Room;
 import android.content.Context;
+import android.database.sqlite.SQLiteConstraintException;
 import android.support.test.InstrumentationRegistry;
 import android.support.test.runner.AndroidJUnit4;
 
@@ -43,13 +44,34 @@ public class CategoryTests {
         cat.setName("Jean Jacques");
         catDao.insert(cat);
         //load all categories, make sure only category in there has name == name
-        List<Category> list = catDao.findAll().getValue();
+        List<Category> list = catDao.findAllRaw();
 
         assertTrue(!list.isEmpty());
         Category category = list.get(0);
         assertEquals(category.getName(),cat.getName());
     }
 
+    @Test
+    public void testFailInsert(){
+        Category cat = new Category();
+        cat.setName("Jean Jacques");
+        catDao.insert(cat);
+        //load all categories, make sure only category in there has name == name
+        List<Category> list = catDao.findAllRaw();
+
+        assertTrue(!list.isEmpty());
+        Category category = list.get(0);
+        Category cat2 = new Category();
+        cat.setName("Jean Jacques");
+        long id = 0;
+        try{
+            id = catDao.insertReturn(cat2);
+        }
+        catch(SQLiteConstraintException exception){
+            System.out.println("insert failed with constraint exception");
+            assertEquals(id,0);
+        }
+    }
     @Test
     public void testUpdate(){
      //create, insert, load, update, load, test

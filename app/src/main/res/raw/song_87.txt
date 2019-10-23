@@ -1,25 +1,28 @@
-<h>87. YESUS NYII WOM M' AKAE NYE</h>
-<t>Tune : Loving Kindness. Basa 250 - Bfia 16</t>
+<h>87. YÉSUS NYII WOM M'AKAÑE NYE</h>
+<br> </br>
+<t>Tune : Loving Kindness. Basa 250 - Bafia 16</t>
 <v>1</v>
-		Yésus Nyii wom m'akañe nnye
-		A kate foé mvame jé
-		Bôt be ne ngul ya wumu nnye
-		A nga zu nyii besiñe bé
-<cl1>Mvame fo'o le, mvame fo'o le</cl1>
+		Yésus Nyii wom m'akañe Nye,
+		A kate foé mvame jé,
+		Bôt be ne ngul ya wumu Nye,
+		A nga zu nyii besiñe bé.
+<br> </br>
+<c>Mvame fo'o le, mvame fo'o le,</c>
 <c>M'akañe beta mvame wé</c>
 <v>2</v>
-		Me mbe ndiman a mam abé
-		Ve nnye te bene môte wé
-		Emien ve wu étome jam
-		Mi lô abime mvame dé
+		Me mbe ndiman a mam abé,
+		Ve Nnye te bene môte wé,
+		Emien ve wu étome jam,
+		Mi lô abime mvame dé.
 <v>3</v>
-		Satan a ngen a siñe' ma
-		A dutu ma me bo abé
-		Ve yésus a ne ma fefe
-		A volô ma a mvame jé
+		Satan a ngen' a siñe' ma,
+		A dutu ma me bo abé,
+		Ve yésus a ne ma fefel,
+		A volô ma a mvame jé.
 <v>4</v>
-		Akiti m'aye kôlô va
-		Ve tulan a ke awu yat
-		A kôsa bo éyoñ éte
-		Ve buni nnye a mvame jé
-<a>A.C.G.</a>
+		Akiti m'aye kôlô va,
+		Ve tulan a ke awu yat,
+		A kôsa bo éyoñ éte,
+		Ve buni Nye a mvame jé.
+<br> </br>
+<a>Rev. Adolphe Clément Good</a>

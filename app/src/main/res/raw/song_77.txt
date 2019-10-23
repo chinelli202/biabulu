@@ -1,23 +1,25 @@
 <h>77. AKÔSA BO ÔKÔS VI AVUÑ</h>
-<t>Tune : From every stormy wind that blows. Basa 245 - Bfia 143</t>
+<br> </br>
+<t>Tune : From every stormy wind that blows. Basa 245 - Bafia 143</t>
 <v>1</v>
-		Akôsa bo ôkôs vi avuñ
+		Akôsa bo ôkôs vi avuñ,
 		A ndôn ya njuk j'akui ma nlem
-		M'ayene mvaé, a mate njuk
-		Vôm m'ake ye'elane Zambe
+		M'ayene mvaé, a mate njuk.
+		Vôm m'ake ye'elane Zambe.
 <v>2</v>
 		Yésus a ve ma vôm ate
-		Mevak a mvo'é nlem été
+		Mevak a mvo'é nlem été,
 		Ye vôme mfe a ne fe mvaé ?
-		Vôm m'ake ye'elane Zambe
+		Vôm m'ake ye'elane Zambe.
 <v>3</v>
-		Minlem mi afulan vôm ate
-		A mvôé ba mvôé b'alate ngbwa
-		Minlem mise avale da
-		Amu bi aye'elane Zambe
+		Minlem mi afulan vôm ate,
+		A mvôé ba mvôé b'alate ngbwa,
+		Minlem mise avale da,
+		Amu bi aye'elane Zambe.
 <v>4</v>
-		Minlem mi abet'e yôp été
-		Si nyô te beta dutu ngu
-		A yôp ébien d'abo bebé
-		Eyôñ bi aye'elane Zambe
-<a>A.I.G</a>
+		Minlem mi abet'e yôp été,
+		Si nyô te beta dutu ngu;
+		A yôp ébien d'abo bebé,
+		Eyôñ bi aye'elane Zambe.
+<br> </br>
+<a>Rev. Albert Irwin Good</a>

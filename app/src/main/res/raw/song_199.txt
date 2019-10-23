@@ -1,22 +1,25 @@
-<h>199. TAT' A NGA TE ANON YA YÔP</h>
+<h>199. TAT' A NGA TÉ ANON YA YÔP</h>
+<br> </br>
 <t>Tune : He loves me too. Basa 297</t>
 <v>1</v>
-		Tat' a nga té anon ya yôp
-		A ba'ale fe de mvo'é
-		Nge Zambe a nye'e ayôm anon
-		Wôna a nye'e fe ma
-<cl1>A nye'e fe ma, a nye'e fe ma</cl1>
-<c>A ba'ale fe ma mvo'é</c>
-<c>Amu a nye'e ayôme biôm</c>
-<c>A nye'e fe mone wé</c>
+		Tat' A nga té anon ya yôp.
+		A ba'ale fe de mvo'é;
+		Nge Zambe a nye'e ayôm anon,
+		Wôna A nye'e fe ma.
+<br> </br>
+<c>A nye'e fe ma, A nye'e fe ma,</c>
+<c>A ba'ale fe ma mvo'é;</c>
+<c>Amu a nye'e ayôme biôm,</c>
+<c>A nye'e fe mone Wé.</c>
 <v>2</v>
-		Tat' a nga té abeñe sam
-		A ve de mba ényum
-		Nge Zambe a nye'e ayôme sam
-		Wôna a nye'e fe ma
+		Tat' a nga té abeñe sam,
+		A ve de mba ényum;
+		Nge Zambe A nye'e ayôme sam
+		Wôna a nye'e fe ma.
 <v>3</v>
-		Tat' a nga té anon a sam
-		A biôm bise bi too
-		A vo'o ke ben ayôme bon
-		Ve nye'e fe be bese
-<a>Mrs A.I.G</a>
+		Tat' A nga té anon a sam,
+		A biôm bise bi too;
+		A vo'o ke ben ayôme bon,
+		Ve nye'e fe be bese.
+<br> </br>
+<a>Mrs Albert Irwin Good</a>
