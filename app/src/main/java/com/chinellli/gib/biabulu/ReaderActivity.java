@@ -22,7 +22,7 @@ import com.chinellli.gib.biabulu.entities.ListedSong;
 
 import java.util.List;
 
-public class ReaderActivity extends FragmentActivity implements AddToCategoryDialogFragment.NoticeDialogListener{
+public class ReaderActivity extends FragmentActivity implements SongActionListener, SimpleNotifier{
 
     private static final int numSongs = 300;
     public static final String GROUP_NAME = "GROUP_NAME";
@@ -76,7 +76,7 @@ public class ReaderActivity extends FragmentActivity implements AddToCategoryDia
             @Override
             public boolean onMenuItemClick(MenuItem menuItem) {
                 //invoke categories dialog fragment
-                int position = pager.getCurrentItem();
+                int position = pager.getCurrentItem() + 1;
                 Bundle bundle = new Bundle();
                 bundle.putInt(AddToCategoryDialogFragment.SONG_NUMBER_KEY,position);
                 AddToCategoryDialogFragment addToCategoryDialogFragment = new AddToCategoryDialogFragment();
@@ -89,15 +89,39 @@ public class ReaderActivity extends FragmentActivity implements AddToCategoryDia
     }
 
     @Override
-    public void OnCategorySelected(DialogFragment fragment, Category category) {
-        ListedSong song = new ListedSong(pager.getCurrentItem(),category);
-        categoryViewModel.insertListedSong(song, this.getApplicationContext());
-        Toast.makeText(this.getApplicationContext(),"Ajouté à "+category.getName(),Toast.LENGTH_SHORT);
+    public void removeSongFromCategory(int songNumber, int catId) {
+
     }
 
     @Override
-    public void OnCategoryCreated(DialogFragment fragment, Category category) {
+    public void addSongToCategory(int songNumber, int catId) {
+        groupViewModel.addSongToCategory(songNumber, catId, this);
+    }
 
+    @Override
+    public void addSongToNewCategory(int songNumber, String catName) {
+        //if catName is null, launch dialog for creating new category
+        if(catName == null){
+            CategoryEditDialogFragment categoryEditDialogFragment = new CategoryEditDialogFragment();
+            //categoryEditDialogFragment.setTargetFragment(GroupFragment.this,GroupFragment.NEW_CATEGORY_REQUEST);
+            //Data
+            Bundle bundle = new Bundle();
+            bundle.putInt( AddToCategoryDialogFragment.SONG_NUMBER_KEY,songNumber);
+            bundle.putInt( CategoryEditDialogFragment.CATEGORY_REQUEST_KEY,CategoryEditDialogFragment.CREATE_CATEGORY_REQUEST_CODE);
+            categoryEditDialogFragment.setArguments(bundle);
+            //Dialog display
+            categoryEditDialogFragment.show(getSupportFragmentManager(),"newCat");
+        }
+        else {
+            if(songNumber == 0)
+                songNumber = pager.getCurrentItem() + 1;
+            groupViewModel.addSongToNewCategory(songNumber, catName, this);
+        }
+    }
+
+    @Override
+    public void notify(String message) {
+        Toast.makeText(this,message,Toast.LENGTH_SHORT).show();
     }
 
     private class SongsPagerAdapter extends FragmentStatePagerAdapter {

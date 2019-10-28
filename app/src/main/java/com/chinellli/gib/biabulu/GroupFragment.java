@@ -131,7 +131,7 @@ public class GroupFragment extends Fragment implements SongActionListener, Categ
 
     //params : category, ListedSong
     @Override
-    public void removeSongFromCategory(int position){
+    public void removeSongFromCategory(int position, int catId){
         //Confirm dialog
         AlertDialog dialog = new AlertDialog.Builder(getActivity()).create();
         dialog.setTitle("Confirmation");
@@ -155,7 +155,7 @@ public class GroupFragment extends Fragment implements SongActionListener, Categ
 
     }
     @Override
-    public void addSongToCategory(int songNumber) {
+    public void addSongToCategory(int songNumber, int catId) {
         Bundle bundle = new Bundle();
         bundle.putInt(AddToCategoryDialogFragment.SONG_NUMBER_KEY,songNumber);
         AddToCategoryDialogFragment addToCategoryDialogFragment = new AddToCategoryDialogFragment();
@@ -165,6 +165,12 @@ public class GroupFragment extends Fragment implements SongActionListener, Categ
         //mViewModel.addSongToCategory(songNumber);
         //load avalaible categories dialog
     }
+
+    @Override
+    public void addSongToNewCategory(int songNumber, String catName) {
+
+    }
+
     //
     public void addSongToNewCategory(int songNumber){
 

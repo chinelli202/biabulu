@@ -53,7 +53,7 @@ public class GroupListAdapter extends ArrayAdapter<String> {
         button.setBackgroundResource(R.drawable.ic_remove_circle_outline_black_24dp);
         button.setOnClickListener(view -> {
             //pass delete event
-            ((SongActionListener)getContext()).removeSongFromCategory((int)button.getTag());
+            ((SongActionListener)getContext()).removeSongFromCategory((int)button.getTag(), 0);
         });
     }
 
@@ -66,7 +66,7 @@ public class GroupListAdapter extends ArrayAdapter<String> {
             String title = getItem(position);
             String tokens[] = title.split("[.]");
             int songNumber = Integer.valueOf(tokens[0]);
-            ((SongActionListener)getContext()).addSongToCategory(songNumber);
+            ((SongActionListener)getContext()).addSongToCategory(songNumber, 0);
         });
     }
 

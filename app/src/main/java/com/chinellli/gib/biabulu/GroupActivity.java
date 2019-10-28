@@ -143,13 +143,18 @@ public class GroupActivity extends AppCompatActivity implements OnSearchViewActi
     }
 
     @Override
-    public void removeSongFromCategory(int songNumber) {
-        scfragment.removeSongFromCategory(songNumber);
+    public void removeSongFromCategory(int songNumber, int catId) {
+        scfragment.removeSongFromCategory(songNumber, catId);
     }
 
     @Override
-    public void addSongToCategory(int songNumber) {
-        scfragment.addSongToCategory(songNumber);
+    public void addSongToCategory(int songNumber, int catId) {
+        scfragment.addSongToCategory(songNumber, catId);
+    }
+
+    @Override
+    public void addSongToNewCategory(int songNumber, String catId) {
+
     }
 
     @Override

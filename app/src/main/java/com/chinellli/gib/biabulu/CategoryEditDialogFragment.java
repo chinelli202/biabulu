@@ -32,7 +32,8 @@ public class CategoryEditDialogFragment extends DialogFragment {
     private String actionButtonText;
     private int requestCode;
     EditText editText;
-    private CategoryActionListener listener;
+    private CategoryActionListener categoryActionListener;
+    private SongActionListener songActionListener;
 
     @Override
     public Dialog onCreateDialog(Bundle savedInstanceState) {
@@ -48,35 +49,41 @@ public class CategoryEditDialogFragment extends DialogFragment {
                 .setView(view)
                 .setPositiveButton(actionButtonText, new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int id) {
-                        if(listener == null){
-                            //return data to be managed by the onActivityResult method
-                            //draft
+                        String categoryName = editText.getText().toString();
 
 
-                            //Data : songNumber, inputText, request type
-                            Intent intent = new Intent();
-
-                            int songNumber = getArguments().getInt(AddToCategoryDialogFragment.SONG_NUMBER_KEY);
-                            String categoryName = editText.getText().toString();
-
-
-                            intent.putExtra(AddToCategoryDialogFragment.SONG_NUMBER_KEY,songNumber);
-                            intent.putExtra(GroupFragment.NEW_CATEGORY_NAME_KEY,categoryName);
-
-                            getTargetFragment().onActivityResult(GroupFragment.NEW_CATEGORY_REQUEST, RESULT_OK, intent);
+                        if(songActionListener != null){
+                            songActionListener.addSongToNewCategory(0,categoryName);
                             dismiss();
                         }
-                        else{
+                        if(categoryActionListener != null){
                             if(requestCode == CREATE_CATEGORY_REQUEST_CODE)
-                                listener.createAction(editText.getText().toString());//((CategoryActionListener)getActivity()).createAction(editText.getText().toString());
+                                categoryActionListener.createAction(editText.getText().toString());//((CategoryActionListener)getActivity()).createAction(editText.getText().toString());
                             else{
                                 int position = (int)getArguments().get(CategoryEditDialogFragment.UPDATE_CATEGORY_POSITION_KEY);
-                                listener.updateAction(position,editText.getText().toString());//((CategoryActionListener)getActivity()).updateAction(position,editText.getText().toString());
+                                categoryActionListener.updateAction(position,editText.getText().toString());//((CategoryActionListener)getActivity()).updateAction(position,editText.getText().toString());
+                            }
+                        }
+                        if(getTargetFragment()!=null){
+                            if(categoryActionListener == null) {
+                                //return data to be managed by the onActivityResult method
+                                //draft
+
+
+                                //Data : songNumber, inputText, request type
+                                Intent intent = new Intent();
+
+                                int songNumber = getArguments().getInt(AddToCategoryDialogFragment.SONG_NUMBER_KEY);
+
+
+                                intent.putExtra(AddToCategoryDialogFragment.SONG_NUMBER_KEY, songNumber);
+                                intent.putExtra(GroupFragment.NEW_CATEGORY_NAME_KEY, categoryName);
+
+                                getTargetFragment().onActivityResult(GroupFragment.NEW_CATEGORY_REQUEST, RESULT_OK, intent);
+                                dismiss();
                             }
                         }
 
-                        //((CategoryActionListener)CategoryEditDialogFragment.this.getContext()).createAction(editText.getText().toString());
-                        //onActivityResult(CREATE_CATEGORY_REQUEST_CODE, RESULT_OK, intent);
                     }
                 })
                 .setNegativeButton(R.string.cancel_category_crud_button, new DialogInterface.OnClickListener() {
@@ -109,11 +116,17 @@ public class CategoryEditDialogFragment extends DialogFragment {
     public void onAttach(Context context){
         super.onAttach(context);
         try{
-            listener = (CategoryActionListener) context;
+            categoryActionListener = (CategoryActionListener) context;
         }
         catch (ClassCastException e){
            // throw new ClassCastException(context.toString() + "must implement CategoryActionListener");
             System.out.println("not implementing CategoryActionListener");
+        }
+        try{
+            songActionListener = (SongActionListener)context;
+        }
+        catch (ClassCastException e){
+            System.out.println("not implementing SongActionListener");
         }
     }
 }

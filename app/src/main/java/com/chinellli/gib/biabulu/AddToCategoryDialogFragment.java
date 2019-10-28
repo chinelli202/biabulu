@@ -3,7 +3,7 @@ package com.chinellli.gib.biabulu;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.arch.lifecycle.ViewModelProviders;
-import android.content.DialogInterface;
+import android.content.Context;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -13,9 +13,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.ListView;
-
 import com.chinellli.gib.biabulu.entities.Category;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -25,12 +23,8 @@ import static android.app.Activity.RESULT_OK;
 public class AddToCategoryDialogFragment extends DialogFragment {
     public static final String SONG_NUMBER_KEY = "SONG_NUMBER";
     public static final String SELECTED_CATEGORY_ID = "CategoryId";
-    public interface NoticeDialogListener{
-        public void OnCategorySelected(DialogFragment fragment, Category category);
-        public void OnCategoryCreated(DialogFragment fragment, Category category);
-    }
 
-    private NoticeDialogListener listener;
+    private SongActionListener listener;
 CategoryViewModel categoryViewModel;
 CategoryLoadAdapter loadAdapter;
     @Override
@@ -82,9 +76,19 @@ CategoryLoadAdapter loadAdapter;
                 Category category = loadAdapter.getItem(i);
                 Intent intent = new Intent();
                 int songNumber = getArguments().getInt(SONG_NUMBER_KEY);
-                intent.putExtra(AddToCategoryDialogFragment.SELECTED_CATEGORY_ID,category.getId());
-                intent.putExtra(AddToCategoryDialogFragment.SONG_NUMBER_KEY,songNumber);
-                getTargetFragment().onActivityResult(GroupFragment.AVAILABLE_CATEGORIES_REQUEST, RESULT_OK, intent);
+
+                if(getTargetFragment() ==null){
+                    if(listener != null){
+                        listener.addSongToCategory(songNumber,category.getId());
+                    }
+                    else
+                        dismiss();
+                }
+                else{
+                    intent.putExtra(AddToCategoryDialogFragment.SELECTED_CATEGORY_ID,category.getId());
+                    intent.putExtra(AddToCategoryDialogFragment.SONG_NUMBER_KEY,songNumber);
+                    getTargetFragment().onActivityResult(GroupFragment.AVAILABLE_CATEGORIES_REQUEST, RESULT_OK, intent);
+                }
                 dismiss();
             }
         });
@@ -106,19 +110,29 @@ CategoryLoadAdapter loadAdapter;
         int songNumber = getArguments().getInt(SONG_NUMBER_KEY);
         Intent intent = new Intent();
         intent.putExtra(AddToCategoryDialogFragment.SONG_NUMBER_KEY,songNumber);
-        //getTargetFragment().onActivityResult(GroupFragment.AVAILABLE_CATEGORIES_REQUEST, RESULT_CANCELED, intent);
-        getTargetFragment().onActivityResult(GroupFragment.AVAILABLE_CATEGORIES_REQUEST, RESULT_CANCELED, intent);
-        this.dismiss();
+
+        if(getTargetFragment() == null)
+            if(listener != null){
+                listener.addSongToNewCategory(songNumber,null);
+                dismiss();
+            }
+            else
+                dismiss();
+        else{
+            //getTargetFragment().onActivityResult(GroupFragment.AVAILABLE_CATEGORIES_REQUEST, RESULT_CANCELED, intent);
+            getTargetFragment().onActivityResult(GroupFragment.AVAILABLE_CATEGORIES_REQUEST, RESULT_CANCELED, intent);
+            this.dismiss();
+        }
     }
 
-    /*@Override
+
     public void onAttach(Context context){
         super.onAttach(context);
         try{
-            listener = (NoticeDialogListener)context;
+            listener = (SongActionListener) context;
         }
         catch (ClassCastException e){
-            throw new ClassCastException(context.toString() + "must implememt NoticeDialogListener");
+            System.out.println( " doesn't implement category operations, will send notifications to fragment ");
         }
-    }*/
+    }
 }
