@@ -67,8 +67,6 @@ public class ReaderActivity extends FragmentActivity implements SongActionListen
             }
         }.execute(groupCategory);
 
-
-
         Menu menu = toolbar.getMenu();
 
         MenuItem cats = menu.findItem(R.id.add_to_playlist);
@@ -76,7 +74,10 @@ public class ReaderActivity extends FragmentActivity implements SongActionListen
             @Override
             public boolean onMenuItemClick(MenuItem menuItem) {
                 //invoke categories dialog fragment
-                int position = pager.getCurrentItem() + 1;
+                int position = pager.getCurrentItem();
+                String songTitle = songList.get(position);
+                String tokens[] = songTitle.split("[.]");
+                position = Integer.valueOf(tokens[0]);
                 Bundle bundle = new Bundle();
                 bundle.putInt(AddToCategoryDialogFragment.SONG_NUMBER_KEY,position);
                 AddToCategoryDialogFragment addToCategoryDialogFragment = new AddToCategoryDialogFragment();
