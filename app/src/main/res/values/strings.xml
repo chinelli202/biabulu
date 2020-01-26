@@ -22,4 +22,13 @@
     <string name="cancel_category_crud_button">Annuler</string>
     <string name="add_new_category_button_text">Nouvelle Playlist</string>
     <string name="no_category_text">Aucune categorie</string>
+    <string name="song_added_to_list_alert_message">Ajouté à : </string>
+
+    <!--categories crud operations (create, update, delete)-->
+    <string name="category_created_alert_message">Catégorie créée</string>
+    <string name="category_deleted_alert_message">Catégorie supprimée</string>
+    <string name="category_updated_alert_message">Modifications enregistrées</string>
+    <string name="existing_category_conflict_alert_message">Une catégorie du même nom existe déjà</string>
+
+
 </resources>

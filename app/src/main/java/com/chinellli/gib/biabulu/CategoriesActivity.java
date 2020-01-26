@@ -41,11 +41,11 @@ public class CategoriesActivity extends AppCompatActivity implements CategoryAct
 
         categoryViewModel = ViewModelProviders.of(this).get(CategoryViewModel.class);
         List<Category> catList = categoryViewModel.findAllCategories().getValue();
-        if(catList == null)
-            catList = new ArrayList<>();
+        /*if(catList == null)
+            catList = new ArrayList<>();*/
         //listAdapter
-        categoryAdapter = new CategoryListAdapter(this,catList);
-        categoryAdapter.setCategoryViewModel(categoryViewModel);
+        categoryAdapter = new CategoryListAdapter(this,new ArrayList<>());
+        //categoryAdapter.setCategoryViewModel(categoryViewModel);
         categoryListView.setAdapter(categoryAdapter);
         categoryViewModel.findAllCategories().observe(this, new Observer<List<Category>>() {
             @Override
@@ -61,10 +61,11 @@ public class CategoriesActivity extends AppCompatActivity implements CategoryAct
                     categoryAdapter.addAll(categories);
                     categoryAdapter.notifyDataSetChanged();
                 }
+
             }
         });
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        FloatingActionButton fab = findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -81,6 +82,7 @@ public class CategoriesActivity extends AppCompatActivity implements CategoryAct
                       //  .setAction("Action", null).show();
             }
         });
+        fab.setBackgroundColor(getColor(R.color.colorPrimary));
         categoryListView.setOnItemClickListener((adapterView, view, i, l) -> {
             int id = categoryAdapter.getItem(i).getId();
             //open songPage activity passing the id as a parameter

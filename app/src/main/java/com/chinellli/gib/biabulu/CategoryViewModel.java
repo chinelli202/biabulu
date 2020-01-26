@@ -15,11 +15,11 @@ import java.util.List;
 public class CategoryViewModel extends AndroidViewModel {
 
     private SongRepository songRepository;
-    private LiveData<List<Category>> categoryList;
+    //private LiveData<List<Category>> categoryList;
     public CategoryViewModel(Application application){
         super(application);
         songRepository = new SongRepository(application);
-        categoryList = songRepository.findAllCategories();
+        //categoryList = songRepository.findAllCategories();
     }
 
     public void insertCategory(Category category){
@@ -39,7 +39,7 @@ public class CategoryViewModel extends AndroidViewModel {
 
     public List<Category> findMatchingCategory(int num){return songRepository.findAllCategoriesWithoutSong(num);}
     public LiveData<List<Category>> findAllCategories(){
-        return categoryList;//songRepository.findAllCategories();
+        return songRepository.findAllCategories();//categoryList;
     }
     public void insertListedSong(ListedSong listedSong, Context context){songRepository.insertListedSong(listedSong, context);}
 }

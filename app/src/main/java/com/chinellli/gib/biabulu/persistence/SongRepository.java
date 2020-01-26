@@ -8,6 +8,7 @@ import android.database.sqlite.SQLiteConstraintException;
 import android.os.AsyncTask;
 
 import com.chinellli.gib.biabulu.CategoryActionListener;
+import com.chinellli.gib.biabulu.R;
 import com.chinellli.gib.biabulu.SimpleNotifier;
 import com.chinellli.gib.biabulu.dao.CategoryDao;
 import com.chinellli.gib.biabulu.dao.ListedSongDao;
@@ -229,10 +230,12 @@ public class SongRepository {
                 int id = (int)categoryDao.insertReturn(listedSongs[0].getCategory());
                 listedSongs[0].setCatId(id);
                 listedSongDao.insertWithFail(listedSongs[0]);
-                message = "chanson correctement ajoutee a : "+ listedSongs[0].getCategory().getName();
+                //message = "chanson correctement ajoutee a : "+ listedSongs[0].getCategory().getName();
+                message = context.getString(R.string.song_added_to_list_alert_message)+ listedSongs[0].getCategory().getName();
             }
             catch (SQLiteConstraintException e){
-                message = "Une categorie du meme nom existe deja";
+                //message = "Une categorie du meme nom existe deja";
+                message = context.getString(R.string.existing_category_conflict_alert_message);
             }
             return message;
         }
